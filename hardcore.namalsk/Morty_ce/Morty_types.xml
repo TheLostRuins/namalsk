@@ -1693,10 +1693,10 @@
         <value name="Tier3"/>
     </type>
 	<type name="TTC_DMR_RifleFrame">
-		<nominal>4</nominal>
+		<nominal>20</nominal>
 		<lifetime>7200</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
+		<min>10</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1707,10 +1707,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="TTC_DMR_Barrel_762">
-		<nominal>4</nominal>
+		<nominal>10</nominal>
 		<lifetime>7200</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
+		<min>5</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1721,10 +1721,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="TTC_DMR_Barrel_556">
-		<nominal>4</nominal>
+		<nominal>10</nominal>
 		<lifetime>7200</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
+		<min>5</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2659,10 +2659,10 @@
         <usage name="Military"/>
     </type>
     <type name="TTC_Coupled_FAL_Magazine">
-        <nominal>4</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>10</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -3642,10 +3642,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="TTC_TAVOR_DMR">
-		<nominal>2</nominal>
+		<nominal>5</nominal>
 		<lifetime>10800</lifetime>
 		<restock>7200</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3659,7 +3659,7 @@
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -3670,10 +3670,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TTC_TAVOR_Magazine_60rnd">
-        <nominal>2</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -4278,10 +4278,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TTC_DMR_762Stanag_40rnd">
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>14400</restock>
-        <min>1</min>
+        <min>5</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
