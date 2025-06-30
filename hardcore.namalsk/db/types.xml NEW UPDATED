@@ -2411,7 +2411,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier45" />
+    <value user="Tier345" />
     <category name="weapons" />
     <tag name="military" />
   </type>
@@ -12252,9 +12252,9 @@
     <value />
     <category name="clothes" />
     <tag name="military" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value user="Tier2" />
+	<value user="Tier3" />
+	<value user="Tier4" />
   </type>
   <type name="NVGHeadstrap">
     <nominal>20</nominal>
@@ -12269,10 +12269,10 @@
     <value />
     <category name="clothes" />
     <tag name="military" />
-    <value name="Tier1" />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value name="Tier4" />
+    <value user="Tier1" />
+    <value user="Tier2" />
+	<value user="Tier3" />
+	<value user="Tier4" />
   </type>
   <type name="NVGoggles">
     <nominal>20</nominal>
@@ -12284,12 +12284,12 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value name="Tier2" />
-    <value name="Tier3" />
-    <value user="Tier4" />
-    <value user="Tier5" />
     <category name="tools" />
     <tag name="military" />
+    <value user="Tier2" />
+	<value user="Tier3" />
+    <value user="Tier4" />
+    <value user="Tier5" />
   </type>
   <type name="NBCHoodGray">
     <nominal>3</nominal>
@@ -18736,6 +18736,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <tag name="civilian" />
 		<tag name="industrial" />
 		<tag name="farm" />
+        <tag name="military" />
 		<value user="Tier1"/>
         <value user="Tier2"/>		
     </type>
@@ -18753,6 +18754,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <tag name="civilian" />
 		<tag name="industrial" />
 		<tag name="farm" />
+        <tag name="military" />
 		<value user="Tier1"/>
         <value user="Tier2"/>		
     </type>
@@ -19552,6 +19554,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_camo">
         <nominal>5</nominal>
@@ -19567,6 +19570,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_Digitan">
         <nominal>5</nominal>
@@ -19582,6 +19586,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_Tan">
         <nominal>5</nominal>
@@ -19597,6 +19602,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Stanag_100rnd_UPC">
         <nominal>5</nominal>
@@ -19612,6 +19618,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd">
         <nominal>5</nominal>
@@ -19627,6 +19634,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd_camo">
         <nominal>5</nominal>
@@ -19642,6 +19650,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd_Digitan">
         <nominal>5</nominal>
@@ -19657,6 +19666,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd_Tan">
         <nominal>5</nominal>
@@ -19672,6 +19682,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_30rnd_UPC">
         <nominal>5</nominal>
@@ -19687,6 +19698,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_40rnd">
         <nominal>5</nominal>
@@ -19702,6 +19714,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_40rnd_camo">
         <nominal>5</nominal>
@@ -19717,6 +19730,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_40rnd_Digitan">
         <nominal>5</nominal>
@@ -19732,6 +19746,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_40rnd_Tan">
         <nominal>5</nominal>
@@ -19747,6 +19762,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_40rnd_UPC">
         <nominal>5</nominal>
@@ -19777,6 +19793,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_100rnd_camo">
         <nominal>5</nominal>
@@ -19792,6 +19809,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_100rnd_Digitan">
         <nominal>5</nominal>
@@ -19807,6 +19825,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_100rnd_Tan">
         <nominal>5</nominal>
@@ -19822,6 +19841,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_556Pmag_100rnd_UPC">
         <nominal>5</nominal>
@@ -19837,6 +19857,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_20rnd">
         <nominal>5</nominal>
@@ -19852,6 +19873,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_20rnd_camo">
         <nominal>5</nominal>
@@ -19867,6 +19889,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_20rnd_Digitan">
         <nominal>5</nominal>
@@ -19882,6 +19905,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_20rnd_Tan">
         <nominal>5</nominal>
@@ -19897,6 +19921,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_20rnd_UPC">
         <nominal>5</nominal>
@@ -19912,6 +19937,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_10rnd">
         <nominal>5</nominal>
@@ -19927,6 +19953,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier2"/>
 		<value user="Tier3"/>
 		<value user="Tier4"/>
+        <value user="Tier5"/>
     </type>
     <type name="TTC_DMR_762Stanag_10rnd_camo">
         <nominal>5</nominal>
@@ -20043,7 +20070,6 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <tag name="shelves"/>
         <tag name="military" />
 		<value user="Tier2"/>
 		<value user="Tier3"/>
