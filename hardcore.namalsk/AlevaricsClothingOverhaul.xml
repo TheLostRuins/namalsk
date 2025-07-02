@@ -1,6 +1,3 @@
-<!-- still cahnging nominals and min -- also need to put tags in each item as well -->
-
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
@@ -207,14 +204,17 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_DuffleBag_Grey">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_HipsterBag_Blue">
         <nominal>0</nominal>
@@ -227,24 +227,32 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_HipsterBag_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_HipsterBag_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_MilitaryBag_Tan">
         <nominal>0</nominal>
@@ -257,14 +265,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_MilitaryBag_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="military" />
     </type>
 <!--Belts-->
     <type name="ALV_MechanicBelt_Leather">
@@ -559,14 +569,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_AssaultHelmet_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="military" />
     </type>
     <type name="ALV_WW2Helmet_Classic">
         <nominal>0</nominal>
@@ -621,54 +633,74 @@
     </type>
 <!-- Coats -->
     <type name="ALV_Parka_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Parka_Olive">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Parka_Blue">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Parka_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Parka_Beige">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_WinterJacket_Grey">
         <nominal>0</nominal>
@@ -731,54 +763,74 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_NauticJacket_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_NauticJacket_YellowBlue">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_NauticJacket_Yellow">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_NauticJacket_Orange">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_NauticJacket_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_NauticJacket_BluWhite">
         <nominal>0</nominal>
@@ -861,14 +913,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_SheriffJacket_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
     <type name="ALV_HuntingVest_Olive">
         <nominal>0</nominal>
@@ -911,64 +967,88 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PCUL5Coat_Grey">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PCUL5Coat_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PCUL5Coat_Tan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PCUL5Coat_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PCUL5Coat_ESP_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PCUL5Coat_Snow">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PatrolJacket_Green">
         <nominal>0</nominal>
@@ -1171,34 +1251,46 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_Duster_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Duster_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Duster_Red">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_ScavangerTop_MC">
         <nominal>0</nominal>
@@ -1442,44 +1534,60 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_G3Pants_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_Tan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_MC">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_Snow">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_HunterPants_Tan">
         <nominal>0</nominal>
@@ -1492,14 +1600,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_HunterPants_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_HunterPants_Camo">
         <nominal>0</nominal>
@@ -2105,24 +2217,32 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_TacticalHoodie_Tan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TacticalHoodie_Red">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TacticalHoodie_Olive">
         <nominal>0</nominal>
@@ -2145,24 +2265,32 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_TacticalHoodie_EMR">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TacticalHoodie_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_FlannelShirt_White">
         <nominal>0</nominal>
@@ -2195,24 +2323,32 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_FlannelShirt_Red">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_FlannelShirt_Blue">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_SheriffShirt_Plain">
         <nominal>0</nominal>
@@ -2225,14 +2361,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_SheriffShirt_Tan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Tshirt_Beige">
         <nominal>0</nominal>
@@ -2305,14 +2445,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_FleeceTop_Khaki">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_FleeceTop_CreBlue">
         <nominal>0</nominal>
@@ -2335,34 +2479,46 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_FleeceTop_BlaGrn">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_FleeceTop_OrgBlu">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_FleeceTop_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_MechanicTop_Grey">
         <nominal>0</nominal>
@@ -2395,14 +2551,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PulloverHoodie_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PulloverHoodie_BlackWhite">
         <nominal>0</nominal>
@@ -2415,14 +2575,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PulloverHoodie_Tan">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_PulloverHoodie_Yellow">
         <nominal>0</nominal>
@@ -2445,14 +2609,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PulloverHoodie_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_DressShirt_White">
         <nominal>0</nominal>
@@ -2957,34 +3125,46 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_Overcoat_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Overcoat_Camel">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_Overcoat_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_CanvasBag_Green">
         <nominal>0</nominal>
@@ -3007,11 +3187,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_CanvasBag_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -3129,34 +3309,46 @@
     </type>
 
     <type name="ALV_TurtleNeck_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TurtleNeck_Camel">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TurtleNeck_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
     </type>
     <type name="ALV_TurtleNeck_Orange">
         <nominal>0</nominal>
@@ -3170,14 +3362,18 @@
     </type>
 
     <type name="ALV_PoliceShirt_Blue">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
     <type name="ALV_PoliceShirt_Tan">
         <nominal>0</nominal>
@@ -3190,24 +3386,32 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PoliceShirt_Green">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
     <type name="ALV_PoliceShirt_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
     <type name="ALV_PoliceShirt_Black">
         <nominal>0</nominal>
@@ -3252,14 +3456,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PolicePants_Brown">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
     <type name="ALV_PolicePants_Tan">
         <nominal>0</nominal>
@@ -3272,14 +3480,18 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_PolicePants_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
     </type>
 
 <!--01/04/2025 UPDATE -->
