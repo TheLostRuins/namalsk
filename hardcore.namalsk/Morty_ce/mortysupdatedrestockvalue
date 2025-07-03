@@ -4203,7 +4203,7 @@
    <type name="TTC_AmmoBox_44Mag">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4215,7 +4215,7 @@
     <type name="TTC_Ammo_44Mag">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
@@ -4229,7 +4229,7 @@
     <type name="TTC_P320">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4243,7 +4243,7 @@
     <type name="TTC_P320_17Rnd">
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
@@ -4257,7 +4257,7 @@
     <type name="TTC_Pistol_Optic">
         <nominal>3</nominal>
         <lifetime>1800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4272,7 +4272,7 @@
     <type name="TTC_Mk47">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4287,7 +4287,7 @@
     <type name="TTC_M1A_Black">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4302,7 +4302,7 @@
     <type name="TTC_M1A_Green">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4317,7 +4317,7 @@
     <type name="TTC_M1A_Tan">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4332,7 +4332,7 @@
     <type name="TTC_M1A_Snow">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4347,7 +4347,7 @@
     <type name="TTC_VHS">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>3600</restock>
+        <restock>1800</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
