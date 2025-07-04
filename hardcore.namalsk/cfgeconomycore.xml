@@ -19,13 +19,46 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_dzn.xml" type="types" />
 	</ce>
 <!-- Morty Weapons -->
-<ce folder="Morty_ce">
-    <file name="Morty_types.xml" type="types" />
-    <file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
-</ce>
+  
+  <ce folder="Morty_ce">
+    <file name="Morty_types.xml" type="types" /> 
+    <file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" /> 
+</ce> 
+  
   <!-- GRW ER7 Gauss Rifle -->
-<ce folder="ER7_ce">
-    <file name="ER7_types.xml" type="types" />
+  
+  <ce folder="ER7_ce">
+    <file name="ER7_types.xml" type="types" /> 
     <file name="ER7_cfgspawnabletypes.xml" type="spawnabletypes" />
-</ce>
+</ce> 
+  
+  <!-- advanced weapon scopes -->
+  
+  <ce folder="AdvancedScopes_ce">
+    <file name="Advancedscopestypes.xml" type="types" />
+  </ce>
+  
+  <!-- my backpacks mod -->
+  
+  <ce folder="Mybackpacks_ce">
+    <file name="Mybackpackstypes.xml" type="types" />
+  </ce>
+  
+  <!-- Alevaric clothing mod -->
+  
+  <ce folder="Alevaric_ce">
+    <file name="Alevarictypes.xml" type="types" />
+  </ce>
+  
+  <!-- windstrides clothing mod -->
+  
+  <ce folder="Windstrides_ce">
+    <file name="Windstridestypes.xml" type="types" />
+  </ce>
+  
+  <!-- zen pen mod -->
+  
+  <ce folder="Zens_ce">
+    <file name="Zenspenstypes.xml" type="types" />
+  </ce>
 </economycore>
