@@ -1,95 +1,102 @@
- <!-- Windstride Clothing Pack - back up in case changes i make hit the shiter -->
-
+ <!-- Windstride Clothing Pack - use this for namalsk i made changes to tag and usage like mortys mod -->
+<types>
 <type name="Blue_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Latex_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Adidas_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Red_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Purple_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fleece_Grey_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Latex_White_Leggings">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="PMK_5A_Gas_Mask">
 <nominal>15</nominal>
@@ -101,10 +108,11 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Poncho_Red_Checkered">
 <nominal>5</nominal>
@@ -116,8 +124,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Blue_Checkered">
 <nominal>5</nominal>
@@ -129,21 +138,23 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Yellow_Checkered">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>3</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Brown">
 <nominal>5</nominal>
@@ -155,8 +166,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Green">
 <nominal>5</nominal>
@@ -168,21 +180,23 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_White">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>3</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Red">
 <nominal>5</nominal>
@@ -194,8 +208,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_Black">
 <nominal>5</nominal>
@@ -207,8 +222,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_BlackAndWhite">
 <nominal>5</nominal>
@@ -220,8 +236,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Poncho_BlackAndWhite2">
 <nominal>5</nominal>
@@ -233,78 +250,79 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fingerless_Gloves">
 <nominal>10</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fingerless_Gloves_Brown">
 <nominal>10</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fingerless_Gloves_Wool">
 <nominal>7</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fingerless_Gloves_Wool_Grey">
 <nominal>7</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Fingerless_Gloves_Wool_Black">
 <nominal>7</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Military_Sweater">
 <nominal>10</nominal>
@@ -316,11 +334,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Military_Sweater_Red">
 <nominal>10</nominal>
@@ -332,11 +351,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Military_Sweater_Blue">
 <nominal>10</nominal>
@@ -348,11 +368,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Military_Sweater_Green">
 <nominal>10</nominal>
@@ -364,11 +385,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Military_Sweater_Black">
 <nominal>10</nominal>
@@ -380,11 +402,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Military_Sweater_White">
 <nominal>10</nominal>
@@ -396,14 +419,15 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="High_Knee_Sneakers">
-<nominal>20</nominal>
+<nominal>15</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
 <min>5</min>
@@ -412,12 +436,12 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="High_Knee_Sneakers_Black">
-<nominal>20</nominal>
+<nominal>15</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
 <min>5</min>
@@ -426,68 +450,69 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shemagh_Brown">
 <nominal>20</nominal>
 <lifetime>7200</lifetime>
 <restock>0</restock>
-<min>3</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shemagh_Green">
 <nominal>20</nominal>
 <lifetime>7200</lifetime>
 <restock>0</restock>
-<min>3</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<usage name="Hunting"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shemagh_Red">
-<nominal>25</nominal>
+<nominal>15</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>20</min>
+<min>10</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shemagh_White">
-<nominal>25</nominal>
+<nominal>10</nominal>
 <lifetime>5600</lifetime>
 <restock>0</restock>
-<min>20</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shemagh_Black">
 <nominal>25</nominal>
@@ -499,74 +524,80 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Layered_Shirt_Base">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Layered_Shirt_White">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Layered_Shirt_Cheburashka">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Layered_Shirt_Courage">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Layered_Shirt_Lily">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Base">
 <nominal>10</nominal>
@@ -578,8 +609,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Black">
 <nominal>10</nominal>
@@ -591,8 +623,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_White">
 <nominal>10</nominal>
@@ -604,8 +637,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Red">
 <nominal>10</nominal>
@@ -617,8 +651,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Blue">
 <nominal>10</nominal>
@@ -630,8 +665,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Purple">
 <nominal>10</nominal>
@@ -643,8 +679,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Golden_Winged_Pin">
 <nominal>5</nominal>
@@ -656,8 +693,7 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
 </type>
 <type name="Button_Pin_Radioactive">
 <nominal>5</nominal>
@@ -669,8 +705,7 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
 </type>
 <type name="Button_Pin_Daisy">
 <nominal>5</nominal>
@@ -682,8 +717,7 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
 </type>
 <type name="Sheriff_Badge">
 <nominal>5</nominal>
@@ -695,8 +729,7 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
 </type>
 <type name="Ragged_Eyepatch">
 <nominal>0</nominal>
@@ -719,8 +752,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Kneepads_Jeans_Black">
 <nominal>10</nominal>
@@ -732,8 +766,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Winter_Parka_Base">
 <nominal>20</nominal>
@@ -744,10 +779,11 @@
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-<category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
+<category name="clothes" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Winter_Parka_White">
 <nominal>5</nominal>
@@ -758,10 +794,11 @@
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-<category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
+<category name="clothes" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Winter_Parka_Green">
 <nominal>20</nominal>
@@ -772,62 +809,63 @@
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-<category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
+<category name="clothes" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Medium_Sleeves_Shirt">
-<nominal>20</nominal>
+<nominal>0</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Medium_Sleeves_Shirt_Red">
-<nominal>20</nominal>
+<nominal>0</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Medium_Sleeves_Shirt_Blue">
-<nominal>20</nominal>
+<nominal>0</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="FlipFlops_Colorbase">
-<nominal>5</nominal>
+<nominal>0</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>2</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="HumanSkull">
 <nominal>0</nominal>
@@ -861,9 +899,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<usage name="Hunting"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Eyepatch">
 <nominal>5</nominal>
@@ -875,74 +914,73 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="tools"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<usage name="Coast"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="SK8_Sneakers_Black">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="SK8_Sneakers_FullBlack">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="SK8_Sneakers_Blue">
-<nominal>15</nominal>
+<nominal>10</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>5</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Round_Glasses">
-<nominal>15</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Round_Glasses_Black">
-<nominal>15</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Skinny_Jeans_Black">
 <nominal>15</nominal>
@@ -953,9 +991,11 @@
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-<category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<category name="clothes"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Skinny_Jeans_Blue">
 <nominal>15</nominal>
@@ -966,26 +1006,29 @@
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-<category name="containers"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<category name="clothes"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Tactical_Leg_Holster_Black">
 <nominal>10</nominal>
 <lifetime>7200</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>8</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Police"/>
-<usage name="Military"/>
-<value name="Tier1"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="police" />
+<tag name="military" />
+<tag name="hunting" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Scarf_Brown">
 <nominal>5</nominal>
@@ -997,11 +1040,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Scarf_ColorPalette1">
 <nominal>5</nominal>
@@ -1013,11 +1055,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Scarf_Blue">
 <nominal>5</nominal>
@@ -1029,11 +1070,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Wool_GreatCoat_Navy">
 <nominal>10</nominal>
@@ -1045,11 +1085,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Wool_GreatCoat_Olive">
 <nominal>10</nominal>
@@ -1061,11 +1100,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Wool_GreatCoat_Grey">
 <nominal>10</nominal>
@@ -1077,11 +1115,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Plague_Mask">
 <nominal>2</nominal>
@@ -1093,11 +1130,8 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="civilian" />
+<tag name="industrial" />
 </type>
 <type name="Leather_Cloak_down">
 <nominal>0</nominal>
@@ -1120,74 +1154,95 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<tag name="floor"/>
-<usage name="Military"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Defender_Vest_Classic">
 <nominal>5</nominal>
 <lifetime>14400</lifetime>
 <restock>0</restock>
-<min>1</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="police" />
+<tag name="civilian" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Defender_Vest_Black">
 <nominal>5</nominal>
 <lifetime>14400</lifetime>
 <restock>0</restock>
-<min>1</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="police" />
+<tag name="civilian" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Defender_Vest_Green">
 <nominal>5</nominal>
 <lifetime>14400</lifetime>
 <restock>0</restock>
-<min>1</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
-<value name="Tier3"/>
-<value name="Tier4"/>
+<tag name="military" />
+<tag name="police" />
+<tag name="civilian" />
+<value user="Tier1"/>
+<value user="Tier2"/>
+<value user="Tier3"/>
+<value user="Tier4"/>
 </type>
 <type name="Galife_Pants_Olive">
-<nominal>10</nominal>
+<nominal>15</nominal>
 <lifetime>28800</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>10</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Galife_Pants_Navy">
-<nominal>10</nominal>
+<nominal>15</nominal>
 <lifetime>28800</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>10</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Military"/>
+<tag name="military" />
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Legging_Shorts_Black">
 <nominal>25</nominal>
@@ -1199,8 +1254,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
 </type>
 <type name="Shabby_Hoodie_Grey">
 <nominal>10</nominal>
@@ -1212,8 +1268,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Black">
 <nominal>15</nominal>
@@ -1225,8 +1283,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Blue">
 <nominal>10</nominal>
@@ -1238,8 +1298,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Brown">
 <nominal>10</nominal>
@@ -1251,8 +1313,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Green">
 <nominal>10</nominal>
@@ -1264,8 +1328,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Red">
 <nominal>10</nominal>
@@ -1277,8 +1343,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Shabby_Hoodie_Calligraphy">
 <nominal>10</nominal>
@@ -1290,8 +1358,10 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Trapper_Hat_Black">
 <nominal>10</nominal>
@@ -1303,21 +1373,25 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Trapper_Hat_Red_Checkered">
 <nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>8</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="clothes"/>
-<usage name="Town"/>
-<usage name="Village"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
 <type name="Trapper_Hat_Camo_Mossy_Oak">
 <nominal>10</nominal>
@@ -1329,5 +1403,9 @@
 <cost>100</cost>
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 <category name="containers"/>
-<usage name="Hunting"/>
+<tag name="civilian" />
+<tag name="industrial" />
+<tag name="farm" />
+<tag name="hunting" />
 </type>
+</types>
