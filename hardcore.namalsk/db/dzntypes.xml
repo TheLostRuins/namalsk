@@ -579,9 +579,9 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
     <category name="clothes" />
-    <tag name="military" />
+    <tag name="industrial" />
+    <tag name="hunting" />
   </type>
   <type name="dzn_yeger_up_woodl">
     <nominal>10</nominal>
@@ -593,7 +593,7 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
+    <value user="Tier234" />
     <category name="clothes" />
     <tag name="military" />
   </type>
@@ -649,9 +649,9 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
     <category name="clothes" />
-    <tag name="military" />
+    <tag name="industrial" />
+    <tag name="hunting" />
   </type>
   <type name="dzn_sumrak_pants_coldw">
     <nominal>10</nominal>
@@ -663,9 +663,9 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier34" />
     <category name="clothes" />
-    <tag name="military" />
+    <tag name="industrial" />
+    <tag name="hunting" />
   </type>
   <type name="dzn_yeger_pants_woodl">
     <nominal>10</nominal>
@@ -677,9 +677,9 @@
     <cost>100</cost>
     <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
     <usage />
-    <value user="Tier23" />
     <category name="clothes" />
-    <tag name="military" />
+    <tag name="industrial" />
+    <tag name="hunting" />
   </type>
   <type name="dzn_ukassvest_white">
     <nominal>3</nominal>
@@ -1246,7 +1246,6 @@
     <lifetime>500</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
-  
-  
+
   
 </types>
