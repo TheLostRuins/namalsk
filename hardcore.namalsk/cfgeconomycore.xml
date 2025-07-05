@@ -18,6 +18,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="db">
 		<file name="types_dzn.xml" type="types" />
 	</ce>
+  
 <!-- Morty Weapons -->
   
   <ce folder="Morty_ce">
@@ -30,7 +31,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
   <ce folder="ER7_ce">
     <file name="ER7_types.xml" type="types" /> 
     <file name="ER7_cfgspawnabletypes.xml" type="spawnabletypes" />
-</ce> 
+</ce>  
   
   <!-- advanced weapon scopes -->
   
@@ -61,4 +62,5 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
   <ce folder="Zens_ce">
     <file name="Zenspenstypes.xml" type="types" />
   </ce>
+  
 </economycore>
