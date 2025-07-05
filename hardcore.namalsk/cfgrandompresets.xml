@@ -169,6 +169,7 @@
 		<item name="Mag_VAL_20Rnd" chance="0.025" />
 		<item name="Mag_Vikhr_30Rnd" chance="0.025" />
 	</cargo>
+  
 
 	<!-- gift boxes -->
 	<cargo chance="1.00" name="Gifts_AmmoBoxes">
@@ -259,7 +260,15 @@
 		<item name="RadarCap_Black" chance="0.20" />
 		<item name="BeanieHat_Black" chance="0.20" />
 	</cargo>
-
+  
+    <cargo chance="1.00" name="NVG"> 
+        <item name="NVGHeadstrap" chance="0.50" />
+  </cargo>
+  
+  <attachments chance="1.00" name="Bag_Black">
+    <item name="AssaultBag_Black" chance="0.50" />
+      </attachments>
+    
 	<!-- firefighter infected -->
 	<attachments chance="1.00" name="headsFirefighter">
 		<item name="FirefightersHelmet_Red" chance="0.34" />
@@ -278,7 +287,6 @@
 
 	<!-- police-riot infected -->
 	<attachments chance="1.00" name="headsPoliceriot">
-		<!--<item name="GorkaHelmet_Black" chance="0.60" />-->
 		<item name="PoliceCap" chance="0.80" />
 	</attachments>
 	<attachments chance="1.00" name="vestsPoliceriot">
@@ -287,9 +295,7 @@
 
 	<!-- army infected - NAC -->
 	<attachments chance="0.70" name="headsNAC">
-		<!--<item name="Mich2001Helmet" chance="0.50" />
-		<item name="BallisticHelmet_Black" chance="0.40" />-->
-		<item name="dzn_milberet_black" chance="0.10" />
+		<item name="dzn_milberet_black" chance="0.10" /> 
 	</attachments>
 	<attachments chance="0.25" name="vestsNAC">
 		<item name="dzn_ballisticvest_nac" chance="0.2" />
@@ -300,7 +306,6 @@
 	</attachments>
 	<!-- army infected - USMC -->
 	<attachments chance="0.70" name="headsUS">
-		<!--<item name="Mich2001Helmet" chance="0.80" />-->
 		<item name="Ssh68Helmet" chance="0.50" />
       
 	</attachments>
@@ -313,11 +318,8 @@
 	</attachments>
 	<!-- army infected - RU -->
 	<attachments chance="0.70" name="headsRU">
-		<!--<item name="BallisticHelmet_Green" chance="0.50" /> 
-		<item name="GorkaHelmet" chance="0.30" />-->
-      <item name="dzn_milberet_red" chance="0.10" />
       <item name="dzn_milberet_blue" chance="0.10" />
-      <item name="dzn_milberet_green" chance="0.10" />
+      <item name="dzn_milberet_green" chance="0.10" /> 
 	</attachments>
 	<attachments chance="0.25" name="vestsRU">
 		<item name="SmershVest" chance="0.25" />
