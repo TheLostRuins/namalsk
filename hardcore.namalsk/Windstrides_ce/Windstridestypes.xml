@@ -600,10 +600,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Base">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -614,10 +614,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Black">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -628,10 +628,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_White">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -642,10 +642,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Red">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -656,10 +656,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Blue">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -670,10 +670,10 @@
 <tag name="farm" />
 </type>
 <type name="Canvas_Backpack_Purple">
-<nominal>10</nominal>
+<nominal>5</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>3</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -743,10 +743,10 @@
 <category name="tools"/>
 </type>
 <type name="Kneepads_Jeans_Base">
-<nominal>10</nominal>
+<nominal>0</nominal>
 <lifetime>21600</lifetime>
 <restock>0</restock>
-<min>5</min>
+<min>0</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
@@ -1367,7 +1367,7 @@
 <nominal>10</nominal>
 <lifetime>2700</lifetime>
 <restock>0</restock>
-<min>10</min>
+<min>8</min>
 <quantmin>-1</quantmin>
 <quantmax>-1</quantmax>
 <cost>100</cost>
