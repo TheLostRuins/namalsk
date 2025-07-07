@@ -7000,7 +7000,7 @@
   </type>
   <type name="OMKJacket_Navy">
     <nominal>5</nominal>
-    <min>1</min>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -7281,8 +7281,8 @@
     <tag name="civilian" />
   </type>
   <type name="TelnyashkaShirt">
-    <nominal>15</nominal>
-    <min>10</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -7811,8 +7811,8 @@
     <tag name="military" />
   </type>
   <type name="CargoPants_Beige">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -7840,8 +7840,8 @@
     <tag name="civilian" />
   </type>
   <type name="CargoPants_Blue">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -7870,8 +7870,8 @@
     <tag name="civilian" />
   </type>
   <type name="CargoPants_Grey">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
