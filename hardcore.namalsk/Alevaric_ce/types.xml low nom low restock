@@ -2,7 +2,7 @@
  <types>
  <type name="ALV_RifleSling_1_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -13,7 +13,7 @@
 <!-- Attachments -->
     <type name="ALV_Patch_USA">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -23,7 +23,7 @@
     </type>
     <type name="ALV_CirclePatch_Outdoors">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -33,7 +33,7 @@
     </type>
     <type name="ALV_Pouch_Singlemags_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -43,7 +43,7 @@
     </type>
     <type name="ALV_Pouch_Singlemags_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -53,7 +53,7 @@
     </type>
     <type name="ALV_Pouch_Singlemags_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -63,7 +63,7 @@
     </type>
     <type name="ALV_Pouch_AVS1_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -73,7 +73,7 @@
     </type>
     <type name="ALV_Pouch_AVS1_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -83,7 +83,7 @@
     </type>
     <type name="ALV_Pouch_AVS2_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -93,7 +93,7 @@
     </type>
     <type name="ALV_Pouch_AVS2_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -103,7 +103,7 @@
     </type>
     <type name="ALV_Pouch_Utility_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -113,7 +113,7 @@
     </type>
     <type name="ALV_Pouch_Utility_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -123,7 +123,7 @@
     </type>
     <type name="ALV_Pouch_SmallPouch_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -133,7 +133,7 @@
     </type>
     <type name="ALV_Pouch_SmallPouch_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -143,7 +143,7 @@
     </type>
     <type name="ALV_Pouch_DoublePistolMag_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -153,7 +153,7 @@
     </type>
     <type name="ALV_Pouch_DoublePistolMag_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -163,7 +163,7 @@
     </type>
     <type name="ALV_Pouch_40mmPouch_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -173,7 +173,7 @@
     </type>
     <type name="ALV_AssaultHelmetCover_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -184,7 +184,7 @@
 <!--Backpacks-->
     <type name="ALV_WW2GasBag_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -194,7 +194,7 @@
     </type>
     <type name="ALV_DuffleBag_Grey">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -208,7 +208,7 @@
     </type>
     <type name="ALV_HipsterBag_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -218,7 +218,7 @@
     </type>
     <type name="ALV_HipsterBag_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -232,7 +232,7 @@
     </type>
     <type name="ALV_HipsterBag_Green">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -246,7 +246,7 @@
     </type>
     <type name="ALV_MilitaryBag_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -256,7 +256,7 @@
     </type>
     <type name="ALV_MilitaryBag_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -269,7 +269,7 @@
 <!--Belts-->
     <type name="ALV_MechanicBelt_Leather">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -279,7 +279,7 @@
     </type>
     <type name="ALV_BisonBelt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -289,7 +289,7 @@
     </type>
     <type name="ALV_BisonBelt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -299,7 +299,7 @@
     </type>
     <type name="ALV_UtilityBelt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -309,7 +309,7 @@
     </type>
     <type name="ALV_UtilityBelt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -319,7 +319,7 @@
     </type>
     <type name="ALV_LeatherBelt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -329,7 +329,7 @@
     </type>
     <type name="ALV_LeatherBelt_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -339,7 +339,7 @@
     </type>
     <type name="ALV_MolleBelt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -349,7 +349,7 @@
     </type>
     <type name="ALV_MolleBelt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -359,7 +359,7 @@
     </type>
     <type name="ALV_Smersh_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -369,7 +369,7 @@
     </type>
     <type name="ALV_Smersh_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -380,7 +380,7 @@
 <!--HeadGear-->
     <type name="ALV_Comtacs_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -390,7 +390,7 @@
     </type>
     <type name="ALV_Beret_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -400,7 +400,7 @@
     </type>
     <type name="ALV_Beret_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -410,7 +410,7 @@
     </type>
     <type name="ALV_Boonie_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -420,7 +420,7 @@
     </type>
     <type name="ALV_Boonie_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -430,7 +430,7 @@
     </type>
     <type name="ALV_Boonie_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -440,7 +440,7 @@
     </type>
     <type name="ALV_Boonie_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -450,7 +450,7 @@
     </type>
     <type name="ALV_Beanie_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -460,7 +460,7 @@
     </type>
     <type name="ALV_Beanie_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -470,7 +470,7 @@
     </type>
     <type name="ALV_Beanie_Pink">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -480,7 +480,7 @@
     </type>
     <type name="ALV_Beanie_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -490,7 +490,7 @@
     </type>
     <type name="ALV_Beanie_WinterCamo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -500,7 +500,7 @@
     </type>
     <type name="ALV_Beanie_Orange">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -510,7 +510,7 @@
     </type>
     <type name="ALV_Beanie_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -520,7 +520,7 @@
     </type>
     <type name="ALV_Beanie_Camo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -530,7 +530,7 @@
     </type>
     <type name="ALV_TacCap_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -540,7 +540,7 @@
     </type>
     <type name="ALV_TacCap_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -550,7 +550,7 @@
     </type>
     <type name="ALV_TacCap_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -560,7 +560,7 @@
     </type>
     <type name="ALV_AssaultHelmet_Black">
         <nominal>15</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>600</restock>
         <cost>100</cost>
         <min>10</min>
@@ -572,7 +572,7 @@
     </type>
     <type name="ALV_WW2Helmet_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -582,7 +582,7 @@
     </type>
     <type name="ALV_BaseballCap_Forwards_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -592,7 +592,7 @@
     </type>
     <type name="ALV_BaseballCap_Forwards_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -602,7 +602,7 @@
     </type>
     <type name="ALV_BaseballCap_Forwards_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -613,7 +613,7 @@
 <!-- Masks -->
     <type name="ALV_SkullMask_Plain">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -624,7 +624,7 @@
 <!-- Coats -->
     <type name="ALV_Parka_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -638,7 +638,7 @@
     </type>
     <type name="ALV_Parka_Olive">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -652,7 +652,7 @@
     </type>
     <type name="ALV_Parka_Blue">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -666,7 +666,7 @@
     </type>
     <type name="ALV_Parka_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -680,7 +680,7 @@
     </type>
     <type name="ALV_Parka_Beige">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -694,7 +694,7 @@
     </type>
     <type name="ALV_WinterJacket_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -704,7 +704,7 @@
     </type>
     <type name="ALV_WinterJacket_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -714,7 +714,7 @@
     </type>
     <type name="ALV_WinterJacket_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -724,7 +724,7 @@
     </type>
     <type name="ALV_WinterJacket_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -734,7 +734,7 @@
     </type>
     <type name="ALV_WinterJacket_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -744,7 +744,7 @@
     </type>
     <type name="ALV_WinterJacket_Purple">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -754,7 +754,7 @@
     </type>
     <type name="ALV_NauticJacket_Green">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -768,7 +768,7 @@
     </type>
     <type name="ALV_NauticJacket_YellowBlue">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -782,7 +782,7 @@
     </type>
     <type name="ALV_NauticJacket_Yellow">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -796,7 +796,7 @@
     </type>
     <type name="ALV_NauticJacket_Orange">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -810,7 +810,7 @@
     </type>
     <type name="ALV_NauticJacket_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -824,7 +824,7 @@
     </type>
     <type name="ALV_NauticJacket_BluWhite">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -834,7 +834,7 @@
     </type>
     <type name="ALV_PlaidJacket_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -844,7 +844,7 @@
     </type>
     <type name="ALV_PlaidJacket_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -854,7 +854,7 @@
     </type>
     <type name="ALV_PlaidJacket_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -864,7 +864,7 @@
     </type>
     <type name="ALV_MilitaryJacket_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -874,7 +874,7 @@
     </type>
     <type name="ALV_MilitaryJacket_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -884,7 +884,7 @@
     </type>
     <type name="ALV_MilitaryJacket_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -894,7 +894,7 @@
     </type>
     <type name="ALV_MilitaryJacket_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -904,7 +904,7 @@
     </type>
     <type name="ALV_SheriffJacket_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -918,7 +918,7 @@
     </type>
     <type name="ALV_HuntingVest_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -928,7 +928,7 @@
     </type>
     <type name="ALV_DenimJacket_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -938,7 +938,7 @@
     </type>
     <type name="ALV_DenimJacket_Blue_Wool">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -948,7 +948,7 @@
     </type>
     <type name="ALV_DenimJacket_Black_Wool">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -958,7 +958,7 @@
     </type>
     <type name="ALV_PCUL5Coat_Grey">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -972,7 +972,7 @@
     </type>
     <type name="ALV_PCUL5Coat_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -986,7 +986,7 @@
     </type>
     <type name="ALV_PCUL5Coat_Tan">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1000,7 +1000,7 @@
     </type>
     <type name="ALV_PCUL5Coat_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1014,7 +1014,7 @@
     </type>
     <type name="ALV_PCUL5Coat_ESP_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1028,7 +1028,7 @@
     </type>
     <type name="ALV_PCUL5Coat_Snow">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1042,7 +1042,7 @@
     </type>
     <type name="ALV_PatrolJacket_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1052,7 +1052,7 @@
     </type>
     <type name="ALV_PatrolJacket_STG_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1062,7 +1062,7 @@
     </type>
     <type name="ALV_PatrolJacket_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1072,7 +1072,7 @@
     </type>
     <type name="ALV_HuntingCoat_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1082,7 +1082,7 @@
     </type>
     <type name="ALV_HuntingCoat_Camo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1092,7 +1092,7 @@
     </type>
     <type name="ALV_HuntingCoat_Camo2">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1102,7 +1102,7 @@
     </type>
     <type name="ALV_HuntingCoat_WinterCamo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1112,7 +1112,7 @@
     </type>
     <type name="ALV_TweedJacket_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1122,7 +1122,7 @@
     </type>
     <type name="ALV_TweedJacket_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1132,7 +1132,7 @@
     </type>
     <type name="ALV_WW2Coat_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1142,7 +1142,7 @@
     </type>
     <type name="ALV_PilotsJacket_Burgundy">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1152,7 +1152,7 @@
     </type>
     <type name="ALV_HikingJacket_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1162,7 +1162,7 @@
     </type>
     <type name="ALV_HikingJacket_Orange">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1172,7 +1172,7 @@
     </type>
     <type name="ALV_HikingJacket_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1182,7 +1182,7 @@
     </type>
     <type name="ALV_HikingJacket_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1192,7 +1192,7 @@
     </type>
     <type name="ALV_HikingJacket_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1202,7 +1202,7 @@
     </type>
     <type name="ALV_LightweightJacket_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1212,7 +1212,7 @@
     </type>
     <type name="ALV_LightweightJacket_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1222,7 +1222,7 @@
     </type>
     <type name="ALV_LightweightJacket_Camo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1232,7 +1232,7 @@
     </type>
     <type name="ALV_LightweightJacket_WinterCamo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1242,7 +1242,7 @@
     </type>
     <type name="ALV_Duster_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1256,7 +1256,7 @@
     </type>
     <type name="ALV_Duster_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>5</min>
@@ -1270,7 +1270,7 @@
     </type>
     <type name="ALV_Duster_Red">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1284,7 +1284,7 @@
     </type>
     <type name="ALV_ScavangerTop_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1294,7 +1294,7 @@
     </type>
     <type name="ALV_ScavangerTop_MCBLK">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1304,7 +1304,7 @@
     </type>
     <type name="ALV_ScavangerTop_ESPN">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1314,7 +1314,7 @@
     </type>
     <type name="ALV_ScavangerTop_ESPNGry">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1325,7 +1325,7 @@
 <!-- Pants -->
     <type name="ALV_Jeans_Blue_Kneepads">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1335,7 +1335,7 @@
     </type>
     <type name="ALV_Jeans_Grey_Kneepads">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1345,7 +1345,7 @@
     </type>
     <type name="ALV_Jeans_Black_Kneepads">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1355,7 +1355,7 @@
     </type>
     <type name="ALV_Jeans_Brown_Kneepads">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1365,7 +1365,7 @@
     </type>
     <type name="ALV_Jeans_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1375,7 +1375,7 @@
     </type>
     <type name="ALV_Jeans_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1385,7 +1385,7 @@
     </type>
     <type name="ALV_Jeans_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1395,7 +1395,7 @@
     </type>
     <type name="ALV_Jeans_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1405,7 +1405,7 @@
     </type>
     <type name="ALV_Workpants_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1415,7 +1415,7 @@
     </type>
     <type name="ALV_Sheriffpants_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1425,7 +1425,7 @@
     </type>
     <type name="ALV_Sheriffpants_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1435,7 +1435,7 @@
     </type>
     <type name="ALV_Cargopants_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1445,7 +1445,7 @@
     </type>
     <type name="ALV_Cargopants_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1455,7 +1455,7 @@
     </type>
     <type name="ALV_MechanicPants_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1465,7 +1465,7 @@
     </type>
     <type name="ALV_FirefighterPants_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1475,7 +1475,7 @@
     </type>
     <type name="ALV_FirefighterPants_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1485,7 +1485,7 @@
     </type>
     <type name="ALV_ScrubsPants_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1495,7 +1495,7 @@
     </type>
     <type name="ALV_PatrolPants_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1505,7 +1505,7 @@
     </type>
     <type name="ALV_PatrolPants_STG_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1515,7 +1515,7 @@
     </type>
     <type name="ALV_PatrolPants_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1525,7 +1525,7 @@
     </type>
     <type name="ALV_G3Pants_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1541,7 +1541,7 @@
     </type>
     <type name="ALV_G3Pants_Tan">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1557,7 +1557,7 @@
     </type>
     <type name="ALV_G3Pants_MC">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1573,7 +1573,7 @@
     </type>
     <type name="ALV_G3Pants_Snow">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1589,7 +1589,7 @@
     </type>
     <type name="ALV_HunterPants_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1599,7 +1599,7 @@
     </type>
     <type name="ALV_HunterPants_Black">
         <nominal>10</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>5</min>
@@ -1614,7 +1614,7 @@
     </type>
     <type name="ALV_HunterPants_Camo">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1629,7 +1629,7 @@
     </type>
     <type name="ALV_HunterPants_WinterCamo">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -1644,7 +1644,7 @@
     </type>
     <type name="ALV_CargoShorts_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1654,7 +1654,7 @@
     </type>
     <type name="ALV_CargoShorts_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1664,7 +1664,7 @@
     </type>
     <type name="ALV_SweatPants_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1674,7 +1674,7 @@
     </type>
     <type name="ALV_SmartPants_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1684,7 +1684,7 @@
     </type>
     <type name="ALV_SmartPants_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1694,7 +1694,7 @@
     </type>
     <type name="ALV_WW2Pants_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1704,7 +1704,7 @@
     </type>
     <type name="ALV_LeatherLeggings_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1714,7 +1714,7 @@
     </type>
     <type name="ALV_HunterPants_Kneepads_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1724,30 +1724,10 @@
     </type>
     <type name="ALV_HunterPants_Kneepads_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ALV_HunterPants_Kneepads_Camo">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>300</restock>
-        <cost>100</cost>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-    <type name="ALV_HunterPants_Kneepads_WinterCamo">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>300</restock>
-        <cost>100</cost>
-        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -1757,10 +1737,30 @@
         <tag name="farm" />
 		<tag name="hunting" />
     </type>
+    <type name="ALV_HunterPants_Kneepads_Camo">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>300</restock>
+        <cost>100</cost>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ALV_HunterPants_Kneepads_WinterCamo">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>300</restock>
+        <cost>100</cost>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
 <!--Scarves-->
     <type name="ALV_ShemaghScarf_White">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1770,7 +1770,7 @@
     </type>
     <type name="ALV_ShemaghScarf_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1780,7 +1780,7 @@
     </type>
     <type name="ALV_ShemaghScarf_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1790,7 +1790,7 @@
     </type>
     <type name="ALV_ShemaghScarf_Purple">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1800,7 +1800,7 @@
     </type>
     <type name="ALV_ShemaghScarf_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1810,7 +1810,7 @@
     </type>
     <type name="ALV_Tie_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1820,7 +1820,7 @@
     </type>
     <type name="ALV_TatteredPoncho_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1830,7 +1830,7 @@
     </type>
     <type name="ALV_Balaclava_Open_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1840,7 +1840,7 @@
     </type>
     <type name="ALV_Balaclava_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1850,7 +1850,7 @@
     </type>
     <type name="ALV_Balaclava_FaceCover_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1860,7 +1860,7 @@
     </type>
     <type name="ALV_Balaclava_Open_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1870,7 +1870,7 @@
     </type>
     <type name="ALV_Balaclava_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1880,7 +1880,7 @@
     </type>
     <type name="ALV_Balaclava_FaceCover_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1890,7 +1890,7 @@
     </type>
     <type name="ALV_Balaclava_Open_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1900,7 +1900,7 @@
     </type>
     <type name="ALV_Balaclava_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1910,7 +1910,7 @@
     </type>
     <type name="ALV_Balaclava_FaceCover_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1920,7 +1920,7 @@
     </type>
     <type name="ALV_Scarf01_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1930,7 +1930,7 @@
     </type>
     <type name="ALV_Scarf02_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1940,7 +1940,7 @@
     </type>
     <type name="ALV_Scarf03_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1950,7 +1950,7 @@
     </type>
     <type name="ALV_Scarf01_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1960,7 +1960,7 @@
     </type>
     <type name="ALV_Scarf02_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1970,7 +1970,7 @@
     </type>
     <type name="ALV_Scarf03_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1980,7 +1980,7 @@
     </type>
     <type name="ALV_Scarf01_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -1990,7 +1990,7 @@
     </type>
     <type name="ALV_Scarf02_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2000,7 +2000,7 @@
     </type>
     <type name="ALV_Scarf03_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2010,7 +2010,7 @@
     </type>
     <type name="ALV_Scarf01_Cream">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2020,7 +2020,7 @@
     </type>
     <type name="ALV_Scarf02_Cream">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2030,7 +2030,7 @@
     </type>
     <type name="ALV_Scarf03_Cream">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2040,7 +2040,7 @@
     </type>
     <type name="ALV_HoodedShawl_Linen">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2050,7 +2050,7 @@
     </type>
     <type name="ALV_HoodedShawl_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2060,7 +2060,7 @@
     </type>
     <type name="ALV_HoodedShawl_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2070,7 +2070,7 @@
     </type>
     <type name="ALV_HoodedShawl_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2081,7 +2081,7 @@
 <!--Boots-->
     <type name="ALV_WW2Boots_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2092,7 +2092,7 @@
 <!--Shirts-->
     <type name="ALV_CottonTop_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2102,7 +2102,7 @@
     </type>
     <type name="ALV_CottonTop_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2112,7 +2112,7 @@
     </type>
     <type name="ALV_CottonTop_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2122,7 +2122,7 @@
     </type>
     <type name="ALV_CottonTop_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2132,7 +2132,7 @@
     </type>
     <type name="ALV_CottonTop_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2142,7 +2142,7 @@
     </type>
     <type name="ALV_CottonTop_BlackWhite">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2152,7 +2152,7 @@
     </type>
     <type name="ALV_RaglanTshirt_BlackWhite">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2162,7 +2162,7 @@
     </type>
     <type name="ALV_RaglanTshirt_WhiteBlack">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2172,7 +2172,7 @@
     </type>
     <type name="ALV_RaglanTshirt_Teal">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2182,7 +2182,7 @@
     </type>
     <type name="ALV_RaglanTshirt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2192,7 +2192,7 @@
     </type>
     <type name="ALV_RaglanTshirt_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2202,7 +2202,7 @@
     </type>
     <type name="ALV_RaglanTshirt_Pink">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2212,7 +2212,7 @@
     </type>
     <type name="ALV_RaglanTshirt_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2222,7 +2222,7 @@
     </type>
     <type name="ALV_TacticalHoodie_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2232,7 +2232,7 @@
     </type>
     <type name="ALV_TacticalHoodie_Tan">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2246,7 +2246,7 @@
     </type>
     <type name="ALV_TacticalHoodie_Red">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2260,7 +2260,7 @@
     </type>
     <type name="ALV_TacticalHoodie_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2270,7 +2270,7 @@
     </type>
     <type name="ALV_TacticalHoodie_MC">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2280,7 +2280,7 @@
     </type>
     <type name="ALV_TacticalHoodie_EMR">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2294,7 +2294,7 @@
     </type>
     <type name="ALV_TacticalHoodie_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2308,7 +2308,7 @@
     </type>
     <type name="ALV_FlannelShirt_White">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2318,7 +2318,7 @@
     </type>
     <type name="ALV_FlannelShirt_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2328,7 +2328,7 @@
     </type>
     <type name="ALV_FlannelShirt_Red2">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2338,7 +2338,7 @@
     </type>
     <type name="ALV_FlannelShirt_Red">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2352,7 +2352,7 @@
     </type>
     <type name="ALV_FlannelShirt_Blue">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2366,7 +2366,7 @@
     </type>
     <type name="ALV_SheriffShirt_Plain">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2376,7 +2376,7 @@
     </type>
     <type name="ALV_SheriffShirt_Tan">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2390,7 +2390,7 @@
     </type>
     <type name="ALV_Tshirt_Beige">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2400,7 +2400,7 @@
     </type>
     <type name="ALV_Tshirt_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2410,7 +2410,7 @@
     </type>
     <type name="ALV_Tshirt_White">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2420,7 +2420,7 @@
     </type>
     <type name="ALV_Tshirt_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2430,7 +2430,7 @@
     </type>
     <type name="ALV_Tshirt_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2440,7 +2440,7 @@
     </type>
     <type name="ALV_Tshirt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2450,7 +2450,7 @@
     </type>
     <type name="ALV_FleeceTop_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2460,7 +2460,7 @@
     </type>
     <type name="ALV_FleeceTop_Khaki">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2474,7 +2474,7 @@
     </type>
     <type name="ALV_FleeceTop_CreBlue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2484,7 +2484,7 @@
     </type>
     <type name="ALV_FleeceTop_Cream">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2494,7 +2494,7 @@
     </type>
     <type name="ALV_FleeceTop_BlaGrn">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2508,7 +2508,7 @@
     </type>
     <type name="ALV_FleeceTop_OrgBlu">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2522,7 +2522,7 @@
     </type>
     <type name="ALV_FleeceTop_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2536,7 +2536,7 @@
     </type>
     <type name="ALV_MechanicTop_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2546,7 +2546,7 @@
     </type>
     <type name="ALV_ScrubsTop_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2556,7 +2556,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2566,7 +2566,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2580,7 +2580,7 @@
     </type>
     <type name="ALV_PulloverHoodie_BlackWhite">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2590,7 +2590,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Tan">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2604,7 +2604,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2614,7 +2614,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2624,7 +2624,7 @@
     </type>
     <type name="ALV_PulloverHoodie_Green">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -2638,7 +2638,7 @@
     </type>
     <type name="ALV_DressShirt_White">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2648,7 +2648,7 @@
     </type>
     <type name="ALV_DressShirt_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2658,7 +2658,7 @@
     </type>
     <type name="ALV_DressShirt_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2668,7 +2668,7 @@
     </type>
     <type name="ALV_DressShirt_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2678,7 +2678,7 @@
     </type>
     <type name="ALV_DressShirt_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2688,7 +2688,7 @@
     </type>
     <type name="ALV_LongSleeve_Tshirt_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2698,7 +2698,7 @@
     </type>
     <type name="ALV_LongSleeve_Tshirt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2708,7 +2708,7 @@
     </type>
     <type name="ALV_LongSleeve_Tshirt_Shanka">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2718,7 +2718,7 @@
     </type>
     <type name="ALV_LongSleeve_Tshirt_Shanka_STG">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2728,7 +2728,7 @@
     </type>
     <type name="ALV_VestShirt_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2738,7 +2738,7 @@
     </type>
     <type name="ALV_Sweater_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2748,7 +2748,7 @@
     </type>
     <type name="ALV_Sweater_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2758,7 +2758,7 @@
     </type>
     <type name="ALV_WorkersShirt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2768,7 +2768,7 @@
     </type>
     <type name="ALV_WorkersShirt_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2778,7 +2778,7 @@
     </type>
     <type name="ALV_WorkersShirt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2788,7 +2788,7 @@
     </type>
     <type name="ALV_WorkersShirt_Denim">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2798,7 +2798,7 @@
     </type>
     <type name="ALV_WorkersShirt_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2808,7 +2808,7 @@
     </type>
     <type name="ALV_G3Shirt_MC_Rolled">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2818,7 +2818,7 @@
     </type>
     <type name="ALV_G3Shirt_Tan_Rolled">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2828,7 +2828,7 @@
     </type>
     <type name="ALV_G3Shirt_Black_Rolled">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2838,7 +2838,7 @@
     </type>
     <type name="ALV_G3Shirt_Snow_Rolled">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2848,7 +2848,7 @@
     </type>
     <type name="ALV_G3Shirt_MC_Long">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2858,7 +2858,7 @@
     </type>
     <type name="ALV_G3Shirt_Tan_Long">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2868,7 +2868,7 @@
     </type>
     <type name="ALV_G3Shirt_Black_Long">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2878,7 +2878,7 @@
     </type>
     <type name="ALV_G3Shirt_Snow_Long">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2888,7 +2888,7 @@
     </type>
     <type name="ALV_G3Shirt_MC_Cut">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2898,7 +2898,7 @@
     </type>
     <type name="ALV_G3Shirt_Black_Cut">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2908,7 +2908,7 @@
     </type>
     <type name="ALV_G3Shirt_Snow_Cut">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2918,7 +2918,7 @@
     </type>
     <type name="ALV_G3Shirt_Tan_Cut6">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2928,7 +2928,7 @@
     </type>
     <type name="ALV_ReverendTop_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2939,7 +2939,7 @@
 <!--Vests-->
     <type name="ALV_ModularVest_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2949,7 +2949,7 @@
     </type>
     <type name="ALV_ModularVest_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2959,7 +2959,7 @@
     </type>
     <type name="ALV_ModularVest_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2969,7 +2969,7 @@
     </type>
     <type name="ALV_JPCVest_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2979,7 +2979,7 @@
     </type>
     <type name="ALV_JPCVest_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2989,7 +2989,7 @@
     </type>
     <type name="ALV_JPCVest_ESP_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -2999,7 +2999,7 @@
     </type>
     <type name="ALV_JPCVest_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3009,7 +3009,7 @@
     </type>
     <type name="ALV_6B25Vest_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3019,7 +3019,7 @@
     </type>
     <type name="ALV_6B25Vest_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3029,7 +3029,7 @@
     </type>
     <type name="ALV_6B25Vest_Snow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3039,7 +3039,7 @@
     </type>
     <type name="ALV_ChestPouch_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3049,7 +3049,7 @@
     </type>
     <type name="ALV_ChestPouch_Camo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3059,7 +3059,7 @@
     </type>
     <type name="ALV_ChestPouch_WinterCamo">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3069,7 +3069,7 @@
     </type>
     <type name="ALV_WW2Vest_Classic">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3079,7 +3079,7 @@
     </type>
     <type name="ALV_BikerVest_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3089,7 +3089,7 @@
     </type>
     <type name="ALV_PoliceVest_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3100,7 +3100,7 @@
 <!--18/01/2025 UPDATE -->
     <type name="ALV_OpenShirt_Red">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3110,7 +3110,7 @@
     </type>
     <type name="ALV_OpenShirt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3120,7 +3120,7 @@
     </type>
     <type name="ALV_OpenShirt_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3130,7 +3130,7 @@
     </type>
     <type name="ALV_OpenShirt_Pink">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3140,7 +3140,7 @@
     </type>
     <type name="ALV_Overcoat_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3154,7 +3154,7 @@
     </type>
     <type name="ALV_Overcoat_Camel">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3168,7 +3168,7 @@
     </type>
     <type name="ALV_Overcoat_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3182,7 +3182,7 @@
     </type>
     <type name="ALV_CanvasBag_Green">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3192,7 +3192,7 @@
     </type>
     <type name="ALV_CanvasBag_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3202,7 +3202,7 @@
     </type>
     <type name="ALV_CanvasBag_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3212,7 +3212,7 @@
     </type>
     <type name="ALV_CanvasBag_Yellow">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3222,7 +3222,7 @@
     </type>
     <type name="ALV_RollTopBag_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3232,7 +3232,7 @@
     </type>
     <type name="ALV_Satchel_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3242,7 +3242,7 @@
     </type>
     <type name="ALV_PlagueMask_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3252,7 +3252,7 @@
     </type>
     <type name="ALV_PlagueMask_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3262,7 +3262,7 @@
     </type>
     <type name="ALV_MickeyMask">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3272,7 +3272,7 @@
     </type>
     <type name="ALV_CivieRifleSling_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3283,7 +3283,7 @@
 <!--15/02/2025 UPDATE -->
     <type name="ALV_SkiGoggles_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3293,7 +3293,7 @@
     </type>
     <type name="ALV_SkiGoggles_White">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3303,7 +3303,7 @@
     </type>
     <type name="ALV_SkiGoggles_Purple">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3313,7 +3313,7 @@
     </type>
     <type name="ALV_SkiGoggles_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3324,7 +3324,7 @@
 
     <type name="ALV_TurtleNeck_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3338,7 +3338,7 @@
     </type>
     <type name="ALV_TurtleNeck_Camel">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3352,7 +3352,7 @@
     </type>
     <type name="ALV_TurtleNeck_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3366,7 +3366,7 @@
     </type>
     <type name="ALV_TurtleNeck_Orange">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3377,7 +3377,7 @@
 
     <type name="ALV_PoliceShirt_Blue">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3391,7 +3391,7 @@
     </type>
     <type name="ALV_PoliceShirt_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3401,7 +3401,7 @@
     </type>
     <type name="ALV_PoliceShirt_Green">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3415,7 +3415,7 @@
     </type>
     <type name="ALV_PoliceShirt_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3429,7 +3429,7 @@
     </type>
     <type name="ALV_PoliceShirt_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3440,7 +3440,7 @@
 
     <type name="ALV_PrisonJumpsuit_Orange">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3451,7 +3451,7 @@
 
     <type name="ALV_PolicePants_Grey">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3461,7 +3461,7 @@
     </type>
     <type name="ALV_PolicePants_Blue">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3471,7 +3471,7 @@
     </type>
     <type name="ALV_PolicePants_Brown">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3485,7 +3485,7 @@
     </type>
     <type name="ALV_PolicePants_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3495,7 +3495,7 @@
     </type>
     <type name="ALV_PolicePants_Black">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>3</min>
@@ -3511,7 +3511,7 @@
 <!--01/04/2025 UPDATE -->
     <type name="ALV_AssaultVest_Tan">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3521,7 +3521,7 @@
     </type>
     <type name="ALV_AssaultVest_Black">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3531,7 +3531,7 @@
     </type>
     <type name="ALV_ChestRig_Olive">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
@@ -3541,7 +3541,7 @@
     </type>
     <type name="ALV_ChestRig_Brown">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>3600</lifetime>
         <restock>300</restock>
         <cost>100</cost>
         <min>0</min>
