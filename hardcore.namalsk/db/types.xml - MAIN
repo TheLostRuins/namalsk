@@ -12168,7 +12168,7 @@
     <nominal>15</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>300</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -12181,7 +12181,7 @@
     <nominal>15</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
-    <restock>600</restock>
+    <restock>300</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
