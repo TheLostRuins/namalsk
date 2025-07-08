@@ -45,10 +45,10 @@
     <tag name="military" />
   </type>
   <type name="AKM">
-    <nominal>10</nominal>
+    <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>300</restock>
-    <min>10</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
