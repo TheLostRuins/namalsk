@@ -2116,10 +2116,10 @@
     <tag name="military" />
   </type>
   <type name="Mag_MP5_30Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
-    <restock>500</restock>
+    <restock>300</restock>
     <quantmin>25</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -2131,8 +2131,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_Scout_5Rnd">
-    <nominal>6</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>500</restock>
     <quantmin>25</quantmin>
@@ -2144,8 +2144,8 @@
     <tag name="police" />
   </type>
   <type name="Mag_SSG82_5rnd">
-    <nominal>6</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>500</restock>
     <quantmin>25</quantmin>
@@ -2172,8 +2172,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_PM73_15Rnd">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>500</restock>
     <quantmin>25</quantmin>
@@ -2259,8 +2259,8 @@
     <tag name="hunting" />
   </type>
   <type name="Mag_AKM_30Rnd">
-    <nominal>15</nominal>
-    <min>10</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2273,8 +2273,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AKM_Drum75Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>20</quantmin>
@@ -2286,8 +2286,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AKM_Palm30Rnd">
-    <nominal>15</nominal>
-    <min>10</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2330,8 +2330,8 @@
     <tag name="hunting" />
   </type>
   <type name="Mag_STANAG_30Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2344,8 +2344,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_STANAG_60Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2357,10 +2357,10 @@
     <tag name="military" />
   </type>
   <type name="Mag_CMAG_10Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
-    <restock>900</restock>
+    <restock>300</restock>
     <quantmin>25</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -2371,10 +2371,10 @@
     <tag name="military" />
   </type>
   <type name="Mag_CMAG_20Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
-    <restock>1200</restock>
+    <restock>300</restock>
     <quantmin>25</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -2385,8 +2385,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_CMAG_30Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2399,8 +2399,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_CMAG_40Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2413,7 +2413,7 @@
   </type>
   <type name="Mag_FAMAS_25Rnd">
     <nominal>6</nominal>
-    <min>2</min>
+    <min>4</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2440,8 +2440,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AK101_30Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2454,8 +2454,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AK74_30Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2468,8 +2468,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_AK74_45Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2481,8 +2481,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_SVD_10Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>50</quantmin>
@@ -2495,8 +2495,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_SV98_10Rnd">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>50</quantmin>
@@ -2509,8 +2509,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_M14_10Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>50</quantmin>
@@ -2523,8 +2523,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_M14_20Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>50</quantmin>
@@ -2537,8 +2537,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_FAL_20Rnd">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>25</quantmin>
@@ -2554,7 +2554,7 @@
     <nominal>3</nominal>
     <min>2</min>
     <lifetime>5400</lifetime>
-    <restock>900</restock>
+    <restock>300</restock>
     <quantmin>40</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
@@ -2594,8 +2594,8 @@
     <tag name="military" />
   </type>
   <type name="Mag_Vikhr_30Rnd">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>40</quantmin>
