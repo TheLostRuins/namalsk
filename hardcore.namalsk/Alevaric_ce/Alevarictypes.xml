@@ -263,8 +263,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<category name="bags" />
-        <tag name="military" />
+    <category name="bags" />
+    <tag name="fishing" />
     </type>
 <!--Belts-->
     <type name="ALV_MechanicBelt_Leather">
@@ -559,9 +559,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_AssaultHelmet_Black">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>600</restock>
         <cost>100</cost>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -1533,10 +1533,11 @@
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes" />
-        <value user="Tier1" />
-    <value user="Tier2" />
-	<value user="Tier3" />
-    <value user="Tier4" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
+      <tag name="fishing" />
+      <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_Tan">
         <nominal>5</nominal>
@@ -1548,11 +1549,11 @@
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes" />
-        <tag name="military" />
-      <value user="Tier1" />
-    <value user="Tier2" />
-	<value user="Tier3" />
-    <value user="Tier4" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
+      <tag name="fishing" />
+      <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_MC">
         <nominal>5</nominal>
@@ -1564,11 +1565,11 @@
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes" />
-       <tag name="military" />
-      <value user="Tier1" />
-    <value user="Tier2" />
-	<value user="Tier3" />
-    <value user="Tier4" />
+       <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
+      <tag name="fishing" />
+      <tag name="farm" />
     </type>
     <type name="ALV_G3Pants_Snow">
         <nominal>5</nominal>
@@ -1580,11 +1581,11 @@
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes" />
-        <tag name="military" />
-      <value user="Tier1" />
-    <value user="Tier2" />
-	<value user="Tier3" />
-    <value user="Tier4" />
+       <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
+      <tag name="fishing" />
+      <tag name="farm" />
     </type>
     <type name="ALV_HunterPants_Tan">
         <nominal>0</nominal>
@@ -1722,11 +1723,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_HunterPants_Kneepads_Black">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>0</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
@@ -1742,11 +1743,11 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ALV_HunterPants_Kneepads_WinterCamo">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <cost>100</cost>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
