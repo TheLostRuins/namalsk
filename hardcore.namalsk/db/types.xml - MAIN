@@ -281,10 +281,10 @@
     <tag name="military" />
   </type>
   <type name="Aug">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>600</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -392,10 +392,10 @@
     <tag name="military" />
   </type>
   <type name="M14">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>5400</lifetime>
     <restock>300</restock>
-    <min>3</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -493,7 +493,7 @@
   <type name="Izh43Shotgun">
     <nominal>5</nominal>
     <lifetime>5400</lifetime>
-    <restock>400</restock>
+    <restock>300</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -508,7 +508,7 @@
   <type name="Izh18Shotgun">
     <nominal>5</nominal>
     <lifetime>5400</lifetime>
-    <restock>400</restock>
+    <restock>300</restock>
     <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -535,10 +535,10 @@
     <tag name="civilian" />
   </type>
   <type name="Saiga">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>7200</lifetime>
     <restock>300</restock>
-    <min>2</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
