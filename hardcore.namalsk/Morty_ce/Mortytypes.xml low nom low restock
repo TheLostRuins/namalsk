@@ -1777,10 +1777,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Buttstock_Camo">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1792,10 +1792,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Buttstock_Digitan">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1807,10 +1807,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Buttstock_Tan">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1822,10 +1822,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Buttstock_UPC">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
