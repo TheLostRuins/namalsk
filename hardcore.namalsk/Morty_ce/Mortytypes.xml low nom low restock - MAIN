@@ -3334,10 +3334,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <value name="Tier2"/>
     </type>
     <type name="TTC_MCX_300blk">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3349,10 +3349,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_MCX_Tan_300blk">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
