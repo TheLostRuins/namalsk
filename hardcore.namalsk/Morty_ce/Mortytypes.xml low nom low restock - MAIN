@@ -610,10 +610,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 	</type>
 	<!-- Honey Badger comes in two variants. This is standard .300blk variant-->
 	<type name="TTC_AACHoney_300blk">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -625,10 +625,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_AACHoney_300blk_B">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -640,10 +640,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
     <type name="TTC_300Stanag">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -655,10 +655,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_300Cmag">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -670,10 +670,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_AmmoBox_300blk_20rnd">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -685,10 +685,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Ammo_300blk">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
