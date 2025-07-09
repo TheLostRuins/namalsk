@@ -3,7 +3,7 @@
   
    <!-- this is a massive overhaul of the coding. make sure to have a backup ready to put the server back to settings before this change through github backup
 You are changing the usage name to tag name and also lower casing the tag name ex. from Military to military and then on top of that changing the tiers 
-bc a lot of them are set to tier 6 and 7 which would make them too rare. and also changing value name to value user ex value name Tier5 to value user Tier5-->
+bc a lot of them are set to tier 6 and 7 which would make them too rare. and also changing value name to value user ex value name Tier5 to value user Tier5 test test test-->
 
 <types>
 
