@@ -323,7 +323,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="AK_WoodBttstck">
         <nominal>5</nominal>
@@ -928,7 +928,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Ammo_40mm_Explosive">
         <nominal>8</nominal>
@@ -1618,7 +1618,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="shelves"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="AntiPestsSpray">
         <nominal>0</nominal>
@@ -2279,7 +2279,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="AugShort">
         <nominal>2</nominal>
@@ -7011,7 +7011,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="FAMAS">
         <nominal>2</nominal>
@@ -7089,7 +7089,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Fal_OeBttstck">
         <nominal>5</nominal>
@@ -7101,7 +7101,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="FangeKnife">
         <nominal>5</nominal>
@@ -10938,7 +10938,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="KitchenKnife">
         <nominal>60</nominal>
@@ -12161,7 +12161,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
         <nominal>0</nominal>
@@ -12302,7 +12302,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
@@ -12742,7 +12742,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_40Rnd">
         <nominal>4</nominal>
@@ -12754,7 +12754,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>20</nominal>
@@ -12839,7 +12839,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>5</nominal>
@@ -13090,7 +13090,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_SV98_10Rnd">
         <nominal>4</nominal>
@@ -13116,7 +13116,7 @@
         <cost>1000</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="Mag_Saiga_5Rnd">
         <nominal>18</nominal>
@@ -16909,7 +16909,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="SVD_Wooden">
         <nominal>1</nominal>
@@ -19001,7 +19001,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Tier4"/>
+        <value name="Tier4"/>
     </type>
     <type name="StartKitIV">
         <nominal>30</nominal>
