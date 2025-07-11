@@ -420,7 +420,7 @@
 			<item name="TTC_ButtstockHK" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_G28_Optic" chance="1.00" />
+			<item name="TTC_VortexSE_Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="TTC_HK417_Magazine_20rnd" chance="1.00" />
