@@ -5181,8 +5181,8 @@
     <tag name="industrial" />
   </type>
   <type name="WeaponCleaningKit">
-    <nominal>20</nominal>
-    <min>10</min>
+    <nominal>35</nominal>
+    <min>30</min>
     <lifetime>5400</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
