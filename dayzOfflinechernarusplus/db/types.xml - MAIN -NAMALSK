@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <types>
   <!-- NAMALSK - WEAPONS - RIFLES -->
-  
+  <!--test-->
   <type name="AK74">
     <nominal>2</nominal>
     <lifetime>7200</lifetime>
