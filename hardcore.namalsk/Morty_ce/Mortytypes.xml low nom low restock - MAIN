@@ -3416,10 +3416,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<tag name="civilian" />
     </type>
     <type name="TTC_300Cmag_60rnd">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
