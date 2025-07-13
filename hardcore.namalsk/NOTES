@@ -18,7 +18,13 @@ BUT THEN DO NOT RESPAWN AGAIN UNTIL AFTER ANOTHER WIPE OR RESTART
 
 
 
-
+{
+    "WorldsData": {
+        "objectSpawnersArr": [
+            "cfg/my_custom_objects.json" // <--- RENAME THIS to what you export from DayZ Editor
+        ]
+    }
+}
 
 
 !!! [CE][Point] Removing 6504.356445, 9291.453125 from land_wrecked_ural
