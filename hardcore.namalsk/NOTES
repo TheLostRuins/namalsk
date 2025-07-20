@@ -29,3 +29,38 @@ BUT THEN DO NOT RESPAWN AGAIN UNTIL AFTER ANOTHER WIPE OR RESTART
 
 !!! [CE][Point] Removing 6504.356445, 9291.453125 from land_wrecked_ural
 !!! [CE][Point] Removing 6162.589844, 10878.765625 from land_hut_old01
+
+
+	<group name="Land_Container_1Mo" pos="3933.585449 99.993523 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	<group name="Land_Container_1Mo" pos="3933.585449 94.959740 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	<group name="Land_Container_1Mo" pos="3927.316650 89.993416 7548.001953" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	<group name="Land_Container_1Mo" pos="3927.294189 94.934540 7547.970703" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	<group name="Land_Container_1Mo" pos="3933.585449 84.820686 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	<group name="Land_Container_1Mo" pos="3927.329590 79.898933 7547.830078" rpy="-0.000000 0.000000 80.999924" a="9.00008"/>
+	
+    <group name="Land_Mil_Barracks3" pos="3922.969482 110.715942 7536.333008" rpy="-0.000000 0.000000 -100.950333" a="-169.05"/>
+	<group name="Land_Mil_Barracks3" pos="3944.692627 110.715927 7537.301270" rpy="-0.000000 0.000000 79.403709" a="10.5963"/>
+	
+	<group name="Land_Mil_Barracks1" pos="3937.044678 110.520065 7522.211426" rpy="-0.000000 0.000000 -99.000069" a="-171"/>
+	
+	<group name="land_nor_watchtower" pos="3964.129639 66.111465 7536.308594" rpy="-0.000000 0.000000 -141.604752" a="-128.395"/>
+
+	
+	
+<group name="Land_Container_1Mo" pos="3933.585449 99.993523 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+<group name="Land_Container_1Mo" pos="3933.585449 94.959740 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+<group name="Land_Container_1Mo" pos="3927.316650 89.993416 7548.001953" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+<group name="Land_Container_1Mo" pos="3927.294189 94.934540 7547.970703" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+<group name="Land_Container_1Mo" pos="3933.585449 84.820686 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+<group name="Land_Container_1Mo" pos="3927.329590 79.898933 7547.830078" rpy="-0.000000 0.000000 80.999924" a="9.00008" loot="Tier3"/>
+
+<group name="Land_Mil_Barracks3" pos="3922.969482 110.715942 7536.333008" rpy="-0.000000 0.000000 -100.950333" a="-169.05" loot="Tier3"/>
+<group name="Land_Mil_Barracks3" pos="3944.692627 110.715927 7537.301270" rpy="-0.000000 0.000000 79.403709" a="10.5963" loot="Tier3"/>
+
+<group name="Land_Mil_Barracks1" pos="3937.044678 110.520065 7522.211426" rpy="-0.000000 0.000000 -99.000069" a="-171" loot="Tier3"/>
+
+<group name="land_nor_watchtower" pos="3964.129639 66.111465 7536.308594" rpy="-0.000000 0.000000 -141.604752" a="-128.395" loot="Tier3"/>
+
+
+
+
