@@ -1955,14 +1955,14 @@
 	<group name="StaticObj_Road_Sidewalk_Stairs" pos="3926.706787 110.917763 7544.526855" rpy="-0.000000 0.000000 128.445068" a="-38.4451"/>
 	<group name="Land_Mil_Barracks3" pos="3922.969482 110.715942 7536.333008" rpy="-0.000000 0.000000 -100.950333" a="-169.05">
     <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
+    <item_spawn_params type="MySpawnTier3" min="2" max="3" count="mixed"/>
     <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
     <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
     <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
 </group>
 	<group name="Land_Mil_Barracks3" pos="3944.692627 110.715927 7537.301270" rpy="-0.000000 0.000000 79.403709" a="10.5963">
     <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
+    <item_spawn_params type="MySpawnTier3" min="2" max="3" count="mixed"/>
     <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
     <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
     <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
@@ -1998,7 +1998,7 @@
 	<group name="StaticObj_Pier_Concrete4_16m_NoSup" pos="3933.221924 107.570572 7537.971191" rpy="-0.000000 0.000000 169.886719" a="-79.8867"/>
 	<group name="Land_Mil_Barracks1" pos="3937.044678 110.520065 7522.211426" rpy="-0.000000 0.000000 -99.000069" a="-171">
     <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
+    <item_spawn_params type="MySpawnTier3" min="2" max="3" count="mixed"/>
     <item_spawn_params type="MySpawnTier4" min="1" max="2" count="mixed"/>
     <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
     <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
