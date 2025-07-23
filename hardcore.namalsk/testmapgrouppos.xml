@@ -1460,14 +1460,14 @@
   
   	<group name="StaticObj_Boathouse_PierT" pos="5075.476074 -3.580549 5646.953613" rpy="-0.000000 -0.000000 35.999977" a="54"/>
 	<group name="SpookyArea" pos="2855.887939 78.776520 7004.559570" rpy="-0.000000 -0.000000 0.000000" a="90"/>
-	<group name="SpookyArea" pos="2663.274902 72.582268 6821.260742" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+
 	<group name="SpookyArea" pos="2750.217773 72.388489 6863.814453" rpy="-0.000000 -0.000000 0.000000" a="90"/>
 	<group name="StaticObj_Power_Wire_50" pos="4281.316895 98.833687 8100.146973" rpy="0.064111 21.154097 -152.114746" a="-117.885"/>
 	<group name="StaticObj_Cemetery_Tombstone3" pos="4271.134277 109.388260 8076.372559" rpy="-0.000000 -0.000000 71.999977" a="18"/>
 	<group name="Land_Mil_Barracks_Round" pos="4955.516602 47.148010 6668.460938" rpy="-0.000000 0.000042 87.237991" a="2.76201" loot="Tier23"/>
 	<group name="StaticObj_Mil_HBarrier_Round" pos="4945.261230 46.525963 6672.293945" rpy="-0.000000 0.000000 81.000038" a="8.99996"/>
 	<group name="land_budova3" pos="4955.399902 47.907623 6677.715332" rpy="-0.000000 0.000000 89.999954" a="4.57764e-05"/>
-	<group name="StaticObj_Mil_HBarrier_Round" pos="4944.434082 46.525951 6664.114258" rpy="-0.000000 0.000000 -96.516083" a="-173.484"/>
+
 	<group name="Land_Mil_Barracks_Round" pos="6937.420898 40.794857 5857.171875" rpy="0.000000 0.000000 -0.000047" a="90" loot="Tier23"/>
 	<group name="Land_Mil_Barracks4" pos="6947.541504 41.683666 5860.339844" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05" loot="Tier23"/>
 	<group name="StaticObj_Roadblock_Bags_Long" pos="6382.386719 40.180283 5857.730469" rpy="-0.000000 0.000000 53.921570" a="36.0784"/>
