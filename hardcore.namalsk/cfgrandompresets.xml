@@ -262,7 +262,8 @@
 	</cargo>
   
     <cargo chance="1.00" name="NVG"> 
-        <item name="NVGHeadstrap" chance="0.50" />
+      <item name="NVGHeadstrap" chance="0.25" />
+      <item name="WeaponCleaningKit" chance="0.25" />
   </cargo>
   
   <attachments chance="1.00" name="Bag_Black">
