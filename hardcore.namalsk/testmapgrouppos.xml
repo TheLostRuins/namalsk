@@ -1902,47 +1902,11 @@
 	<group name="StaticObj_Wall_CBrk_Pole" pos="3071.145752 74.190460 7142.668945" rpy="-0.000000 -0.000000 44.999992" a="45"/>
 	<group name="StaticObj_Wall_CBrk_5" pos="3073.328369 74.557060 7144.596680" rpy="-0.000000 0.000000 134.999863" a="-44.9999"/>
 	<group name="Land_Container_1Mo" pos="3933.585449 99.993523 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="Land_Container_1Mo" pos="3933.585449 94.959740 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="Land_Container_1Mo" pos="3927.316650 89.993416 7548.001953" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="Land_Container_1Mo" pos="3927.294189 94.934540 7547.970703" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="Land_Container_1Mo" pos="3933.585449 84.820686 7548.955566" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="Land_Container_1Mo" pos="3927.329590 79.898933 7547.830078" rpy="-0.000000 0.000000 80.999924" a="9.00008">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>  
 	<group name="StaticObj_Misc_BoxWooden" pos="3927.216064 96.773956 7548.068359" rpy="0.000000 0.000000 -9.000000" a="99"/>
 	<group name="StaticObj_Misc_BoxWooden" pos="3928.228271 96.773964 7548.198242" rpy="-0.000000 0.000000 -9.000002" a="99"/>
 	<group name="StaticObj_Misc_BoxWooden" pos="3928.228271 97.754532 7548.198242" rpy="0.000000 0.000000 -9.000000" a="99"/>
@@ -1953,16 +1917,8 @@
 	<group name="StaticObj_Misc_BoxWooden" pos="3924.748291 81.738350 7547.506348" rpy="0.000000 0.000000 -9.000000" a="99"/>
 	<group name="StaticObj_Road_Sidewalk_Stairs" pos="3935.083008 110.735626 7544.753906" rpy="-0.000000 0.000000 -134.830597" a="-135.169"/>
 	<group name="StaticObj_Road_Sidewalk_Stairs" pos="3926.706787 110.917763 7544.526855" rpy="-0.000000 0.000000 128.445068" a="-38.4451"/>
-<group name="Land_Mil_Barracks3" pos="3922.969482 110.715942 7536.333008" rpy="-0.000000 0.000000 -100.950333" a="-169.05">
-    <item_spawn_params type="CustomBarracksLoot_HighTier" min="3" max="6" count="mixed"/>
-</group>
+        <group name="Land_Mil_Barracks3" pos="3922.969482 110.715942 7536.333008" rpy="-0.000000 0.000000 -100.950333" a="-169.05">
 	<group name="Land_Mil_Barracks3" pos="3944.692627 110.715927 7537.301270" rpy="-0.000000 0.000000 79.403709" a="10.5963">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="2" max="3" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="1" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="StaticObj_Pipe_Big_18m_Ladder" pos="3921.595947 102.672920 7535.529297" rpy="-0.000000 0.000000 -14.416608" a="104.417"/>
 	<group name="StaticObj_Pipe_Big_18m_Ladder" pos="3944.552734 102.672920 7537.430176" rpy="-0.000000 0.000000 -14.416608" a="104.417"/>
 	<group name="StaticObj_Pier_Concrete4_16m_NoSup" pos="3945.879395 106.683617 7536.003906" rpy="-0.000000 0.000000 -9.000002" a="99"/>
@@ -1993,12 +1949,6 @@
 	<group name="StaticObj_Platform1_Wall" pos="3945.324951 68.019936 7551.031250" rpy="178.177734 85.834389 121.972244" a="-31.9722"/>
 	<group name="StaticObj_Pier_Concrete4_16m_NoSup" pos="3933.221924 107.570572 7537.971191" rpy="-0.000000 0.000000 169.886719" a="-79.8867"/>
 	<group name="Land_Mil_Barracks1" pos="3937.044678 110.520065 7522.211426" rpy="-0.000000 0.000000 -99.000069" a="-171">
-    <item_spawn_params type="MySpawnTier2" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier3" min="2" max="3" count="mixed"/>
-    <item_spawn_params type="MySpawnTier4" min="1" max="2" count="mixed"/>
-    <item_spawn_params type="MySpawnTier23" min="0" max="0" count="full"/>
-    <item_spawn_params type="MySpawnTier34" min="0" max="0" count="mixed"/>
-</group>
 	<group name="StaticObj_Pier_Concrete4_16m_NoSup" pos="3937.006592 107.570572 7522.418945" rpy="-0.000000 0.000000 169.886719" a="-79.8867"/>
 	<group name="StaticObj_Pipe_Big_18m_Ladder" pos="3942.397705 104.404282 7525.268066" rpy="-165.064087 -33.237930 1.255649" a="88.7444"/>
 	<group name="StaticObj_Pipe_Big_18m_Ladder" pos="3930.351074 104.444099 7523.492188" rpy="-179.998062 -30.648067 -37.608749" a="127.609"/>
