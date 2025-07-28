@@ -96,7 +96,7 @@ This XML file does not appear to have any style information associated with it. 
 <group name="StaticObj_Wall_VilVar2_4_2" pos="4939.017090 4.769996 5490.060059" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
 <group name="StaticObj_Wall_VilVar2_4_2" pos="4938.543945 4.537685 5486.307129" rpy="-0.000000 0.000000 98.999962" a="-8.99996"/>
 <group name="StaticObj_Wall_VilVar2_4_2" pos="4938.829102 3.507481 5482.769043" rpy="-0.000000 -0.000000 71.999977" a="18"/>
-<group name="StaticObj_Wall_VilVar2_4_2" pos="4941.233398 3.238729 5480.137207" rpy="-0.000000 -0.000000 26.999989" a="63"/>
+<group name="StaticObj_Wall_VilVar2_4_2" pos="4941.233398 3.238729 5480.137207" rpy="-0.000000 -0.000000 26.999987" a="63"/>
 <group name="land_misc_barel_fire_3" pos="3928.643555 124.119843 7550.099121" rpy="-0.000000 -0.000000 0.000000" a="90"/>
 <group name="Land_Misc_DeerStand2" pos="3078.773682 81.967857 7083.303711" rpy="0.000000 0.000000 -36.000046" a="126"/>
 <group name="Land_Workshop1" pos="3109.514404 76.703682 7146.844238" rpy="-0.000000 0.000000 145.110550" a="-55.1105"/>
@@ -598,13 +598,13 @@ This XML file does not appear to have any style information associated with it. 
 <group name="Land_Boat_Small2" pos="2620.181396 2.041664 7222.409180" rpy="-0.000000 0.000000 82.786949" a="7.21305"/>
 <group name="land_jal_barn_med_1" pos="2644.211426 7.088579 7192.894043" rpy="-0.000000 0.000000 179.999878" a="-89.9999"/>
 <group name="StaticObj_Mil_Artilery_Rampart" pos="2638.463867 3.615136 7192.876465" rpy="-0.000000 -0.000000 89.999954" a="4.57764e-05"/>
-<group name="Land_Castle_Wall1_20_Turn" pos="2644.833008 7.892072 7166.779297" rpy="-0.000000 0.000000 164.658783" a="-74.6588"/>
+<group name="Land_Castle_Wall1_20_Turn" pos="2645.072510 7.892072 7166.515137" rpy="-0.000000 0.000000 164.658783" a="-74.6588"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2653.686279 7.892072 7180.823242" rpy="-0.000000 0.000000 100.241493" a="-10.2415"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2654.652832 7.892072 7200.383789" rpy="-0.000000 0.000000 100.241493" a="-10.2415"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2649.716797 7.892072 7218.813965" rpy="-0.000000 0.000000 65.555260" a="24.4447"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2634.604248 7.892072 7228.563965" rpy="-0.000000 0.000000 16.709221" a="73.2908"/>
 <group name="land_misc_barel_fire_3" pos="2633.724609 3.828366 7197.093262" rpy="-0.000000 -0.000000 0.000000" a="90"/>
-<group name="Land_Castle_Wall1_20_Turn" pos="2627.858154 7.892072 7155.949707" rpy="-0.000000 0.000000 143.526138" a="-53.5261"/>
+<group name="Land_Castle_Wall1_20_Turn" pos="2628.956543 7.892072 7154.546387" rpy="-0.000000 0.000000 143.526138" a="-53.5261"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2737.706787 12.541924 7204.806641" rpy="-0.000000 0.000000 100.241493" a="-10.2415"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2732.770752 12.541923 7223.236816" rpy="-0.000000 0.000000 65.555260" a="24.4447"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2717.658203 12.541872 7232.986816" rpy="-0.000000 0.000000 16.707674" a="73.2923"/>
@@ -690,7 +690,7 @@ This XML file does not appear to have any style information associated with it. 
 <group name="Land_Castle_Wall1_20_Turn" pos="2614.731934 7.024206 7180.045410" rpy="-0.000000 0.000000 108.941406" a="-18.9414"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2601.946777 3.985748 7168.012207" rpy="-0.000000 0.000000 -178.480667" a="-91.5193"/>
 <group name="Land_Castle_Wall1_20_Turn" pos="2599.755371 3.378435 7215.946289" rpy="-0.000000 0.000000 11.340053" a="78.66"/>
-<group name="StaticObj_Wall_BackAlley_01_l_1m_F" pos="2597.016113 3.846813 7190.562988" rpy="-0.000000 0.000000 80.999985" a="9.00002"/>
+<group name="StaticObj_Wall_BackAlley_01_l_1m_F" pos="2597.016113 3.846813 7190.562988" rpy="-0.000000 0.000000 80.999977" a="9.00002"/>
 <group name="StaticObj_Wall_BackAlley_01_l_1m_F" pos="2597.184326 3.846796 7189.427246" rpy="-0.000000 0.000000 80.999977" a="9.00002"/>
 <group name="Land_Misc_FeedShack" pos="2725.410156 10.283592 7261.763184" rpy="-0.000000 0.000000 -135.000092" a="-135"/>
 <group name="Land_Wreck_Caravan_WBrown" pos="2694.524170 5.747438 7143.046387" rpy="0.000000 0.000000 -27.000000" a="117"/>
@@ -700,14 +700,14 @@ This XML file does not appear to have any style information associated with it. 
 <group name="StaticObj_Boathouse_PierL" pos="2603.237061 -3.665442 7190.908691" rpy="-0.000000 0.000000 170.999863" a="-80.9999"/>
 <group name="Land_Mil_Barracks_Round" pos="2602.020996 3.014157 7185.018066" rpy="-0.000000 0.000000 171.503616" a="-81.5036"/>
 <group name="Land_Mil_Barracks_Round" pos="2600.245605 3.028204 7196.193359" rpy="-0.000000 0.000000 -8.866769" a="98.8668"/>
-<group name="StaticObj_Platform2_Wall" pos="2597.700684 -4.354283 7200.546875" rpy="179.999237 88.403076 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2598.895508 -4.354283 7192.252441" rpy="179.999237 88.402344 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2600.484131 -4.354283 7180.166504" rpy="179.999237 88.401604 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2599.395996 -4.354283 7189.195801" rpy="179.999237 88.402344 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2603.529053 -4.354283 7192.489746" rpy="179.999237 88.401604 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2605.320557 -4.354283 7180.781738" rpy="179.999237 88.401489 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2604.029541 -4.354283 7189.433105" rpy="179.999237 88.401604 -179.996613" a="-90.0034"/>
-<group name="StaticObj_Platform2_Wall" pos="2602.440918 -4.354283 7201.519043" rpy="179.999237 88.402344 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2597.700684 -4.354283 7200.546875" rpy="179.999237 88.402954 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2598.895508 -4.354283 7192.252441" rpy="179.999237 88.402222 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2600.484131 -4.354283 7180.166504" rpy="179.999237 88.401489 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2599.395996 -4.354283 7189.195801" rpy="179.999237 88.402222 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2603.529053 -4.354283 7192.489746" rpy="179.999237 88.401489 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2605.320557 -4.354283 7180.781738" rpy="179.999237 88.401367 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2604.029541 -4.354283 7189.433105" rpy="179.999237 88.401489 -179.996613" a="-90.0034"/>
+<group name="StaticObj_Platform2_Wall" pos="2602.440918 -4.354283 7201.519043" rpy="179.999237 88.402222 -179.996613" a="-90.0034"/>
 <group name="StaticObj_Wall_BackAlley_01_l_1m_F" pos="2597.547852 3.846929 7191.229004" rpy="-0.000000 0.000000 170.337784" a="-80.3378"/>
 <group name="StaticObj_Wall_BackAlley_01_l_1m_F" pos="2597.872070 3.843751 7188.973145" rpy="-0.000000 0.000000 170.337784" a="-80.3378"/>
 </map>
