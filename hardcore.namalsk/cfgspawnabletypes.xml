@@ -2662,4 +2662,69 @@
         </attachments>
     </type>
   
+  <!-- <type name="ZmbM_CitizenASkinny_Brown">
+    <cargo chance="0.80">
+        <item name="Ammo_40mm_Explosive" />
+        <item name="Ammo_40mm_Explosive" />
+        <item name="Ammo_40mm_Explosive" />
+        <item name="Ammo_40mm_Explosive" />
+    </cargo>
+</type> -->
+  <!--
+  <type name="MySpawnTier2">
+        <tags>
+            <value name="Tier2"/>
+        </tags>
+    </type>
+
+    <type name="MySpawnTier3">
+        <tags>
+            <value name="Tier3"/>
+        </tags>
+    </type>
+
+    <type name="MySpawnTier4">
+        <tags>
+            <value name="Tier4"/>
+        </tags>
+    </type>
+
+    <type name="MySpawnTier23">
+        <tags>
+            <value name="Tier23"/>
+        </tags>
+    </type>
+     
+  <type name="MySpawnTier34">
+        <tags>
+            <value name="Tier34"/>
+        </tags>
+    </type> -->
+ <!-- 
+  <type name="CustomBarracksLoot_HighTier">
+    <lifetime>3888000</lifetime> <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <nominal>0</nominal>         
+    <restock>0</restock>         
+    <min>0</min>                 
+    <max>0</max>                 
+    <usage/>                    
+    <value/>                     
+    <items>
+        <item name="AK101" chance="0.05" />
+        <item name="AKM" chance="0.05" />
+        <item name="PlateCarrierVest" chance="0.03" />
+        <item name="FAMAS" chance="0.02" />
+        <item name="NVGoggles" chance="0.02" />
+        <item name="ASVAL" chance="0.15" />
+        <item name="R12" chance="0.15" />
+        <item name="Aug" chance="0.10" />
+        <item name="SVD" chance="0.08" />
+        <item name="M4A1" chance="0.01" />
+        <item name="M16A2" />
+        <item name="M14" />
+        </items>
+</type>
+  
+  
+  -->
   </spawnabletypes>
