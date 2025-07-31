@@ -3,7 +3,7 @@
 <types>
 <type name="My_Backpacks_black_leather_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -18,7 +18,7 @@
 </type> 
 <type name="My_Backpacks_brown_backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -29,7 +29,7 @@
 </type> 
 <type name="My_Backpacks_DeathStranding_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -44,7 +44,7 @@
 </type> 
 <type name="My_Backpacks_DeathStranding_Backpack_Rot"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -55,7 +55,7 @@
 </type> 
 <type name="My_Backpacks_EUForce_Combat_Backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -66,7 +66,7 @@
 </type> 
 <type name="My_Backpacks_Fantasy_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -81,7 +81,7 @@
 </type> 
 <type name="My_Backpacks_hamburger_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -96,7 +96,7 @@
 </type> 
 <type name="My_Backpacks_Joel_backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -107,7 +107,7 @@
 </type> 
 <type name="My_Backpacks_LATE_backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -118,7 +118,7 @@
 </type> 
 <type name="My_Backpacks_lines_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -133,7 +133,7 @@
 </type> 
 <type name="My_Backpacks_LV_leather_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -148,7 +148,7 @@
 </type> 
 <type name="My_Backpacks_military_backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -159,7 +159,7 @@
 </type> 
 <type name="My_Backpacks_military_backpack_2"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -175,7 +175,7 @@
 </type> 
 <type name="My_Backpacks_military_tactical_backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -186,7 +186,7 @@
 </type> 
 <type name="My_Backpacks_old_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -201,7 +201,7 @@
 </type> 
 <type name="My_Backpacks_radio_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -216,7 +216,7 @@
 </type> 
 <type name="My_Backpacks_rucksack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -231,7 +231,7 @@
 </type> 
 <type name="My_Backpacks_Stylized_post_apocalypse_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -246,7 +246,7 @@
 </type> 
 <type name="My_Backpacks_Tactical_Sling_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -261,7 +261,7 @@
 </type> 
 <type name="My_Backpacks_Tactical_Sling_Backpack_NoAtt"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -272,7 +272,7 @@
 </type> 
 <type name="My_Backpacks_Urban_Black_Backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -283,7 +283,7 @@
 </type> 
 <type name="My_Backpacks_Urban_Flat_Backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -294,7 +294,7 @@
 </type> 
 <type name="My_Backpacks_Urban_White_Backpack"> 
 <nominal>0</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>0</min> 
 <quantmin>-1</quantmin> 
@@ -305,7 +305,7 @@
 </type> 
 <type name="My_Backpacks_VendingMachine_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -320,7 +320,7 @@
 </type> 
 <type name="My_Backpacks_yellow_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -336,7 +336,7 @@
 <!--New-->
 <type name="My_Backpacks_Alice_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -351,7 +351,7 @@
 </type> 
 <type name="My_Backpacks_camping_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -366,7 +366,7 @@
 </type> 
 <type name="My_Backpacks_kittycat_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -381,7 +381,7 @@
 </type> 
 <type name="My_Backpacks_cute_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -396,7 +396,7 @@
 </type> 
 <type name="My_Backpacks_guitar_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -411,7 +411,7 @@
 </type> 
 <type name="My_Backpacks_leather_backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -426,7 +426,7 @@
 </type> 
 <type name="My_Backpacks_military_backpack_3"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -442,7 +442,7 @@
 </type> 
 <type name="My_Backpacks_military_backpack_4"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
@@ -458,7 +458,7 @@
 </type> 
 <type name="My_Backpacks_Tactical_Backpack"> 
 <nominal>5</nominal> 
-<lifetime>3600</lifetime> 
+<lifetime>7200</lifetime> 
 <restock>0</restock> 
 <min>3</min> 
 <quantmin>-1</quantmin> 
