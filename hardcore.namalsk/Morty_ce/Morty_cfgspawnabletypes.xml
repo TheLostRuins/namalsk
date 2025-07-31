@@ -22,7 +22,7 @@
 			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HuntingOptic" chance="1.00" />
+			<item name="AD_SpecterDR" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
@@ -33,7 +33,7 @@
 			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HuntingOptic" chance="1.00" />
+			<item name="AD_SpecterDR" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
@@ -44,7 +44,7 @@
 			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HuntingOptic" chance="1.00" />
+			<item name="AD_NFATACR" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
@@ -55,7 +55,7 @@
 			<item name="TTC_Buttstock2" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HuntingOptic" chance="1.00" />
+			<item name="AD_NFATACR" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
@@ -420,7 +420,7 @@
 			<item name="TTC_ButtstockHK" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="TTC_VortexSE_Optic" chance="1.00" />
+			<item name="TTC_G28_Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="TTC_HK417_Magazine_20rnd" chance="1.00" />
