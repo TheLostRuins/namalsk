@@ -3,7 +3,7 @@
   
   <!-- food preset test delete if it causes problems or doesnt work -->
   
- <cargo chance="0.50" name="foodVillage">
+ <cargo chance="0.40" name="foodVillage">
 				<item name="SodaCan_Cola" chance="0.02" />
 				<item name="SodaCan_Pipsi" chance="0.02" />
 				<item name="SodaCan_Spite" chance="0.02" />
@@ -262,9 +262,11 @@
 	</cargo>
   
     <cargo chance="1.00" name="NVG"> 
-      <item name="NVGHeadstrap" chance="0.25" />
+        <item name="NVGHeadstrap" chance="0.25" />
       <item name="WeaponCleaningKit" chance="0.25" />
   </cargo>
+  
+  <!-- HAVE NOT USED ASSAULT BAG BLACK YET-->
   
   <attachments chance="1.00" name="Bag_Black">
     <item name="AssaultBag_Black" chance="0.50" />
