@@ -10,7 +10,7 @@
           120,
           6709
         ],
-        "Radius": 80,
+        "Radius": 0,
         "PosHeight": 70,
         "NegHeight": 0,
         "InnerPartDist": 100,
@@ -34,7 +34,7 @@
           6612
         ],
         "Radius": 150,
-        "PosHeight": 67,
+        "PosHeight": 87,
         "NegHeight": 12,
         "InnerPartDist": 100,
         "OuterOffset": 20,
