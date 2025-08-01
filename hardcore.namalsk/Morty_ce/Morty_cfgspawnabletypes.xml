@@ -8,7 +8,7 @@
 	</type>
 	<type name="TTC_KAC">
 		<attachments chance="1.00">
-			<item name="ACOGOptic" chance="1.00" />
+			<item name="TTC_HAMR" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
