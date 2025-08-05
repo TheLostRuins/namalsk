@@ -1,0 +1,53 @@
+coordinates for objects
+
+<group name="StaticObj_Cemetery_Tombstone1">
+	2628.74 2.9086 7194.92
+  89.9999 0 0
+
+  <group name="StaticObj_Cemetery_Tombstone1">
+2903.74 475.04 7196.71
+    90 0 0
+
+
+
+
+
+    <group name="StaticObj_Cemetery_Tombstone1">
+2883.02 506.622 7201.88
+      -79.2869 84.0216 15.1308
+
+      <group name="StaticObj_Cemetery_Tombstone1">
+2842.96 478.944 7202.57
+        90 0 0
+
+
+
+
+
+    <group name="StaticObj_Cemetery_Tombstone1">
+2821.7 486.052 7200.52
+      90 0 0
+
+      <group name="StaticObj_Cemetery_Tombstone1">
+300.768 2.56362 7283.47
+        0 0 0
+
+
+
+
+
+<group name="StaticObj_Furniture_phonebox">
+200.402 2.31813 7068.19
+  145.593 0 0
+
+  <group name="StaticObj_Furniture_phonebox">
+    1540.17 2.18447 7690.43
+    87.0857 -3.33507 1.12741
+
+
+
+
+
+     <group name="StaticObj_Furniture_phonebox">
+       1506.11 2.00002 7682.15
+       -9 0 0
