@@ -58,5 +58,5 @@ coordinates for objects
 			2913.01 20.9803 7792.09
 			-80.6482 0 0
 
-		
-<group name="StaticObj_Furniture_phonebox" pos="2913.008545 20.980326 7792.093262" rpy="-0.000000 0.000000 -80.648170" a="170.648"/>
+<group name="StaticObj_Furniture_foldingbed_matress" pos="1506.745361 1.692715 7681.529785" rpy="0.000000 0.000000 -9.000000" a="99"/>		
+<group name="StaticObj_Furniture_foldingbed_matress" pos="2913.776367 20.555637 7791.873535" rpy="-0.000000 -0.000000 9.000000" a="81"/>
