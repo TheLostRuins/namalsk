@@ -5,28 +5,28 @@ coordinates for objects
   89.9999 0 0
 
   <group name="StaticObj_Cemetery_Tombstone1">
-2903.74 475.04 7196.71
-    90 0 0
+328.655 89.9669 8203.5
+    90 -8.75123 8.36703
 
 
 
 
 
     <group name="StaticObj_Cemetery_Tombstone1">
-2883.02 506.622 7201.88
+307.934 121.548 8208.67
       -79.2869 84.0216 15.1308
 
       <group name="StaticObj_Cemetery_Tombstone1">
-2842.96 478.944 7202.57
-        90 0 0
+	      267.88 93.8706 8209.36
+        90 -8.43106 8.36703
 
 
 
 
 
     <group name="StaticObj_Cemetery_Tombstone1">
-2821.7 486.052 7200.52
-      90 0 0
+246.621 100.979 8207.31
+      90 -8.43106 8.36703
 
       <group name="StaticObj_Cemetery_Tombstone1">
 300.768 2.56362 7283.47
@@ -48,6 +48,11 @@ coordinates for objects
 
 
 
-     <group name="StaticObj_Furniture_phonebox">
+
+	<child type="dz\structures\furniture\beds\postel_panelak1.p3d" d
        1506.11 2.00002 7682.15
        -9 0 0
+
+		<child type="dz\structures\furniture\beds\postel_panelak1.p3d" d
+			2913.01 20.9803 7792.09
+			-80.6482 0 0
