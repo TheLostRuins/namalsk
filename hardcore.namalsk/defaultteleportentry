@@ -1,0 +1,56 @@
+{
+  "TeleportEntries": [
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "Teleport 1",
+      "ObjectType": "Land_Door_germa_1",
+      "ObjectCoordinates": [
+        7758.64013671875,
+        16.184600830078125,
+        14116.900390625
+      ],
+      "ObjectOrientation": [
+        0,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        10.2998046875,
+        10.765998840332031,
+        10.27001953125
+      ],
+      "CheckRadius": 1,
+      "RequiredItem": "Crowbar",
+      "RequiredItemDamagePercent": 100,
+      "TeleportActiveTimeSeconds": 30,
+      "TeleportCooldownSeconds": 60,
+      "MissingItemMessage": "You need a Crowbar to open the barn!"
+    },
+    {
+      "EnableTeleport": 0,
+      "TeleportName": "Teleport 2",
+      "ObjectType": "Land_House_1W01",
+      "ObjectCoordinates": [
+        1250,
+        15,
+        1350
+      ],
+      "ObjectOrientation": [
+        0,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        1300,
+        20,
+        1400
+      ],
+      "CheckRadius": 2.5,
+      "RequiredItem": "Shovel",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 0,
+      "TeleportCooldownSeconds": 0,
+      "MissingItemMessage": "A Shovel is required to interact with this house!"
+    }
+  ]
+}
