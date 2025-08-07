@@ -1,0 +1,29 @@
+{
+  "TeleportEntries": [
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "1st",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2628.74,
+        2.9086,
+        7194.92
+      ],
+      "ObjectOrientation": [
+        89.9999,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        328.655273,
+        89.966858,
+        8203.501953
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    }
+  ]
+}
