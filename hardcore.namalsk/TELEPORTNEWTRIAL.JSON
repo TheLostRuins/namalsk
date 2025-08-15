@@ -1,0 +1,154 @@
+{
+  "TeleportEntries": [
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "1st",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2628.74,
+        2.9086,
+        7194.92
+      ],
+      "ObjectOrientation": [
+        89.9999,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        328.655273,
+        89.966858,
+        8203.501953
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+{
+      "EnableTeleport": 1,
+      "TeleportName": "2nd",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        307.933563,
+        121.547531,
+        8208.671875
+      ],
+      "ObjectOrientation": [
+        15.129966,
+        84.011223,
+        -79.286217
+      ],
+      "TeleportPosition": [
+        267.880463,
+        93.870598,
+        8209.360352
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+{
+      "EnableTeleport": 1,
+      "TeleportName": "3rd",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        246.621185,
+        100.978546,
+        8207.312500
+      ],
+      "ObjectOrientation": [
+        0.000084,
+        -0.000008,
+        89.999954
+      ],
+      "TeleportPosition": [
+        300.768158,
+        2.563615,
+        7283.474609
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+{
+      "EnableTeleport": 1,
+      "TeleportName": "4th",
+      "ObjectType": "StaticObj_Furniture_phonebox",
+      "ObjectCoordinates": [
+        200.402115,
+        2.318133,
+        7068.191406
+      ],
+      "ObjectOrientation": [
+        -0.000000,
+        0.000000,
+        145.593323
+      ],
+      "TeleportPosition": [
+        1540.168823,
+        2.184472,
+        7690.426758
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "6th",
+      "ObjectType": "StaticObj_picture_g",
+      "ObjectCoordinates": [
+        2908.91,
+        22.5049,
+        7785.97
+      ],
+      "ObjectOrientation": [
+        -170.628,
+        -90,
+        180
+      ],
+      "TeleportPosition": [
+        1746,
+        2,
+        8629
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+{
+      "EnableTeleport": 1,
+      "TeleportName": "5th",
+      "ObjectType": "StaticObj_Furniture_foldingbed_matress",
+      "ObjectCoordinates": [
+        1506.745361,
+        1.692715,
+        7681.529785
+      ],
+      "ObjectOrientation": [
+        0.000000,
+        0.000000,
+        -9.000000
+      ],
+      "TeleportPosition": [
+        2913.776367,
+        20.555637,
+        7791.873535
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    }
+  ]
+}
