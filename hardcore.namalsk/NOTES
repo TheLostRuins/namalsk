@@ -53,3 +53,14 @@ x-1742 y-9.4 z-8628
 
 then take the individual zombie spawns from the .map file xml version and add those indidividual zombie spawn locations to the env-zombie spawn xml file. you should see the other 2 zombie spawn locations (army)
 as well as the other bear spawn (in different file). 
+
+
+
+
+
+
+
+
+-------------
+
+new coordinates for church teleport
