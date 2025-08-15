@@ -48,5 +48,8 @@ next steps for overhaul changes.
 
 re-upload the .map file bc we updated it. (this file potentially needs to be read again bc we edited the xml technically so re-uploading is necessary) 
 
+x-1742 y-9.4 z-8628
+
+
 then take the individual zombie spawns from the .map file xml version and add those indidividual zombie spawn locations to the env-zombie spawn xml file. you should see the other 2 zombie spawn locations (army)
 as well as the other bear spawn (in different file). 
