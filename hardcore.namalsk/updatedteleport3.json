@@ -225,6 +225,81 @@
       "TeleportActiveTimeSeconds": 30,
       "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
     },
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT2",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2080.81,
+        2.24277,
+        7932.06
+      ],
+      "ObjectOrientation": [
+        -12.5648,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        2982,
+        43,
+        7288
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT3",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2156.5,
+        2.24317,
+        7892.74
+      ],
+      "ObjectOrientation": [
+        81,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        3117,
+        71,
+        7794
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT4",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2122.44,
+        2.29311,
+        7820.39
+      ],
+      "ObjectOrientation": [
+        157.95,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        3179,
+        38,
+        8070
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
 {
       "EnableTeleport": 1,
       "TeleportName": "5th",
