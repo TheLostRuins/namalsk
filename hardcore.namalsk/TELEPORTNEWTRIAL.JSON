@@ -90,9 +90,9 @@
         145.593323
       ],
       "TeleportPosition": [
-        1540.168823,
-        2.184472,
-        7690.426758
+        1317.17,
+        2.64393,
+        6261.9
       ],
       "CheckRadius": 5,
       "RequiredItem": "",
@@ -155,14 +155,14 @@
       "TeleportName": "5th",
       "ObjectType": "StaticObj_Furniture_foldingbed_matress",
       "ObjectCoordinates": [
-        1506.745361,
-        1.692715,
-        7681.529785
+        1284.71,
+        1.62584,
+        6254.17
       ],
       "ObjectOrientation": [
         0.000000,
         0.000000,
-        -9.000000
+        -8.99993
       ],
       "TeleportPosition": [
         2913.776367,
