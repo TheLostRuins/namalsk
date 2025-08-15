@@ -46,7 +46,7 @@ coordinates for objects
     87.0857 -3.33507 1.12741
 
 <group name="StaticObj_Furniture_phonebox" pos="200.402115 2.318133 7068.191406" rpy="-0.000000 0.000000 145.593323" a="-55.5933"/>
-<group name="StaticObj_Furniture_phonebox" pos="1540.168823 2.184472 7690.426758" rpy="0.000000 -0.000000 87.085732" a="2.91427"/>
+<group name="StaticObj_Furniture_phonebox" pos="1540.168823 2.184472 7690.426758" rpy="0.000000 -0.000000 87.085732" a="2.91427"/> ----- CHANGING LOCATION
 
 
 
@@ -58,5 +58,5 @@ coordinates for objects
 			2913.01 20.9803 7792.09
 			-80.6482 0 0
 
-<group name="StaticObj_Furniture_foldingbed_matress" pos="1506.745361 1.692715 7681.529785" rpy="0.000000 0.000000 -9.000000" a="99"/>		
+<group name="StaticObj_Furniture_foldingbed_matress" pos="1506.745361 1.692715 7681.529785" rpy="0.000000 0.000000 -9.000000" a="99"/>		-------CHANGING LOCATION
 <group name="StaticObj_Furniture_foldingbed_matress" pos="2913.776367 20.555637 7791.873535" rpy="-0.000000 -0.000000 9.000000" a="81"/>
