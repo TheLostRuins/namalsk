@@ -127,6 +127,31 @@
     },
 {
       "EnableTeleport": 1,
+      "TeleportName": "EXIT",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        2135.97,
+        2.24321,
+        7926.22
+      ],
+      "ObjectOrientation": [
+        -18,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        2971,
+        55,
+        7556
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+{
+      "EnableTeleport": 1,
       "TeleportName": "5th",
       "ObjectType": "StaticObj_Furniture_foldingbed_matress",
       "ObjectCoordinates": [
