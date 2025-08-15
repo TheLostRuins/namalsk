@@ -175,6 +175,31 @@
       "TeleportActiveTimeSeconds": 30,
       "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
     },
+    {
+      "EnableTeleport": 1,
+      "TeleportName": "9th",
+      "ObjectType": "StaticObj_picture_a",
+      "ObjectCoordinates": [
+        1680.76,
+        14.4024,
+        8794.21
+      ],
+      "ObjectOrientation": [
+        153.508,
+        -89.6439,
+        -15.6305
+      ],
+      "TeleportPosition": [
+        1263,
+        2.3,
+        8221
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
 {
       "EnableTeleport": 1,
       "TeleportName": "EXIT",
