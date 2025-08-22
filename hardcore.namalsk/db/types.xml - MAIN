@@ -3978,8 +3978,8 @@
     <tag name="medical" />
   </type>
   <type name="VitaminBottle">
-    <nominal>20</nominal>
-    <min>15</min>
+    <nominal>30</nominal>
+    <min>20</min>
     <lifetime>5400</lifetime>
     <restock>0</restock>
     <quantmin>20</quantmin>
@@ -6532,8 +6532,8 @@
     <tag name="firefighter" />
   </type>
   <type name="MiniDress_RedChecker">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6546,8 +6546,8 @@
     <tag name="civilian" />
   </type>
   <type name="MiniDress_WhiteChecker">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6560,8 +6560,8 @@
     <tag name="civilian" />
   </type>
   <type name="MiniDress_GreenChecker">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6574,8 +6574,8 @@
     <tag name="civilian" />
   </type>
   <type name="MiniDress_BrownChecker">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6588,8 +6588,8 @@
     <tag name="civilian" />
   </type>
   <type name="MiniDress_BlueChecker">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6602,8 +6602,8 @@
     <tag name="civilian" />
   </type>
   <type name="MiniDress_BlueWithDots">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6616,8 +6616,8 @@
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Black">
-    <nominal>10</nominal>
-    <min>1</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6630,8 +6630,8 @@
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Green">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7576,8 +7576,8 @@
     <tag name="civilian" />
   </type>
   <type name="DownJacket_Blue">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7590,8 +7590,8 @@
     <tag name="civilian" />
   </type>
   <type name="DownJacket_Red">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7618,8 +7618,8 @@
     <tag name="civilian" />
   </type>
   <type name="DownJacket_Green">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8623,7 +8623,7 @@
 
   <!-- NAMALSK - CLOTHES - VESTS -->
   <type name="PlateCarrierVest">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -8637,7 +8637,7 @@
     <tag name="military" />
   </type>
   <type name="PlateCarrierVest_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -8651,7 +8651,7 @@
     <tag name="military" />
   </type>
   <type name="PlateCarrierVest_Green">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -8665,7 +8665,7 @@
     <tag name="military" />
   </type>
   <type name="PlateCarrierVest_Camo">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -8679,7 +8679,7 @@
     <tag name="military" />
   </type>
   <type name="PlateCarrierVest_Winter">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -9523,8 +9523,8 @@
     <tag name="industrial" />
   </type>
   <type name="HuntingBag">
-    <nominal>15</nominal>
-    <min>10</min>
+    <nominal>10</nominal>
+    <min>7</min>
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9740,8 +9740,8 @@
     <tag name="civilian" />
   </type>
   <type name="AviatorGlasses">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9769,8 +9769,8 @@
     <tag name="military" />
   </type>
   <type name="DesignerGlasses">
-    <nominal>7</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9783,8 +9783,8 @@
     <tag name="civilian" />
   </type>
   <type name="ThickFramesGlasses">
-    <nominal>7</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9797,8 +9797,8 @@
     <tag name="civilian" />
   </type>
   <type name="ThinFramesGlasses">
-    <nominal>7</nominal>
-    <min>3</min>
+    <nominal>2</nominal>
+    <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12455,8 +12455,8 @@
     <tag name="industrial" />
   </type>
   <type name="SurgicalMask">
-    <nominal>10</nominal>
-    <min>7</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
