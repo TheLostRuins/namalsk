@@ -46,7 +46,7 @@ cfgeventspawns.xml
 <event name="VehicleCivilianSedan">
                                     <pos x="6575.89" z="11026" a="0" />
                                     <pos x="8384.69" z="10845" a="0" />
-<4476.81, 12.1148, 11097.1>         <pos x="4476.81" z="11097" a="0" />
+                                    <pos x="4476.81" z="11097" a="0" />
 	</event>
 
 
