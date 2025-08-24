@@ -20,7 +20,7 @@ events.xml
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>300</lifetime>
+        <lifetime>14000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
