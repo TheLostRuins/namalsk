@@ -44,7 +44,7 @@ events.xml
 
 cfgeventspawns.xml
 <event name="VehicleCivilianSedan">
-                                    <--	<pos x="6575.89" z="15.0265" a="11030.4" /> -example --> 
+                                    <pos x="6575.89" z="15.0265" a="11030.4" />
 
 	</event>
 
