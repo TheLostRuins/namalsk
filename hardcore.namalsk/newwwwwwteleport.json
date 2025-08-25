@@ -300,6 +300,81 @@
       "TeleportActiveTimeSeconds": 30,
       "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
     },
+        {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT5",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        1287,
+        2.24,
+        6242
+      ],
+      "ObjectOrientation": [
+        27,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        0,
+        0,
+        0
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+        {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT6",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        1284,
+        2.24,
+        6245
+      ],
+      "ObjectOrientation": [
+        52.3,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        0,
+        0,
+        0
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
+        {
+      "EnableTeleport": 1,
+      "TeleportName": "EXIT7",
+      "ObjectType": "StaticObj_Cemetery_Tombstone1",
+      "ObjectCoordinates": [
+        1283,
+        2.24,
+        6248.69
+      ],
+      "ObjectOrientation": [
+        80.99,
+        0,
+        0
+      ],
+      "TeleportPosition": [
+        0,
+        0,
+        0
+      ],
+      "CheckRadius": 5,
+      "RequiredItem": "",
+      "RequiredItemDamagePercent": 0,
+      "TeleportActiveTimeSeconds": 30,
+      "MissingItemMessage": "It is impossible to get to the lighthouse without the golden key!"
+    },
     {
       "EnableTeleport": 1,
       "TeleportName": "5th",
