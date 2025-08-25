@@ -12,7 +12,7 @@ types.xml
 
  <type name="CivSedanDoors_BackLeft">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -24,7 +24,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackLeft_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -36,7 +36,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackLeft_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -48,7 +48,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackLeft_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -60,7 +60,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackLeft_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -72,7 +72,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackLeft_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -84,7 +84,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -96,7 +96,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -108,7 +108,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -120,7 +120,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -132,7 +132,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -144,7 +144,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_BackRight_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -156,7 +156,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -168,7 +168,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -180,7 +180,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -192,7 +192,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -204,7 +204,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -216,7 +216,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_CoDriver_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -228,7 +228,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -240,7 +240,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -252,7 +252,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -264,7 +264,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -276,7 +276,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -288,7 +288,7 @@ types.xml
     </type>
     <type name="CivSedanDoors_Driver_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -300,7 +300,7 @@ types.xml
     </type>
     <type name="CivSedanHood">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -312,7 +312,7 @@ types.xml
     </type>
     <type name="CivSedanHood_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -324,7 +324,7 @@ types.xml
     </type>
     <type name="CivSedanHood_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -336,7 +336,7 @@ types.xml
     </type>
     <type name="CivSedanHood_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -348,7 +348,7 @@ types.xml
     </type>
     <type name="CivSedanHood_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -360,7 +360,7 @@ types.xml
     </type>
     <type name="CivSedanHood_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -372,7 +372,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -384,7 +384,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk_Black">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -396,7 +396,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk_BlackRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -408,7 +408,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk_WhiteRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -420,7 +420,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk_Wine">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -432,7 +432,7 @@ types.xml
     </type>
     <type name="CivSedanTrunk_WineRust">
         <lifetime>0</lifetime>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -444,7 +444,7 @@ types.xml
     </type>
     <type name="CivSedanWheel">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -456,7 +456,7 @@ types.xml
     </type>
     <type name="CivSedanWheel_Ruined">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -467,7 +467,7 @@ types.xml
     </type>
     <type name="CarRadiator">
         <nominal>0</nominal>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -486,7 +486,7 @@ events.xml
         <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
-        <lifetime>20</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
