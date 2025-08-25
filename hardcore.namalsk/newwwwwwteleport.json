@@ -315,9 +315,9 @@
         0
       ],
       "TeleportPosition": [
-        0,
-        0,
-        0
+        3041,
+        52,
+        7722
       ],
       "CheckRadius": 5,
       "RequiredItem": "",
@@ -340,9 +340,9 @@
         0
       ],
       "TeleportPosition": [
-        0,
-        0,
-        0
+        3005,
+        32.5,
+        7811
       ],
       "CheckRadius": 5,
       "RequiredItem": "",
@@ -365,9 +365,9 @@
         0
       ],
       "TeleportPosition": [
-        0,
-        0,
-        0
+        2906,
+        22.3,
+        07606
       ],
       "CheckRadius": 5,
       "RequiredItem": "",
