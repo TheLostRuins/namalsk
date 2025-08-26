@@ -82,3 +82,14 @@ x- 2263.5 y- 28.4601 z- 7252.53 orientation - x- 90 y- 0 z- 0
 
 
 <1317.27, 2.02496, 6261.83>
+
+inti.c
+
+void ClearInactiveVehicles()
+{
+    // Define the despawn time in seconds (1 hour = 3600 seconds)
+    const float DESPAWN_TIME = 3600;
+
+    // Find all objects on the map
+    array<Object> objects = new array<Object>();
+    Get
