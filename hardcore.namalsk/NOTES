@@ -93,3 +93,29 @@ void ClearInactiveVehicles()
     // Find all objects on the map
     array<Object> objects = new array<Object>();
     Get
+
+
+ALVERICS CLOTHING MOD NUMBERS - NOMINALS
+
+pants-5/5/5/5/10/5/5/5/5/
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+		<tag name="police" />
+      <tag name="fishing" />
+      <tag name="farm" />
+shirts-5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/5/
+		<category name="clothes" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
+
+-backpacks-5/5/5/5/5/
+		<category name="bags" />
+        <tag name="civilian" />
+        <tag name="industrial" />
+        <tag name="farm" />
+
+helmets-15/
+		<category name="clothes" />
+        <tag name="military" />
