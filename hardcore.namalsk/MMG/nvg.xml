@@ -6,76 +6,76 @@
     <type name="MMG_nbc_pouch">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <restock>300</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
+        <tag name="military"/>
+        <tag name="hunting"/>
         <usage name="Industrial"/>
         <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 
 <!--GP-NVG-->
 
     <type name="mmg_gp_nvg_black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
+        <restock>300</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="military"/>
+        <tag name="hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_gp_nvg_tan">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
+        <restock>300</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="military"/>
+        <tag name="hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_gp_nvg_green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
+        <restock>300</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="military"/>
+        <tag name="hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
     <type name="mmg_gp_nvg_grey">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>7200</restock>
-        <min>0</min>
+        <restock>300</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Military"/>
-        <usage name="Hunting"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
+        <tag name="military"/>
+        <tag name="hunting"/>
+        <value user="Tier3"/>
+        <value user="Tier4"/>
     </type>
 </types>
