@@ -1,0 +1,20 @@
+{
+  "Roles": [
+    "admin"
+  ]
+}
+
+
+
+
+
+{
+  "Roles": [
+    "everyone"
+  ]
+}
+
+
+
+
+USE TOP ONE FOR ADMINS, BOTTOM ONE FOR EVERYONE ELSE
