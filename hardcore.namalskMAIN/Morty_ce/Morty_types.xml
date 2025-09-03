@@ -8,7 +8,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 <types>
 
 <type name="TTC_KAC">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -279,7 +279,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <usage name="Military"/>
     </type>
 	<type name="TTC_M16">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -294,7 +294,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_AEK973">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -309,7 +309,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
     <type name="TTC_Universal_Suppressor_BLACK">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -324,7 +324,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Universal_Suppressor_CAMO">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -413,7 +413,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier3"/>
     </type>
 	<type name="TTC_M4DMR">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -428,7 +428,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_M4DMROD">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -443,7 +443,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_M4DMRDesert">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -520,10 +520,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 	<!-- New items update 1.10 -->
 	<!-- F&D Defence .338 -->
 	<type name="TTC_FD338">
-		<nominal>4</nominal>
+		<nominal>2</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
-		<min>2</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -715,7 +715,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Honey_Suppressor">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -899,7 +899,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 	</type>
 	<!-- M16A4 -->
 	<type name="TTC_M16A4">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -915,10 +915,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 	</type>
 	<!-- 50 Beowulf -->
 	<type name="TTC_Beowulf">
-		<nominal>2</nominal>
+		<nominal>0</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -930,10 +930,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
     <type name="TTC_50Beo_mag">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -945,10 +945,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_AmmoBox_50Beo_20rnd">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -960,10 +960,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Ammo_50Beo">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -976,7 +976,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
     </type>
 	<!-- New universal suppressor colors -->
     <type name="TTC_Universal_Suppressor_Tan">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -991,7 +991,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_Universal_Suppressor_Snow">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -1063,7 +1063,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="TTC_DMR_Suppressor">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>3</min>
@@ -1837,10 +1837,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_DMR_RifleFrame">
-		<nominal>5</nominal>
+		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
 		<restock>600</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1852,10 +1852,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_DMR_Barrel_762">
-		<nominal>3</nominal>
+		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
 		<restock>600</restock>
-		<min>2</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1867,10 +1867,10 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
 	</type>
 	<type name="TTC_DMR_Barrel_556">
-		<nominal>3</nominal>
+		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
 		<restock>600</restock>
-		<min>2</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1883,7 +1883,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 	</type>
 	<!-- Update 1.11 -->
 	<type name="TTC_HKG28">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -1938,7 +1938,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<usage name="Hunting" />
 	</type>
 	<type name="TTC_M4Tac">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -1968,7 +1968,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_M14">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -1998,7 +1998,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_MRAD">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -2209,7 +2209,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
         <usage name="Military"/>
     </type>
 	<type name="TTC_G3">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -2254,7 +2254,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_BugBuster">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>600</restock>
         <min>1</min>
@@ -2342,7 +2342,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<tag name="civilian" />
     </type>
 	<type name="TTC_HK417">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -2372,7 +2372,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
     <type name="TTC_M14Suppressor">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2796,7 +2796,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
     </type>
 	<!-- Update 1.12.1-->
 	<type name="TTC_AG3">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -2826,7 +2826,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_FAL">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -3064,7 +3064,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<tag name="farm" />
     </type>
 	<type name="TTC_CAR15">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -3431,7 +3431,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_M4Tac_Black">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -3659,7 +3659,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
     </type>
 	<!-- Update 1.13.5 -->
 	<type name="TTC_M4DMRSNOW">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -3773,7 +3773,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<usage name="Village" />
     </type>
 	<type name="TTC_AWM">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -3892,7 +3892,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier5"/>
 	</type>
 	<type name="TTC_TAVOR">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -4010,7 +4010,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
     </type>
 	<!-- Update 1.15 -->
 	<type name="TTC_HK416Comp">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -4124,7 +4124,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<value user="Tier4"/>
     </type>
 	<type name="TTC_MK18">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
@@ -4170,7 +4170,7 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
     </type>
 	<!-- Update 1.15 -->
 	<type name="TTC_MK18_Black">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>10800</lifetime>
 		<restock>600</restock>
 		<min>1</min>
