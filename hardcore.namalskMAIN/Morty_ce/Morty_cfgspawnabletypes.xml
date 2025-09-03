@@ -208,7 +208,7 @@
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.50">
 			<item name="TTC_Honey_Suppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
@@ -222,7 +222,7 @@
 		<attachments chance="1.00">
 			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.50">
 			<item name="TTC_Honey_Suppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
