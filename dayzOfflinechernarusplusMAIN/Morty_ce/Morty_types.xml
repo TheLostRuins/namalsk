@@ -528,9 +528,9 @@ bc a lot of them are set to tier 6 and 7 which would make them too rare. and als
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
-		<category name="lantia" />
+		
 		<usage name="Military"/>
-		<value user="Tier7"/>
+		<value name="Tier4"/>
 	</type>
     <type name="TTC_338mag_10rnd">
         <nominal>5</nominal>
