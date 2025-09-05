@@ -17,9 +17,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>				
     </type>
     <type name="AD_MosinMount">
         <nominal>10</nominal>
@@ -31,11 +31,11 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <tag name="hunting" />
+        <usage name="Hunting"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>			
     </type>	
     <type name="AD_ACOG">
         <nominal>5</nominal>
@@ -48,9 +48,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>				
     </type>		
     <type name="AD_ACOG_MosinMount">
         <nominal>0</nominal>
@@ -89,9 +89,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>		
     </type>		
     <type name="AD_SpecterDR_MosinMount">
@@ -131,9 +131,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>			
     </type>
     <type name="AD_ACOG_RMR_MosinMount">
@@ -173,9 +173,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
         <value name="Tier4"/>				
     </type>
     <type name="AD_DHF5_MosinMount">
@@ -216,10 +216,10 @@
         <category name="weapons"/>
         <usage name="Military"/>	
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>	
     <type name="AD_MRS_MosinMount">
         <nominal>0</nominal>
@@ -260,10 +260,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>	
     <type name="AD_NFATACR_MosinMount">
         <nominal>0</nominal>
@@ -302,10 +302,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
     </type>		
     <type name="AD_NFATACR_1_8_MosinMount">
         <nominal>0</nominal>
@@ -344,10 +344,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>		
     <type name="AD_OKP7_MosinMount">
         <nominal>0</nominal>
@@ -387,14 +387,14 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-		<tag name="hunting" />
-		<tag name="industrial" />
-		<tag name="civilian" />
+		<usage name="Hunting"/>
+		<usage name="Industrial"/>
+		<usage name="Town"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>			
     </type>	
     <type name="AD_Pilad_MosinMount">
         <nominal>0</nominal>
@@ -435,10 +435,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>			
     </type>		
     <type name="AD_PVS4_MosinMount">
         <nominal>0</nominal>
@@ -480,10 +480,10 @@
         <category name="weapons"/>		
         <tag name="police" />
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>			
     </type>			
     <type name="AD_RMR_LM">
         <nominal>10</nominal>
@@ -496,10 +496,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>		
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>			
     </type>		
     <type name="AD_RMR_LM_MosinMount">
         <nominal>0</nominal>
@@ -540,10 +540,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>		
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>			
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>			
     </type>		
     <type name="AD_RMR_TM_MosinMount">
         <nominal>0</nominal>
@@ -598,10 +598,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>		
     <type name="AD_XPS34_MosinMount">
         <nominal>0</nominal>
@@ -642,10 +642,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>		
     <type name="AD_XPS34_HHS_MosinMount">
         <nominal>0</nominal>
@@ -686,10 +686,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>		
     <type name="AD_G33_MosinMount">
         <nominal>0</nominal>
@@ -730,10 +730,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value user="Tier1"/>
-        <value user="Tier2"/>
-        <value user="Tier3"/>
-        <value user="Tier4"/>				
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>				
     </type>
     <type name="AD_LeupoldMk4_MosinMount">
         <nominal>0</nominal>
