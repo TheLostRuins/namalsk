@@ -88,6 +88,7 @@ class CfgVehicles
     
     //Gloves
     class TacticalGloves_ColorBase;
+	class WoolGloves_Colorbase;
     
     //Shoes
     class MilitaryBoots_ColorBase;
@@ -105,111 +106,829 @@ class CfgVehicles
     
     class anime_shirt: QuiltedJacket_ColorBase
     {
-        displayName="anime";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
+        displayName="Zack";
+        descriptionShort="this isn't the end...";
+        itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\anime4.paa",
-            "Testmod\anime4.paa",
-            "Testmod\anime4.paa"
+            "Testmod\Anime\anime1.paa",
+            "Testmod\Anime\anime1.paa",
+            "Testmod\Anime\anime1.paa"
         };
     };
     
 	
-	    class anime_shirt2: QuiltedJacket_ColorBase
-    {
-        displayName="anime2";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\anime3.paa",
-            "Testmod\anime3.paa",
-            "Testmod\anime3.paa"
-        };
-    };
-	
 	    class anime_shirt3: QuiltedJacket_ColorBase
     {
-        displayName="anime3";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
+        displayName="Lust";
+        descriptionShort="don't fall for it...";
+        itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\anime5.paa",
-            "Testmod\anime5.paa",
-            "Testmod\anime5.paa"
+            "Testmod\Anime\anime2.paa",
+            "Testmod\Anime\anime2.paa",
+            "Testmod\Anime\anime2.paa"
         };
     };
 	
-	
-	    class anime_shirt4: QuiltedJacket_ColorBase
-    {
-        displayName="anime4";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\anime6.paa",
-            "Testmod\anime6.paa",
-            "Testmod\anime6.paa"
-        };
-    };
+
 	
 		class anime_shirt5: QuiltedJacket_ColorBase
     {
-        displayName="anime5";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
+        displayName="cowgirl";
+        descriptionShort="hey there...";
+        itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\anime7.paa",
-            "Testmod\anime7.paa",
-            "Testmod\anime7.paa"
+            "Testmod\Anime\anime.paa",
+            "Testmod\Anime\anime.paa",
+            "Testmod\Anime\anime.paa"
         };
     };
 	
 	
-			class anime_shirt6: QuiltedJacket_ColorBase
+		    class anime_shirt4: QuiltedJacket_ColorBase
     {
-        displayName="anime6";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
+        displayName="Warrior Status";
+        descriptionShort="legends never die!";
+        itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\quiltedjacket_smoke.paa",
-            "Testmod\quiltedjacket_smoke.paa",
-            "Testmod\quiltedjacket_smoke.paa"
+            "Testmod\Anime\quiltedjacket_warrior.paa",
+            "Testmod\Anime\quiltedjacket_warrior.paa",
+            "Testmod\Anime\quiltedjacket_warrior.paa"
         };
     };
 	
-				class anime_shirt7: QuiltedJacket_ColorBase
+
+	
+		class anime_shirt6: QuiltedJacket_ColorBase
     {
-        displayName="anime7";
-        descriptionShort="oh yeah...";
-        itemsCargoSize[] = {8,3};
+        displayName="Tough";
+        descriptionShort="you sexy bitch";
+        itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\quiltedjacket_warrior.paa",
-            "Testmod\quiltedjacket_warrior.paa",
-            "Testmod\quiltedjacket_warrior.paa"
+            "Testmod\Anime\quiltedjacket_smoke.paa",
+            "Testmod\Anime\quiltedjacket_smoke.paa",
+            "Testmod\Anime\quiltedjacket_smoke.paa"
         };
     };
+	
+	
+			class hunting_bag_space: HuntingBag
+    {
+        displayName="hunter space backpack";
+        descriptionShort="up, up and away...";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\hunting_bag_space.paa",
+            "Testmod\Space_set\hunting_bag_space.paa",
+            "Testmod\Space_set\hunting_bag_space.paa"
+        };
+    };
+	
+				class hunting_bag1: HuntingBag
+    {
+        displayName="hunter neon backpack";
+        descriptionShort="pretty lights";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\hunting_bag_neon.paa",
+            "Testmod\Neon_set\hunting_bag_neon.paa",
+            "Testmod\Neon_set\hunting_bag_neon.paa"
+        };
+    };
+	
+	
+					class hunting_bag2: HuntingBag
+    {
+        displayName="hunter galaxy backpack";
+        descriptionShort="space man...";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\hunting_bag_galaxy.paa",
+            "Testmod\hunting_bag_galaxy.paa",
+            "Testmod\hunting_bag_galaxy.paa"
+        };
+    };
+	
+	
+						class Space_gloves: WoolGloves_Colorbase
+    {
+        displayName="Wool space gloves";
+        descriptionShort="intergalactic finger holes...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\woolgloves_space.paa",
+            "Testmod\Space_set\woolgloves_space.paa",
+            "Testmod\Space_set\woolgloves_space.paa"
+        };
+    };
+	
+							class mich2001_space: Mich2001Helmet
+    {
+        displayName="Space Helmet";
+        descriptionShort="forgot the oxygen tank...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\mich2001_space.paa",
+            "Testmod\Space_set\mich2001_space.paa",
+            "Testmod\Space_set\mich2001_space.paa"
+        };
+    };
+	
+	
+								class Space_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Space mask";
+        descriptionShort="face of space";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\balaclava_space.paa",
+            "Testmod\Space_set\balaclava_space.paa",
+            "Testmod\Space_set\balaclava_space.paa"
+        };
+    };
+	
+	
+									class Space_pants: CargoPants_ColorBase
+    {
+        displayName="space pants";
+        descriptionShort="put your hands down my pants, and i'll bet you feel space...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\cargopants_space.paa",
+            "Testmod\Space_set\cargopants_space.paa",
+            "Testmod\Space_set\cargopants_space.paa"
+        };
+    };
+	
+	
+									class Space_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Space shoes";
+        descriptionShort="not the same 90's space boots you're thinking of...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\militaryboots_space.paa",
+            "Testmod\Space_set\militaryboots_space.paa",
+            "Testmod\Space_set\militaryboots_space.paa"
+        };
+    };
+	
+	
+										class Space_jacket: M65Jacket_ColorBase
+    {
+        displayName="space jacket";
+        descriptionShort="jacket in space...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\m65_jacket_space.paa",
+            "Testmod\Space_set\m65_jacket_space.paa",
+            "Testmod\Space_set\m65_jacket_space.paa"
+        };
+    };
+	
+											class Space_plate: PlateCarrierVest
+    {
+        displayName="space plate";
+        descriptionShort="a space for plates...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\ballisticvest_space.paa",
+            "Testmod\Space_set\ballisticvest_space.paa",
+            "Testmod\Space_set\ballisticvest_space.paa"
+        };
+    };
+	
+							class Neon_gloves: WoolGloves_Colorbase
+    {
+        displayName="Neon gloves";
+        descriptionShort="light fingers...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\woolgloves_neon.paa",
+            "Testmod\Neon_set\woolgloves_neon.paa",
+            "Testmod\Neon_set\woolgloves_neon.paa"
+        };
+    };
+	
+								class mich2001_neon: Mich2001Helmet
+    {
+        displayName="Neon Helmet";
+        descriptionShort="light helmet...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\mich2001_neon.paa",
+            "Testmod\Neon_set\mich2001_neon.paa",
+            "Testmod\Neon_set\mich2001_neon.paa"
+        };
+    };
+	
+									class Neon_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Neon mask";
+        descriptionShort="Neon face of lights";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\balaclava_neon.paa",
+            "Testmod\Neon_set\balaclava_neon.paa",
+            "Testmod\Neon_set\balaclava_neon.paa"
+        };
+    };
+	
+										class Neon_pants: CargoPants_ColorBase
+    {
+        displayName="Neon Pants";
+        descriptionShort="A party of lights in my pants";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\cargopants_neon.paa",
+            "Testmod\Neon_set\cargopants_neon.paa",
+            "Testmod\Neon_set\cargopants_neon.paa"
+        };
+    };
+	
+										class Neon_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Light Walking";
+        descriptionShort="How about a light walk?";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\militaryboots_neon.paa",
+            "Testmod\Neon_set\militaryboots_neon.paa",
+            "Testmod\Neon_set\militaryboots_neon.paa"
+        };
+    };
+	
+											class Neon_jacket: M65Jacket_ColorBase
+    {
+        displayName="Neon Light Jacket";
+        descriptionShort="jacket in space...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\m65_jacket_neon.paa",
+            "Testmod\Neon_set\m65_jacket_neon.paa",
+            "Testmod\Neon_set\m65_jacket_neon.paa"
+        };
+    };
+	
+	
+	
+					class hunting_bag_test2: HuntingBag
+    {
+        displayName="test";
+        descriptionShort="test";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Tests\hunting_knightW.paa",
+            "Testmod\Tests\hunting_knightW.paa",
+            "Testmod\Tests\hunting_knightW.paa"
+        };
+    };
+	
+						class hunting_bag_test3: HuntingBag
+    {
+        displayName="test";
+        descriptionShort="test";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Tests\hunting_knightW2.paa",
+            "Testmod\Tests\hunting_knightW2.paa",
+            "Testmod\Tests\hunting_knightW2.paa"
+        };
+    };
+	
+	
+	
+	
+										class hunting_bag_test7: HuntingBag
+    {
+        displayName="test";
+        descriptionShort="test";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Tests\hunting_skull.paa",
+            "Testmod\Tests\hunting_skull.paa",
+            "Testmod\Tests\hunting_skull.paa"
+        };
+    };
+	
+											class hunting_bag_test8: HuntingBag
+    {
+        displayName="test";
+        descriptionShort="test";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\hunting_blacksquare.paa",
+            "Testmod\Blackbox_set\hunting_blacksquare.paa",
+            "Testmod\Blackbox_set\hunting_blacksquare.paa"
+        };
+    };
+	
+	
+												class hunting_bag_test9: HuntingBag
+    {
+        displayName="test";
+        descriptionShort="test";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\hunting_stars.paa",
+            "Testmod\Stars_set\hunting_stars.paa",
+            "Testmod\Stars_set\hunting_stars.paa"
+        };
+    };
+	
+								class Yellow_gloves: WoolGloves_Colorbase
+    {
+        displayName="Dog gloves";
+        descriptionShort="dog high five";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\woolgloves_black_yellow.paa",
+            "Testmod\Yellow_set\woolgloves_black_yellow.paa",
+            "Testmod\Yellow_set\woolgloves_black_yellow.paa"
+        };
+    };
+	
+						class hunting_bag_yellow: HuntingBag
+    {
+        displayName="Puppy pack";
+        descriptionShort="holds up to 4 dogs comfortably";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\hunting_bag_yellow.paa",
+            "Testmod\Yellow_set\hunting_bag_yellow.paa",
+            "Testmod\Yellow_set\hunting_bag_yellow.paa"
+        };
+    };
+	
+												class Yellow_jacket: M65Jacket_ColorBase
+    {
+        displayName="Doge Coat";
+        descriptionShort="Smells like up-dog in here...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\m65_jacket_black_yellow.paa",
+            "Testmod\Yellow_set\m65_jacket_black_yellow.paa",
+            "Testmod\Yellow_set\m65_jacket_black_yellow.paa"
+        };
+    };
+	
+											class Yellow_boots: MilitaryBoots_ColorBase
+    {
+        displayName="The Dogs Are Out";
+        descriptionShort="what the dog doin?";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\militaryboots_black_yellow.paa",
+            "Testmod\Yellow_set\militaryboots_black_yellow.paa",
+            "Testmod\Yellow_set\militaryboots_black_yellow.paa"
+        };
+    };
+	
+											class Yellow_pants: CargoPants_ColorBase
+    {
+        displayName="Pup Pants";
+        descriptionShort="doge pants";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\cargopants_black_yellow.paa",
+            "Testmod\Yellow_set\cargopants_black_yellow.paa",
+            "Testmod\Yellow_set\cargopants_black_yellow.paa"
+        };
+    };
+	
+										class Yellow_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Puppy Face";
+        descriptionShort="Face like a dog...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\balaclava_black_yellow.paa",
+            "Testmod\Yellow_set\balaclava_black_yellow.paa",
+            "Testmod\Yellow_set\balaclava_black_yellow.paa"
+        };
+    };
+	
+	
+									class mich2001_yellow: Mich2001Helmet
+    {
+        displayName="Dog Helmet";
+        descriptionShort="perfect camouflage...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\mich2001_yellow.paa",
+            "Testmod\Yellow_set\mich2001_yellow.paa",
+            "Testmod\Yellow_set\mich2001_yellow.paa"
+        };
+    };
+	
+	
+	
+									class Kitty_gloves: WoolGloves_Colorbase
+    {
+        displayName="You gotta be kitten me gloves";
+        descriptionShort="meow...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa"
+        };
+    };
+	
+						class hunting_bag_kitty: HuntingBag
+    {
+        displayName="Pussy pack";
+        descriptionShort="holds up to 4 cats comfortably";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\hunting_bag_kitty.paa",
+            "Testmod\Kitty_set\hunting_bag_kitty.paa",
+            "Testmod\Kitty_set\hunting_bag_kitty.paa"
+        };
+    };
+	
+												class Kitty_jacket: M65Jacket_ColorBase
+    {
+        displayName="Kitten Koat";
+        descriptionShort="Cat jacket...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa"
+        };
+    };
+	
+											class Kitty_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Kitten Booties";
+        descriptionShort="check your boots before putting on, might be a cat in there";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa"
+        };
+    };
+	
+											class Kitty_pants: CargoPants_ColorBase
+    {
+        displayName="Pussy Pants";
+        descriptionShort="...or scaredy cat";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\cargopants_black_kitty.paa",
+            "Testmod\Kitty_set\cargopants_black_kitty.paa",
+            "Testmod\Kitty_set\cargopants_black_kitty.paa"
+        };
+    };
+	
+										class Kitty_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Kitten Face";
+        descriptionShort="What's the matter? Cat got your tongue?";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\balaclava_black_kitty.paa",
+            "Testmod\Kitty_set\balaclava_black_kitty.paa",
+            "Testmod\Kitty_set\balaclava_black_kitty.paa"
+        };
+    };
+	
+	
+									class mich2001_kitty: Mich2001Helmet
+    {
+        displayName="Kitten Helmet";
+        descriptionShort="....better than pussy hat";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\mich2001_kitty.paa",
+            "Testmod\Kitty_set\mich2001_kitty.paa",
+            "Testmod\Kitty_set\mich2001_kitty.paa"
+        };
+    };
+	
+	
+	
+	
+	
+										class Christmas2_gloves: WoolGloves_Colorbase
+    {
+        displayName="Present Gloves";
+        descriptionShort="warm and cozy";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\woolgloves_black_christmas2.paa",
+            "Testmod\Christmas_set2\woolgloves_black_christmas2.paa",
+            "Testmod\Christmas_set2\woolgloves_black_christmas2.paa"
+        };
+    };
+	
+						class hunting_bag_christmas2: HuntingBag
+    {
+        displayName="Santa's Bag";
+        descriptionShort="So many presents in here!";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\hunting_bag_christmas2.paa",
+            "Testmod\Christmas_set2\hunting_bag_christmas2.paa",
+            "Testmod\Christmas_set2\hunting_bag_christmas2.paa"
+        };
+    };
+	
+												class Christmas2_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="Christmas Coat";
+        descriptionShort="Perfect for the snow";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\quiltedjacket_black_christmas2.paa",
+            "Testmod\Christmas_set2\quiltedjacket_black_christmas2.paa",
+            "Testmod\Christmas_set2\quiltedjacket_black_christmas2.paa"
+        };
+    };
+	
+											class Christmas2_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Snow Booties";
+        descriptionShort="Makes walking through snow easier....well not really";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\militaryboots_black_christmas2.paa",
+            "Testmod\Christmas_set2\militaryboots_black_christmas2.paa",
+            "Testmod\Christmas_set2\militaryboots_black_christmas2.paa"
+        };
+    };
+	
+											class Christmas2_pants: CargoPants_ColorBase
+    {
+        displayName="Present Pants";
+        descriptionShort="I've got a gift in my pants for you...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\cargopants_black_christmas2.paa",
+            "Testmod\Christmas_set2\cargopants_black_christmas2.paa",
+            "Testmod\Christmas_set2\cargopants_black_christmas2.paa"
+        };
+    };
+	
+										class Christmas2_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Present Mask";
+        descriptionShort="Here's a gift to cover up that face...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\balaclava_black_christmas2.paa",
+            "Testmod\Christmas_set2\balaclava_black_christmas2.paa",
+            "Testmod\Christmas_set2\balaclava_black_christmas2.paa"
+        };
+    };
+	
+	
+									class mich2001_christmas2: Mich2001Helmet
+    {
+        displayName="Santa's Helmet!";
+        descriptionShort="probably not but whatever...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\mich2001_christmas2.paa",
+            "Testmod\Christmas_set2\mich2001_christmas2.paa",
+            "Testmod\Christmas_set2\mich2001_christmas2.paa"
+        };
+    };
+	
+	
+	
+	
+	
+											class Christmas_gloves: WoolGloves_Colorbase
+    {
+        displayName="Present Gloves";
+        descriptionShort="warm and cozy";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\woolgloves_christmas.paa",
+            "Testmod\Christmas_set\woolgloves_christmas.paa",
+            "Testmod\Christmas_set\woolgloves_christmas.paa"
+        };
+    };
+	
+						class hunting_bag_christmas: HuntingBag
+    {
+        displayName="Santa's Bag";
+        descriptionShort="So many presents in here!";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\hunting_bag_christmas.paa",
+            "Testmod\Christmas_set\hunting_bag_christmas.paa",
+            "Testmod\Christmas_set\hunting_bag_christmas.paa"
+        };
+    };
+	
+												class Christmas_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="Christmas Coat";
+        descriptionShort="Perfect for the snow";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\quiltedjacket_black_christmas.paa",
+            "Testmod\Christmas_set\quiltedjacket_black_christmas.paa",
+            "Testmod\Christmas_set\quiltedjacket_black_christmas.paa"
+        };
+    };
+	
+											class Christmas_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Snow Booties";
+        descriptionShort="Makes walking through snow easier....well not really";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\militaryboots_black_christmas.paa",
+            "Testmod\Christmas_set\militaryboots_black_christmas.paa",
+            "Testmod\Christmas_set\militaryboots_black_christmas.paa"
+        };
+    };
+	
+											class Christmas_pants: CargoPants_ColorBase
+    {
+        displayName="Present Pants";
+        descriptionShort="I've got a gift in my pants for you...";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\cargopants_black_christmas.paa",
+            "Testmod\Christmas_set\cargopants_black_christmas.paa",
+            "Testmod\Christmas_set\cargopants_black_christmas.paa"
+        };
+    };
+	
+										class Christmas_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Present Mask";
+        descriptionShort="Here's a gift to cover up that face...";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\balaclava_black_christmas.paa",
+            "Testmod\Christmas_set\balaclava_black_christmas.paa",
+            "Testmod\Christmas_set\balaclava_black_christmas.paa"
+        };
+    };
+	
+	
+									class mich2001_christmas: Mich2001Helmet
+    {
+        displayName="Santa's Helmet!";
+        descriptionShort="probably not but whatever...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\mich2001_christmas.paa",
+            "Testmod\Christmas_set\mich2001_christmas.paa",
+            "Testmod\Christmas_set\mich2001_christmas.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
+	
+	
 	
 };  
 
@@ -218,58 +937,23 @@ class CfgVehicles
 {
 	//Weapons
 	class M4A1;
+	class MK4Optic_ColorBase;
+
 	
 	
-			class M4_Custom: M4A1
-	{
-        displayName="m4neon";
-        descriptionShort="oh yeah...";
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\m4custom.paa",
-            "Testmod\m4custom.paa",
-            "Testmod\m4custom.paa"
-        };
-    };
-	
+
 				class M4_Custom1: M4A1
 	{
         displayName="M4NeonLights";
-        descriptionShort="oh yeah...";
+        descriptionShort="Lasers and such...";
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\m4_neon.paa",
-            "Testmod\m4_neon.paa",
-            "Testmod\m4_neon.paa"
+            "Testmod\Neon_m4_set\m4_neon.paa",
+            "Testmod\Neon_m4_set\m4_neon.paa",
+            "Testmod\Neon_m4_set\m4_neon.paa"
         };
     };
 	
-	            class M4_Custom2: M4A1
-		{
-        displayName="M4Galaxy";
-        descriptionShort="oh yeah...";
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\m4_galaxy.paa",
-            "Testmod\m4_galaxy.paa",
-            "Testmod\m4_galaxy.paa"
-        };
-    };
-	
-		
-	            class M4_Custom3: M4A1
-		{
-        displayName="M4Smoke";
-        descriptionShort="oh yeah...";
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\m4_smoke.paa",
-            "Testmod\m4_smoke.paa",
-            "Testmod\m4_smoke.paa"
-        };
-    };
+
 }
