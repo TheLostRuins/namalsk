@@ -104,7 +104,7 @@ class CfgVehicles
 	
     
     
-    class anime_shirt: QuiltedJacket_ColorBase
+    class LR_anime_shirt: QuiltedJacket_ColorBase
     {
         displayName="Zack";
         descriptionShort="this isn't the end...";
@@ -120,7 +120,7 @@ class CfgVehicles
     };
     
 	
-	    class anime_shirt3: QuiltedJacket_ColorBase
+	    class LR_anime_shirt3: QuiltedJacket_ColorBase
     {
         displayName="Lust";
         descriptionShort="don't fall for it...";
@@ -137,7 +137,7 @@ class CfgVehicles
 	
 
 	
-		class anime_shirt5: QuiltedJacket_ColorBase
+		class LR_anime_shirt5: QuiltedJacket_ColorBase
     {
         displayName="cowgirl";
         descriptionShort="hey there...";
@@ -153,7 +153,7 @@ class CfgVehicles
     };
 	
 	
-		    class anime_shirt4: QuiltedJacket_ColorBase
+		    class LR_anime_shirt4: QuiltedJacket_ColorBase
     {
         displayName="Warrior Status";
         descriptionShort="legends never die!";
@@ -170,7 +170,7 @@ class CfgVehicles
 	
 
 	
-		class anime_shirt6: QuiltedJacket_ColorBase
+		class LR_anime_shirt6: QuiltedJacket_ColorBase
     {
         displayName="Tough";
         descriptionShort="you sexy bitch";
@@ -186,7 +186,7 @@ class CfgVehicles
     };
 	
 	
-			class hunting_bag_space: HuntingBag
+			class LR_hunting_bag_space: HuntingBag
     {
         displayName="hunter space backpack";
         descriptionShort="up, up and away...";
@@ -201,7 +201,7 @@ class CfgVehicles
         };
     };
 	
-				class hunting_bag1: HuntingBag
+				class LR_hunting_bag1: HuntingBag
     {
         displayName="hunter neon backpack";
         descriptionShort="pretty lights";
@@ -217,7 +217,7 @@ class CfgVehicles
     };
 	
 	
-					class hunting_bag2: HuntingBag
+					class LR_hunting_bag2: HuntingBag
     {
         displayName="hunter galaxy backpack";
         descriptionShort="space man...";
@@ -233,7 +233,7 @@ class CfgVehicles
     };
 	
 	
-						class Space_gloves: WoolGloves_Colorbase
+						class LR_Space_gloves: WoolGloves_Colorbase
     {
         displayName="Wool space gloves";
         descriptionShort="intergalactic finger holes...";
@@ -247,7 +247,7 @@ class CfgVehicles
         };
     };
 	
-							class mich2001_space: Mich2001Helmet
+							class LR_mich2001_space: Mich2001Helmet
     {
         displayName="Space Helmet";
         descriptionShort="forgot the oxygen tank...";
@@ -262,7 +262,7 @@ class CfgVehicles
     };
 	
 	
-								class Space_mask: BalaclavaMask_ColorBase
+								class LR_Space_mask: BalaclavaMask_ColorBase
     {
         displayName="Space mask";
         descriptionShort="face of space";
@@ -277,7 +277,7 @@ class CfgVehicles
     };
 	
 	
-									class Space_pants: CargoPants_ColorBase
+									class LR_Space_pants: CargoPants_ColorBase
     {
         displayName="space pants";
         descriptionShort="put your hands down my pants, and i'll bet you feel space...";
@@ -293,7 +293,7 @@ class CfgVehicles
     };
 	
 	
-									class Space_boots: MilitaryBoots_ColorBase
+									class LR_Space_boots: MilitaryBoots_ColorBase
     {
         displayName="Space shoes";
         descriptionShort="not the same 90's space boots you're thinking of...";
@@ -308,7 +308,7 @@ class CfgVehicles
     };
 	
 	
-										class Space_jacket: M65Jacket_ColorBase
+										class LR_Space_jacket: M65Jacket_ColorBase
     {
         displayName="space jacket";
         descriptionShort="jacket in space...";
@@ -323,7 +323,7 @@ class CfgVehicles
         };
     };
 	
-											class Space_plate: PlateCarrierVest
+											class LR_Space_plate: PlateCarrierVest
     {
         displayName="space plate";
         descriptionShort="a space for plates...";
@@ -337,7 +337,7 @@ class CfgVehicles
         };
     };
 	
-							class Neon_gloves: WoolGloves_Colorbase
+							class LR_Neon_gloves: WoolGloves_Colorbase
     {
         displayName="Neon gloves";
         descriptionShort="light fingers...";
@@ -351,7 +351,7 @@ class CfgVehicles
         };
     };
 	
-								class mich2001_neon: Mich2001Helmet
+								class LR_mich2001_neon: Mich2001Helmet
     {
         displayName="Neon Helmet";
         descriptionShort="light helmet...";
@@ -365,7 +365,7 @@ class CfgVehicles
         };
     };
 	
-									class Neon_mask: BalaclavaMask_ColorBase
+									class LR_Neon_mask: BalaclavaMask_ColorBase
     {
         displayName="Neon mask";
         descriptionShort="Neon face of lights";
@@ -379,7 +379,7 @@ class CfgVehicles
         };
     };
 	
-										class Neon_pants: CargoPants_ColorBase
+										class LR_Neon_pants: CargoPants_ColorBase
     {
         displayName="Neon Pants";
         descriptionShort="A party of lights in my pants";
@@ -394,7 +394,7 @@ class CfgVehicles
         };
     };
 	
-										class Neon_boots: MilitaryBoots_ColorBase
+										class LR_Neon_boots: MilitaryBoots_ColorBase
     {
         displayName="Light Walking";
         descriptionShort="How about a light walk?";
@@ -408,7 +408,7 @@ class CfgVehicles
         };
     };
 	
-											class Neon_jacket: M65Jacket_ColorBase
+											class LR_Neon_jacket: M65Jacket_ColorBase
     {
         displayName="Neon Light Jacket";
         descriptionShort="jacket in space...";
@@ -425,7 +425,7 @@ class CfgVehicles
 	
 	
 	
-					class hunting_bag_test2: HuntingBag
+					class LR_hunting_bag_test2: HuntingBag
     {
         displayName="test";
         descriptionShort="test";
@@ -434,13 +434,13 @@ class CfgVehicles
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\Tests\hunting_knightW.paa",
-            "Testmod\Tests\hunting_knightW.paa",
-            "Testmod\Tests\hunting_knightW.paa"
+            "Testmod\KnightW_set\hunting_knightW.paa",
+            "Testmod\KnightW_set\hunting_knightW.paa",
+            "Testmod\KnightW_set\hunting_knightW.paa"
         };
     };
 	
-						class hunting_bag_test3: HuntingBag
+						class LR_hunting_bag_test3: HuntingBag
     {
         displayName="test";
         descriptionShort="test";
@@ -458,7 +458,7 @@ class CfgVehicles
 	
 	
 	
-										class hunting_bag_test7: HuntingBag
+										class LR_hunting_bag_test7: HuntingBag
     {
         displayName="test";
         descriptionShort="test";
@@ -473,38 +473,11 @@ class CfgVehicles
         };
     };
 	
-											class hunting_bag_test8: HuntingBag
-    {
-        displayName="test";
-        descriptionShort="test";
-        itemsCargoSize[] = {8,6};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Blackbox_set\hunting_blacksquare.paa",
-            "Testmod\Blackbox_set\hunting_blacksquare.paa",
-            "Testmod\Blackbox_set\hunting_blacksquare.paa"
-        };
-    };
+
 	
+
 	
-												class hunting_bag_test9: HuntingBag
-    {
-        displayName="test";
-        descriptionShort="test";
-        itemsCargoSize[] = {8,6};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Stars_set\hunting_stars.paa",
-            "Testmod\Stars_set\hunting_stars.paa",
-            "Testmod\Stars_set\hunting_stars.paa"
-        };
-    };
-	
-								class Yellow_gloves: WoolGloves_Colorbase
+								class LR_Yellow_gloves: WoolGloves_Colorbase
     {
         displayName="Dog gloves";
         descriptionShort="dog high five";
@@ -518,7 +491,7 @@ class CfgVehicles
         };
     };
 	
-						class hunting_bag_yellow: HuntingBag
+						class LR_hunting_bag_yellow: HuntingBag
     {
         displayName="Puppy pack";
         descriptionShort="holds up to 4 dogs comfortably";
@@ -533,7 +506,7 @@ class CfgVehicles
         };
     };
 	
-												class Yellow_jacket: M65Jacket_ColorBase
+												class LR_Yellow_jacket: M65Jacket_ColorBase
     {
         displayName="Doge Coat";
         descriptionShort="Smells like up-dog in here...";
@@ -548,7 +521,7 @@ class CfgVehicles
         };
     };
 	
-											class Yellow_boots: MilitaryBoots_ColorBase
+											class LR_Yellow_boots: MilitaryBoots_ColorBase
     {
         displayName="The Dogs Are Out";
         descriptionShort="what the dog doin?";
@@ -562,7 +535,7 @@ class CfgVehicles
         };
     };
 	
-											class Yellow_pants: CargoPants_ColorBase
+											class LR_Yellow_pants: CargoPants_ColorBase
     {
         displayName="Pup Pants";
         descriptionShort="doge pants";
@@ -577,7 +550,7 @@ class CfgVehicles
         };
     };
 	
-										class Yellow_mask: BalaclavaMask_ColorBase
+										class LR_Yellow_mask: BalaclavaMask_ColorBase
     {
         displayName="Puppy Face";
         descriptionShort="Face like a dog...";
@@ -592,7 +565,7 @@ class CfgVehicles
     };
 	
 	
-									class mich2001_yellow: Mich2001Helmet
+									class LR_mich2001_yellow: Mich2001Helmet
     {
         displayName="Dog Helmet";
         descriptionShort="perfect camouflage...";
@@ -608,7 +581,7 @@ class CfgVehicles
 	
 	
 	
-									class Kitty_gloves: WoolGloves_Colorbase
+									class LR_Kitty_gloves: WoolGloves_Colorbase
     {
         displayName="You gotta be kitten me gloves";
         descriptionShort="meow...";
@@ -622,7 +595,7 @@ class CfgVehicles
         };
     };
 	
-						class hunting_bag_kitty: HuntingBag
+						class LR_hunting_bag_kitty: HuntingBag
     {
         displayName="Pussy pack";
         descriptionShort="holds up to 4 cats comfortably";
@@ -637,7 +610,7 @@ class CfgVehicles
         };
     };
 	
-												class Kitty_jacket: M65Jacket_ColorBase
+												class LR_Kitty_jacket: M65Jacket_ColorBase
     {
         displayName="Kitten Koat";
         descriptionShort="Cat jacket...";
@@ -652,7 +625,7 @@ class CfgVehicles
         };
     };
 	
-											class Kitty_boots: MilitaryBoots_ColorBase
+											class LR_Kitty_boots: MilitaryBoots_ColorBase
     {
         displayName="Kitten Booties";
         descriptionShort="check your boots before putting on, might be a cat in there";
@@ -666,7 +639,7 @@ class CfgVehicles
         };
     };
 	
-											class Kitty_pants: CargoPants_ColorBase
+											class LR_Kitty_pants: CargoPants_ColorBase
     {
         displayName="Pussy Pants";
         descriptionShort="...or scaredy cat";
@@ -681,7 +654,7 @@ class CfgVehicles
         };
     };
 	
-										class Kitty_mask: BalaclavaMask_ColorBase
+										class LR_Kitty_mask: BalaclavaMask_ColorBase
     {
         displayName="Kitten Face";
         descriptionShort="What's the matter? Cat got your tongue?";
@@ -696,7 +669,7 @@ class CfgVehicles
     };
 	
 	
-									class mich2001_kitty: Mich2001Helmet
+									class LR_mich2001_kitty: Mich2001Helmet
     {
         displayName="Kitten Helmet";
         descriptionShort="....better than pussy hat";
@@ -714,7 +687,7 @@ class CfgVehicles
 	
 	
 	
-										class Christmas2_gloves: WoolGloves_Colorbase
+										class LR_Christmas2_gloves: WoolGloves_Colorbase
     {
         displayName="Present Gloves";
         descriptionShort="warm and cozy";
@@ -728,7 +701,7 @@ class CfgVehicles
         };
     };
 	
-						class hunting_bag_christmas2: HuntingBag
+						class LR_hunting_bag_christmas2: HuntingBag
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
@@ -743,7 +716,7 @@ class CfgVehicles
         };
     };
 	
-												class Christmas2_jacket: QuiltedJacket_ColorBase
+												class LR_Christmas2_jacket: QuiltedJacket_ColorBase
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
@@ -758,7 +731,7 @@ class CfgVehicles
         };
     };
 	
-											class Christmas2_boots: MilitaryBoots_ColorBase
+											class LR_Christmas2_boots: MilitaryBoots_ColorBase
     {
         displayName="Snow Booties";
         descriptionShort="Makes walking through snow easier....well not really";
@@ -772,7 +745,7 @@ class CfgVehicles
         };
     };
 	
-											class Christmas2_pants: CargoPants_ColorBase
+											class LR_Christmas2_pants: CargoPants_ColorBase
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
@@ -787,7 +760,7 @@ class CfgVehicles
         };
     };
 	
-										class Christmas2_mask: BalaclavaMask_ColorBase
+										class LR_Christmas2_mask: BalaclavaMask_ColorBase
     {
         displayName="Present Mask";
         descriptionShort="Here's a gift to cover up that face...";
@@ -802,7 +775,7 @@ class CfgVehicles
     };
 	
 	
-									class mich2001_christmas2: Mich2001Helmet
+									class LR_mich2001_christmas2: Mich2001Helmet
     {
         displayName="Santa's Helmet!";
         descriptionShort="probably not but whatever...";
@@ -820,7 +793,7 @@ class CfgVehicles
 	
 	
 	
-											class Christmas_gloves: WoolGloves_Colorbase
+											class LR_Christmas_gloves: WoolGloves_Colorbase
     {
         displayName="Present Gloves";
         descriptionShort="warm and cozy";
@@ -834,7 +807,7 @@ class CfgVehicles
         };
     };
 	
-						class hunting_bag_christmas: HuntingBag
+						class LR_hunting_bag_christmas: HuntingBag
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
@@ -849,7 +822,7 @@ class CfgVehicles
         };
     };
 	
-												class Christmas_jacket: QuiltedJacket_ColorBase
+												class LR_Christmas_jacket: QuiltedJacket_ColorBase
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
@@ -864,7 +837,7 @@ class CfgVehicles
         };
     };
 	
-											class Christmas_boots: MilitaryBoots_ColorBase
+											class LR_Christmas_boots: MilitaryBoots_ColorBase
     {
         displayName="Snow Booties";
         descriptionShort="Makes walking through snow easier....well not really";
@@ -878,7 +851,7 @@ class CfgVehicles
         };
     };
 	
-											class Christmas_pants: CargoPants_ColorBase
+											class LR_Christmas_pants: CargoPants_ColorBase
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
@@ -893,7 +866,7 @@ class CfgVehicles
         };
     };
 	
-										class Christmas_mask: BalaclavaMask_ColorBase
+										class LR_Christmas_mask: BalaclavaMask_ColorBase
     {
         displayName="Present Mask";
         descriptionShort="Here's a gift to cover up that face...";
@@ -908,7 +881,7 @@ class CfgVehicles
     };
 	
 	
-									class mich2001_christmas: Mich2001Helmet
+									class LR_mich2001_christmas: Mich2001Helmet
     {
         displayName="Santa's Helmet!";
         descriptionShort="probably not but whatever...";
@@ -921,6 +894,444 @@ class CfgVehicles
             "Testmod\Christmas_set\mich2001_christmas.paa"
         };
     };
+	
+	
+	
+	
+	
+	
+	
+												class LR_Stars_gloves: WoolGloves_Colorbase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\woolgloves_black_stars.paa",
+            "Testmod\Stars_set\woolgloves_black_stars.paa",
+            "Testmod\Stars_set\woolgloves_black_stars.paa"
+        };
+    };
+	
+						class LR_hunting_bag_Stars: HuntingBag
+    {
+        displayName="";
+        descriptionShort="";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\hunting_bag_stars.paa",
+            "Testmod\Stars_set\hunting_bag_stars.paa",
+            "Testmod\Stars_set\hunting_bag_stars.paa"
+        };
+    };
+	
+												class LR_Stars_jacket: M65Jacket_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\m65_jacket_black_stars.paa",
+            "Testmod\Stars_set\m65_jacket_black_stars.paa",
+            "Testmod\Stars_set\m65_jacket_black_stars.paa"
+        };
+    };
+	
+											class LR_Stars_boots: MilitaryBoots_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\militaryboots_black_stars.paa",
+            "Testmod\Stars_set\militaryboots_black_stars.paa",
+            "Testmod\Stars_set\militaryboots_black_stars.paa"
+        };
+    };
+	
+											class LR_Stars_pants: CargoPants_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\cargopants_black_stars.paa",
+            "Testmod\Stars_set\cargopants_black_stars.paa",
+            "Testmod\Stars_set\cargopants_black_stars.paa"
+        };
+    };
+	
+										class LR_Stars_mask: BalaclavaMask_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\balaclava_black_stars.paa",
+            "Testmod\Stars_set\balaclava_black_stars.paa",
+            "Testmod\Stars_set\balaclava_black_stars.paa"
+        };
+    };
+	
+	
+									class LR_mich2001_Stars: Mich2001Helmet
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\mich2001_stars.paa",
+            "Testmod\Stars_set\mich2001_stars.paa",
+            "Testmod\Stars_set\mich2001_stars.paa"
+        };
+    };
+	
+	
+	
+	
+													class LR_Blackbox_gloves: WoolGloves_Colorbase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\woolgloves_black_box.paa",
+            "Testmod\Blackbox_set\woolgloves_black_box.paa",
+            "Testmod\Blackbox_set\woolgloves_black_box.paa"
+        };
+    };
+	
+						class LR_hunting_bag_Blackbox: HuntingBag
+    {
+        displayName="";
+        descriptionShort="";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\hunting_bag_blacksquare.paa",
+            "Testmod\Blackbox_set\hunting_bag_blacksquare.paa",
+            "Testmod\Blackbox_set\hunting_bag_blacksquare.paa"
+        };
+    };
+	
+												class LR_Blackbox_jacket: M65Jacket_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\m65_jacket_black_box.paa",
+            "Testmod\Blackbox_set\m65_jacket_black_box.paa",
+            "Testmod\Blackbox_set\m65_jacket_black_box.paa"
+        };
+    };
+	
+											class LR_Blackbox_boots: MilitaryBoots_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\militaryboots_black_box.paa",
+            "Testmod\Blackbox_set\militaryboots_black_box.paa",
+            "Testmod\Blackbox_set\militaryboots_black_box.paa"
+        };
+    };
+	
+											class LR_Blackbox_pants: CargoPants_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\cargopants_black_box.paa",
+            "Testmod\Blackbox_set\cargopants_black_box.paa",
+            "Testmod\Blackbox_set\cargopants_black_box.paa"
+        };
+    };
+	
+										class LR_Blackbox_mask: BalaclavaMask_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\balaclava_black_box.paa",
+            "Testmod\Blackbox_set\balaclava_black_box.paa",
+            "Testmod\Blackbox_set\balaclava_black_box.paa"
+        };
+    };
+	
+	
+									class LR_mich2001_Blackbox: Mich2001Helmet
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\mich2001_box.paa",
+            "Testmod\Blackbox_set\mich2001_box.paa",
+            "Testmod\Blackbox_set\mich2001_box.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+														class LR_Donut_gloves: WoolGloves_Colorbase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\woolgloves_donut.paa",
+            "Testmod\Donut_set\woolgloves_donut.paa",
+            "Testmod\Donut_set\woolgloves_donut.paa"
+        };
+    };
+	
+						class LR_hunting_bag_Donut: HuntingBag
+    {
+        displayName="";
+        descriptionShort="";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\hunting_bag_donut.paa",
+            "Testmod\Donut_set\hunting_bag_donut.paa",
+            "Testmod\Donut_set\hunting_bag_donut.paa"
+        };
+    };
+	
+												class LR_Donut_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\quiltedjacket_donut.paa",
+            "Testmod\Donut_set\quiltedjacket_donut.paa",
+            "Testmod\Donut_set\quiltedjacket_donut.paa"
+        };
+    };
+	
+											class LR_Donut_boots: MilitaryBoots_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\militaryboots_donut.paa",
+            "Testmod\Donut_set\militaryboots_donut.paa",
+            "Testmod\Donut_set\militaryboots_donut.paa"
+        };
+    };
+	
+											class LR_Donut_pants: CargoPants_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\cargopants_donut.paa",
+            "Testmod\Donut_set\cargopants_donut.paa",
+            "Testmod\Donut_set\cargopants_donut.paa"
+        };
+    };
+	
+										class LR_Donut_mask: BalaclavaMask_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\balaclava_donut.paa",
+            "Testmod\Donut_set\balaclava_donut.paa",
+            "Testmod\Donut_set\balaclava_donut.paa"
+        };
+    };
+	
+	
+									class LR_mich2001_Donut: Mich2001Helmet
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\mich2001_donut.paa",
+            "Testmod\Donut_set\mich2001_donut.paa",
+            "Testmod\Donut_set\mich2001_donut.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+															class LR_Spooky_gloves: WoolGloves_Colorbase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa"
+        };
+    };
+	
+						class LR_hunting_bag_Spooky: HuntingBag
+    {
+        displayName="";
+        descriptionShort="";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa"
+        };
+    };
+	
+												class LR_Spooky_jacket: M65Jacket_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\m65_jacket_spooky.paa",
+            "Testmod\Spooky_set\m65_jacket_spooky.paa",
+            "Testmod\Spooky_set\m65_jacket_spooky.paa"
+        };
+    };
+	
+											class LR_Spooky_boots: MilitaryBoots_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\militaryboots_spooky.paa",
+            "Testmod\Spooky_set\militaryboots_spooky.paa",
+            "Testmod\Spooky_set\militaryboots_spooky.paa"
+        };
+    };
+	
+											class LR_Spooky_pants: CargoPants_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+		itemsCargoSize[] = {6,4};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\cargopants_spooky.paa",
+            "Testmod\Spooky_set\cargopants_spooky.paa",
+            "Testmod\Spooky_set\cargopants_spooky.paa"
+        };
+    };
+	
+										class LR_Spooky_mask: BalaclavaMask_ColorBase
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\balaclava_spooky.paa",
+            "Testmod\Spooky_set\balaclava_spooky.paa",
+            "Testmod\Spooky_set\balaclava_spooky.paa"
+        };
+    };
+	
+	
+									class LR_mich2001_Spooky: Mich2001Helmet
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\mich2001_spooky.paa",
+            "Testmod\Spooky_set\mich2001_spooky.paa",
+            "Testmod\Spooky_set\mich2001_spooky.paa"
+        };
+    };
+	
+	
 	
 	
 	
@@ -942,7 +1353,7 @@ class CfgVehicles
 	
 	
 
-				class M4_Custom1: M4A1
+				class LR_M4_Custom1: M4A1
 	{
         displayName="M4NeonLights";
         descriptionShort="Lasers and such...";
