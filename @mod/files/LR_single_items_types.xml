@@ -2,7 +2,7 @@
 <types>
 
 
-  <type name="LR_hunting_bag_test2">
+  <type name="LR_hunting_bag_KnightW">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
@@ -17,7 +17,7 @@
     <tag name="industrial" />
     <tag name="civilian" />
   </type>
-  <type name="LR_hunting_bag_test3">
+  <type name="LR_hunting_bag_KnightW2">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
@@ -32,7 +32,22 @@
     <tag name="industrial" />
     <tag name="civilian" />
   </type>
-    <type name="LR_hunting_bag_test7">
+    <type name="LR_hunting_bag_Skulls">
+    <nominal>3</nominal>
+    <min>3</min>
+    <lifetime>3600</lifetime>
+    <restock>300</restock>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="clothes" />
+    <tag name="industrial" />
+    <tag name="civilian" />
+  </type>
+      <type name="LR_KnightW2_jacket">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
