@@ -92,7 +92,7 @@
     <tag name="industrial" />
     <tag name="civilian" />
   </type>
-    <type name="LR_hunting_bag_space">
+  <type name="LR_hunting_bag_space">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
