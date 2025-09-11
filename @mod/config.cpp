@@ -345,8 +345,8 @@ class CfgVehicles
 	
 																				class LR_Space_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Space Pouches";
+        descriptionShort="Holds the stars";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -365,8 +365,8 @@ class CfgVehicles
 	
 																					class LR_Space_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Space Holster";
+        descriptionShort="Space Gun Holder";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -479,8 +479,8 @@ class CfgVehicles
 	
 																			class LR_Neon_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Neon Plate";
+        descriptionShort="Light Protection";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -499,8 +499,8 @@ class CfgVehicles
 	
 																											class LR_Neon_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Neon Pouches";
+        descriptionShort="Can hold light";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -519,8 +519,8 @@ class CfgVehicles
 	
 																						class LR_Neon_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Neon Holster";
+        descriptionShort="Neon Gun Holder";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -544,10 +544,10 @@ class CfgVehicles
 	
 	
 	
-					class LR_hunting_bag_test2: HuntingBag
+					class LR_hunting_bag_KnightW: HuntingBag
     {
-        displayName="test";
-        descriptionShort="test";
+        displayName="Warrior Bag";
+        descriptionShort="Holds Strength";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -559,28 +559,48 @@ class CfgVehicles
         };
     };
 	
-						class LR_hunting_bag_test3: HuntingBag
+						class LR_hunting_bag_KnightW2: HuntingBag
     {
-        displayName="test";
-        descriptionShort="test";
+        displayName="Warrior Bag";
+        descriptionShort="Holds Courage";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
         {
-            "Testmod\Tests\hunting_knightW2.paa",
-            "Testmod\Tests\hunting_knightW2.paa",
-            "Testmod\Tests\hunting_knightW2.paa"
+            "Testmod\KnightW_set\hunting_knightW2.paa",
+            "Testmod\KnightW_set\hunting_knightW2.paa",
+            "Testmod\KnightW_set\hunting_knightW2.paa"
+        };
+    };
+	
+	
+							class LR_KnightW2_jacket: M65Jacket_ColorBase
+    {
+        displayName="Warrior Knight";
+        descriptionShort="Honor Thy Self";
+        itemsCargoSize[] = {8,6};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\KnightW_set\m65_jacket_black_KnightW2.paa",
+            "Testmod\KnightW_set\m65_jacket_black_KnightW2.paa",
+            "Testmod\KnightW_set\m65_jacket_black_KnightW2.paa"
         };
     };
 	
 	
 	
 	
-										class LR_hunting_bag_test7: HuntingBag
+	
+	
+	
+	
+										class LR_hunting_bag_Skulls: HuntingBag
     {
-        displayName="test";
-        descriptionShort="test";
+        displayName="Skull Bag";
+        descriptionShort="Skeletons from the Closet";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -701,8 +721,8 @@ class CfgVehicles
 	
 												class LR_yellow_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Puppy Plate";
+        descriptionShort="Woof woof don't shoot";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -722,8 +742,8 @@ class CfgVehicles
 	
 																										class LR_Yellow_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Pup Pouch";
+        descriptionShort="Holds up to two pups";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -742,8 +762,8 @@ class CfgVehicles
 	
 																							class LR_Yellow_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Paw Holster";
+        descriptionShort="Woolfter";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -870,8 +890,8 @@ class CfgVehicles
 	
 													class LR_kitty_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Cat Plate";
+        descriptionShort="not a pussy anymore";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -890,8 +910,8 @@ class CfgVehicles
 	
 																									class LR_Kitty_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Kitten Pouch";
+        descriptionShort="Holds up to 5 Kittens!";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -910,8 +930,8 @@ class CfgVehicles
 	
 																								class LR_Kitty_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Kitten Holster";
+        descriptionShort="Paw-l-ster";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1041,8 +1061,8 @@ class CfgVehicles
 	
 														class LR_christmas2_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Merry Christmas!";
+        descriptionShort="Armor up baby, we're going in!";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1061,8 +1081,8 @@ class CfgVehicles
 	
 																								class LR_Christmas2_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Present Pouches";
+        descriptionShort="Holds so many presents dude";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1081,8 +1101,8 @@ class CfgVehicles
 	
 																									class LR_Christmas2_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Present Holster";
+        descriptionShort="Gun shaped present holder";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1212,8 +1232,8 @@ class CfgVehicles
 	
 																				class LR_Christmas_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Merry Christmas!";
+        descriptionShort="Armor up baby, we're going in!";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1232,8 +1252,8 @@ class CfgVehicles
 	
 																							class LR_Christmas_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Present Pouches";
+        descriptionShort="Holds so many presents dude";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1251,8 +1271,8 @@ class CfgVehicles
 	
 																										class LR_Christmas_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Present Holster";
+        descriptionShort="Gun shaped present holder";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1281,8 +1301,8 @@ class CfgVehicles
 	
 												class LR_Stars_gloves: WoolGloves_Colorbase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Stary Hands";
+        descriptionShort="You can touch the stars...";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1295,8 +1315,8 @@ class CfgVehicles
 	
 						class LR_hunting_bag_Stars: HuntingBag
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Bag";
+        descriptionShort="Holds all the stars in one place";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -1310,8 +1330,8 @@ class CfgVehicles
 	
 												class LR_Stars_jacket: M65Jacket_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Jacket";
+        descriptionShort="Quite humbling to hold the universe on your chest...";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 1;
         scope=2;
@@ -1325,8 +1345,8 @@ class CfgVehicles
 	
 											class LR_Stars_boots: MilitaryBoots_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Walker";
+        descriptionShort="Walking on the stars one step at a time";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1339,8 +1359,8 @@ class CfgVehicles
 	
 											class LR_Stars_pants: CargoPants_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Stary Pants";
+        descriptionShort="Is that a planet in your pants or are you just happy to see me?";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
@@ -1354,8 +1374,8 @@ class CfgVehicles
 	
 										class LR_Stars_mask: BalaclavaMask_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Mask";
+        descriptionShort="Sparkle in your eyes";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1369,8 +1389,8 @@ class CfgVehicles
 	
 									class LR_mich2001_Stars: Mich2001Helmet
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Stary Helmet";
+        descriptionShort="Let these stars protect my head";
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1384,8 +1404,8 @@ class CfgVehicles
 	
 															class LR_stars_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Vest";
+        descriptionShort="Shots get absorbed by the abyss...hopefully...";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1404,8 +1424,8 @@ class CfgVehicles
 	
 																						class LR_Stars_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Pouches";
+        descriptionShort="Hold your favorite stars in here";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1423,8 +1443,8 @@ class CfgVehicles
 	
 																											class LR_Stars_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Star Holster";
+        descriptionShort="Not the right shape but we can make it work to hold a star";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1453,8 +1473,8 @@ class CfgVehicles
 	
 													class LR_Blackbox_gloves: WoolGloves_Colorbase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box gloves";
+        descriptionShort="Square hand fan";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1467,8 +1487,8 @@ class CfgVehicles
 	
 						class LR_hunting_bag_Blackbox: HuntingBag
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Bag";
+        descriptionShort="Holds square things";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -1482,8 +1502,8 @@ class CfgVehicles
 	
 												class LR_Blackbox_jacket: M65Jacket_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Jacket";
+        descriptionShort="Made for humans, not boxes";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 1;
         scope=2;
@@ -1497,8 +1517,8 @@ class CfgVehicles
 	
 											class LR_Blackbox_boots: MilitaryBoots_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Shoes";
+        descriptionShort="Surprisingly comfortable";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1511,8 +1531,8 @@ class CfgVehicles
 	
 											class LR_Blackbox_pants: CargoPants_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Pants";
+        descriptionShort="Weirdly not a box";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
@@ -1526,8 +1546,8 @@ class CfgVehicles
 	
 										class LR_Blackbox_mask: BalaclavaMask_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Mask";
+        descriptionShort="Box Face";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1541,8 +1561,8 @@ class CfgVehicles
 	
 									class LR_mich2001_Blackbox: Mich2001Helmet
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Helmet";
+        descriptionShort="A hard box for your head";
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1556,8 +1576,8 @@ class CfgVehicles
 	
 																class LR_Blackbox_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Plate";
+        descriptionShort="Should stop bullets maybe";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1576,8 +1596,8 @@ class CfgVehicles
 	
 																					class LR_Blackbox_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Pouches";
+        descriptionShort="Square thing holding more square things";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1595,8 +1615,8 @@ class CfgVehicles
 	
 																												class LR_Blackbox_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Box Holster";
+        descriptionShort="I've never seen a boxed shaped weapon but who knows";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1622,8 +1642,8 @@ class CfgVehicles
 	
 														class LR_Donut_gloves: WoolGloves_Colorbase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Gloves";
+        descriptionShort="Take off before licking your fingers";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1636,8 +1656,8 @@ class CfgVehicles
 	
 						class LR_hunting_bag_Donut: HuntingBag
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Bag";
+        descriptionShort="Like a million donuts in this thing, i swear";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -1651,8 +1671,8 @@ class CfgVehicles
 	
 												class LR_Donut_jacket: QuiltedJacket_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Jacket";
+        descriptionShort="Hi, welcome to DD! How can i take your order?";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 1;
         scope=2;
@@ -1666,8 +1686,8 @@ class CfgVehicles
 	
 											class LR_Donut_boots: MilitaryBoots_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Boots";
+        descriptionShort="A donut on each toe keeps the doctor away";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1680,8 +1700,8 @@ class CfgVehicles
 	
 											class LR_Donut_pants: CargoPants_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Pants";
+        descriptionShort="Deez Doh'nuts";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
@@ -1695,8 +1715,8 @@ class CfgVehicles
 	
 										class LR_Donut_mask: BalaclavaMask_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Face";
+        descriptionShort="Not an insult, if anything it's a compliment";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1710,8 +1730,8 @@ class CfgVehicles
 	
 									class LR_mich2001_Donut: Mich2001Helmet
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Helmet";
+        descriptionShort="Yeah this thing ain't protecting sh*t";
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1725,8 +1745,8 @@ class CfgVehicles
 	
 																	class LR_Donut_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Plate";
+        descriptionShort="Whoever loots your body will see donuts, but will never have known them like you did...";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1745,8 +1765,8 @@ class CfgVehicles
 	
 																				class LR_Donut_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Pouch";
+        descriptionShort="I've shoved so many donuts in here, it's become a ball of cake practically";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1765,8 +1785,8 @@ class CfgVehicles
 	
 																													class LR_Donut_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Donut Holster";
+        descriptionShort="Let's be honest, a donut is getting stored in here";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1793,8 +1813,8 @@ class CfgVehicles
 	
 															class LR_Spooky_gloves: WoolGloves_Colorbase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="BoO Gloves";
+        descriptionShort="Spooky Hands!";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1807,8 +1827,8 @@ class CfgVehicles
 	
 						class LR_hunting_bag_Spooky: HuntingBag
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Bag of BoOoOoOos";
+        descriptionShort="The spookiest bag in all of town";
         itemsCargoSize[] = {8,6};
         heatIsolation = 0.7;
         scope=2;
@@ -1822,8 +1842,8 @@ class CfgVehicles
 	
 												class LR_Spooky_jacket: M65Jacket_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Jacket";
+        descriptionShort="Worn by a real ghost";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 1;
         scope=2;
@@ -1837,8 +1857,8 @@ class CfgVehicles
 	
 											class LR_Spooky_boots: MilitaryBoots_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="BoOoOots!";
+        descriptionShort="Spooky boots";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1851,8 +1871,8 @@ class CfgVehicles
 	
 											class LR_Spooky_pants: CargoPants_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Pants";
+        descriptionShort="Scaredy Pants!";
 		itemsCargoSize[] = {6,4};
         heatIsolation = 0.7;
         scope=2;
@@ -1866,8 +1886,8 @@ class CfgVehicles
 	
 										class LR_Spooky_mask: BalaclavaMask_ColorBase
     {
-        displayName="";
-        descriptionShort="";
+        displayName="BoOoOo Mask!";
+        descriptionShort="Ghost Mask";
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1881,8 +1901,8 @@ class CfgVehicles
 	
 									class LR_mich2001_Spooky: Mich2001Helmet
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Helmet";
+        descriptionShort="better protection than a pumpkin";
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1895,8 +1915,8 @@ class CfgVehicles
 	
 																		class LR_Spooky_plate: PlateCarrierVest
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Plate!";
+        descriptionShort="Great defense against ghosts!";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1915,8 +1935,8 @@ class CfgVehicles
 	
 																			class LR_Spooky_plate_pouches: PlateCarrierPouches
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Pouches";
+        descriptionShort="Holds Candy if needed";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
@@ -1934,8 +1954,8 @@ class CfgVehicles
 	
 																														class LR_Spooky_plate_Holster: PlateCarrierHolster
     {
-        displayName="";
-        descriptionShort="";
+        displayName="Spooky Holster";
+        descriptionShort="boOoOoOo!";
         heatIsolation = 0.7;
         scope=2;
 				        hiddenSelections[]=
