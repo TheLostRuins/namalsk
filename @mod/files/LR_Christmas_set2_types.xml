@@ -108,7 +108,7 @@
     <tag name="industrial" />
     <tag name="civilian" />
   </type>
-  <type name="LR_kitty_plate">
+  <type name="LR_christmas2_plate">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
