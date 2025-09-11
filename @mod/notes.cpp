@@ -18,4 +18,4 @@ class cfgMagazines
 			"Xmas_Magazines\Xmas_Saiga_Drum\drum_0.rvmat"
 		};
 	};
-
+};
