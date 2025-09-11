@@ -108,7 +108,7 @@ class CfgVehicles
     {
         displayName="Zack";
         descriptionShort="this isn't the end...";
-        itemsCargoSize[] = {6,4};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -124,7 +124,7 @@ class CfgVehicles
     {
         displayName="Lust";
         descriptionShort="don't fall for it...";
-        itemsCargoSize[] = {6,4};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -141,7 +141,7 @@ class CfgVehicles
     {
         displayName="cowgirl";
         descriptionShort="hey there...";
-        itemsCargoSize[] = {6,4};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -157,7 +157,7 @@ class CfgVehicles
     {
         displayName="Warrior Status";
         descriptionShort="legends never die!";
-        itemsCargoSize[] = {6,4};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -174,7 +174,7 @@ class CfgVehicles
     {
         displayName="Tough";
         descriptionShort="you sexy bitch";
-        itemsCargoSize[] = {6,4};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -190,7 +190,7 @@ class CfgVehicles
     {
         displayName="hunter space backpack";
         descriptionShort="up, up and away...";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -205,7 +205,7 @@ class CfgVehicles
     {
         displayName="hunter neon backpack";
         descriptionShort="pretty lights";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -221,7 +221,7 @@ class CfgVehicles
     {
         displayName="hunter galaxy backpack";
         descriptionShort="space man...";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -281,7 +281,7 @@ class CfgVehicles
     {
         displayName="space pants";
         descriptionShort="put your hands down my pants, and i'll bet you feel space...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -312,7 +312,7 @@ class CfgVehicles
     {
         displayName="space jacket";
         descriptionShort="jacket in space...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -437,7 +437,7 @@ class CfgVehicles
     {
         displayName="Neon Pants";
         descriptionShort="A party of lights in my pants";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -466,7 +466,7 @@ class CfgVehicles
     {
         displayName="Neon Light Jacket";
         descriptionShort="jacket in space...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -548,7 +548,7 @@ class CfgVehicles
     {
         displayName="Warrior Bag";
         descriptionShort="Holds Strength";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -563,7 +563,7 @@ class CfgVehicles
     {
         displayName="Warrior Bag";
         descriptionShort="Holds Courage";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -579,7 +579,7 @@ class CfgVehicles
     {
         displayName="Warrior Knight";
         descriptionShort="Honor Thy Self";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -601,7 +601,7 @@ class CfgVehicles
     {
         displayName="Skull Bag";
         descriptionShort="Skeletons from the Closet";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -634,7 +634,7 @@ class CfgVehicles
     {
         displayName="Puppy pack";
         descriptionShort="holds up to 4 dogs comfortably";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -649,7 +649,7 @@ class CfgVehicles
     {
         displayName="Doge Coat";
         descriptionShort="Smells like up-dog in here...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -678,7 +678,7 @@ class CfgVehicles
     {
         displayName="Pup Pants";
         descriptionShort="doge pants";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -804,7 +804,7 @@ class CfgVehicles
     {
         displayName="Pussy pack";
         descriptionShort="holds up to 4 cats comfortably";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -819,7 +819,7 @@ class CfgVehicles
     {
         displayName="Kitten Koat";
         descriptionShort="Cat jacket...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -848,7 +848,7 @@ class CfgVehicles
     {
         displayName="Pussy Pants";
         descriptionShort="...or scaredy cat";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -974,7 +974,7 @@ class CfgVehicles
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -989,7 +989,7 @@ class CfgVehicles
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1018,7 +1018,7 @@ class CfgVehicles
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1146,7 +1146,7 @@ class CfgVehicles
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1161,7 +1161,7 @@ class CfgVehicles
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1190,7 +1190,7 @@ class CfgVehicles
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1317,7 +1317,7 @@ class CfgVehicles
     {
         displayName="Star Bag";
         descriptionShort="Holds all the stars in one place";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1332,7 +1332,7 @@ class CfgVehicles
     {
         displayName="Star Jacket";
         descriptionShort="Quite humbling to hold the universe on your chest...";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1361,7 +1361,7 @@ class CfgVehicles
     {
         displayName="Stary Pants";
         descriptionShort="Is that a planet in your pants or are you just happy to see me?";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1489,7 +1489,7 @@ class CfgVehicles
     {
         displayName="Box Bag";
         descriptionShort="Holds square things";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1504,7 +1504,7 @@ class CfgVehicles
     {
         displayName="Box Jacket";
         descriptionShort="Made for humans, not boxes";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1533,7 +1533,7 @@ class CfgVehicles
     {
         displayName="Box Pants";
         descriptionShort="Weirdly not a box";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1658,7 +1658,7 @@ class CfgVehicles
     {
         displayName="Donut Bag";
         descriptionShort="Like a million donuts in this thing, i swear";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1673,7 +1673,7 @@ class CfgVehicles
     {
         displayName="Donut Jacket";
         descriptionShort="Hi, welcome to DD! How can i take your order?";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1702,7 +1702,7 @@ class CfgVehicles
     {
         displayName="Donut Pants";
         descriptionShort="Deez Doh'nuts";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1829,7 +1829,7 @@ class CfgVehicles
     {
         displayName="Bag of BoOoOoOos";
         descriptionShort="The spookiest bag in all of town";
-        itemsCargoSize[] = {8,6};
+        itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1844,7 +1844,7 @@ class CfgVehicles
     {
         displayName="Spooky Jacket";
         descriptionShort="Worn by a real ghost";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1873,7 +1873,7 @@ class CfgVehicles
     {
         displayName="Spooky Pants";
         descriptionShort="Scaredy Pants!";
-		itemsCargoSize[] = {6,4};
+		itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
         hiddenSelectionsTextures[]=
@@ -1974,6 +1974,27 @@ class CfgVehicles
 	
 	
 	
+													class LR_FANTASIZE_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="FANTASIZE";
+        descriptionShort="THE MAN THE MYTH THE LEGEND";
+		itemsCargoSize[] = {7,5};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\quiltedjacket_FANTASIZE2.paa",
+            "Testmod\quiltedjacket_FANTASIZE2.paa",
+            "Testmod\quiltedjacket_FANTASIZE2.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
+	
 	
 };  
 
@@ -2006,28 +2027,3 @@ class CfgVehicles
 
 
 
-class CfgMagazines
-{
-	//Magazines
-	class Mag_STANAGCoupled_30Rnd;
-	
-	
-	class LR_Neon_M4: Mag_STANAGCoupled_30Rnd
-	{
-		scope = 2;
-		displayName = "";
-		descriptionShort  = "";
-		count = 60;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Neon_m4_set\coupler_neon.paa",
-            "Testmod\Neon_m4_set\coupler_neon.paa",
-            "Testmod\Neon_m4_set\coupler_neon.paa"
-        };
-	};
-};
