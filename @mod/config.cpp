@@ -363,6 +363,30 @@ class CfgVehicles
     };
 	
 	
+																					class LR_Space_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Space_set\ballisticvest_space.paa",
+            "Testmod\Space_set\ballisticvest_space.paa",
+            "Testmod\Space_set\ballisticvest_space.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -491,6 +515,27 @@ class CfgVehicles
             "Testmod\Neon_set\ballisticvest_neon.paa"
         };
     };
+	
+	
+																						class LR_Neon_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_set\ballisticvest_neon.paa",
+            "Testmod\Neon_set\ballisticvest_neon.paa",
+            "Testmod\Neon_set\ballisticvest_neon.paa"
+        };
+    };
+	
 	
 	
 	
@@ -695,6 +740,30 @@ class CfgVehicles
     };
 	
 	
+																							class LR_Yellow_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Yellow_set\ballisticvest_black_yellow.paa",
+            "Testmod\Yellow_set\ballisticvest_black_yellow.paa",
+            "Testmod\Yellow_set\ballisticvest_black_yellow.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
 	
 	
 									class LR_Kitty_gloves: WoolGloves_Colorbase
@@ -837,6 +906,31 @@ class CfgVehicles
             "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
         };
     };
+	
+	
+																								class LR_Kitty_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
+        };
+    };
+	
+	
+	
+	
+	
 	
 	
 	
@@ -985,6 +1079,31 @@ class CfgVehicles
     };
 	
 	
+																									class LR_Christmas2_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa",
+            "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa",
+            "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1129,6 +1248,31 @@ class CfgVehicles
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa"
         };
     };
+	
+																										class LR_Christmas_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Christmas_set\ballisticvest_black_christmas.paa",
+            "Testmod\Christmas_set\ballisticvest_black_christmas.paa",
+            "Testmod\Christmas_set\ballisticvest_black_christmas.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1276,6 +1420,30 @@ class CfgVehicles
             "Testmod\Stars_set\ballisticvest_black_stars.paa"
         };
     };
+	
+																											class LR_Stars_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Stars_set\ballisticvest_black_stars.paa",
+            "Testmod\Stars_set\ballisticvest_black_stars.paa",
+            "Testmod\Stars_set\ballisticvest_black_stars.paa"
+        };
+    };
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1425,6 +1593,29 @@ class CfgVehicles
         };
     };
 	
+																												class LR_Blackbox_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Blackbox_set\ballisticvest_black_box.paa",
+            "Testmod\Blackbox_set\ballisticvest_black_box.paa",
+            "Testmod\Blackbox_set\ballisticvest_black_box.paa"
+        };
+    };
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1572,6 +1763,30 @@ class CfgVehicles
     };
 	
 	
+																													class LR_Donut_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa"
+        };
+    };
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1717,7 +1932,24 @@ class CfgVehicles
         };
     };
 	
-	
+																														class LR_Spooky_plate_Holster: PlateCarrierHolster
+    {
+        displayName="";
+        descriptionShort="";
+        heatIsolation = 0.7;
+        scope=2;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa"
+        };
+    };
 	
 	
 	
@@ -1750,3 +1982,32 @@ class CfgVehicles
 	
 
 }
+
+
+
+
+class CfgMagazines
+{
+	//Magazines
+	class Mag_STANAGCoupled_30Rnd;
+	
+	
+	class LR_Neon_M4: Mag_STANAGCoupled_30Rnd
+	{
+		scope = 2;
+		displayName = "";
+		descriptionShort  = "";
+		count = 60;
+				        hiddenSelections[]=
+        {
+            "camoGround",
+
+        };
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_m4_set\coupler_neon.paa",
+            "Testmod\Neon_m4_set\coupler_neon.paa",
+            "Testmod\Neon_m4_set\coupler_neon.paa"
+        };
+	};
+};
