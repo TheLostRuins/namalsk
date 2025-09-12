@@ -115,6 +115,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Blackbox_plate">
     <nominal>3</nominal>
