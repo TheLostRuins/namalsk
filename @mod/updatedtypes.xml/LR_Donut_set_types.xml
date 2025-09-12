@@ -17,6 +17,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Donut_pants">
     <nominal>3</nominal>
@@ -32,6 +33,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Donut_mask">
     <nominal>3</nominal>
@@ -47,6 +49,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Donut_gloves">
     <nominal>3</nominal>
@@ -62,6 +65,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Donut_boots">
     <nominal>3</nominal>
@@ -77,6 +81,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_mich2001_Donut">
     <nominal>3</nominal>
@@ -92,6 +97,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="military" />
   </type>
   <type name="LR_hunting_bag_Donut">
     <nominal>3</nominal>
@@ -107,6 +113,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="farm" />
   </type>
   <type name="LR_Donut_plate">
     <nominal>3</nominal>
@@ -122,6 +129,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="military" />
   </type>
   <type name="LR_Donut_plate_pouches">
     <nominal>3</nominal>
@@ -137,6 +145,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="military" />
   </type>
   <type name="LR_Donut_plate_Holster">
     <nominal>3</nominal>
@@ -152,6 +161,7 @@
     <category name="clothes" />
     <tag name="industrial" />
     <tag name="civilian" />
+    <tag name="military" />
   </type>
 
   </types>
