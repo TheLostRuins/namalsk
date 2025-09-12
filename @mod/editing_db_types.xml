@@ -5672,8 +5672,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="Sweater_Gray">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5686,8 +5686,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Sweater_Blue">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5700,8 +5700,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Sweater_Green">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5714,8 +5714,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Sweater_Red">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5812,8 +5812,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Blue">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5826,8 +5826,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Black">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5840,8 +5840,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Brown">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5854,8 +5854,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Green">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5868,8 +5868,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Grey">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -5882,8 +5882,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Hoodie_Red">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6131,8 +6131,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="fishing" />
   </type>
   <type name="M65Jacket_Black">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6159,8 +6159,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="M65Jacket_Olive">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6649,8 +6649,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Blue">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6663,8 +6663,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Red">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6677,8 +6677,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Grey">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6691,8 +6691,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Orange">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6705,8 +6705,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Yellow">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6719,8 +6719,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="QuiltedJacket_Violet">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6761,8 +6761,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BomberJacket_Blue">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6775,8 +6775,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BomberJacket_Grey">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -6817,8 +6817,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BomberJacket_SkyBlue">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7816,8 +7816,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="CargoPants_Beige">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7830,7 +7830,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="industrial" />
   </type>
   <type name="CargoPants_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -7845,7 +7845,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="CargoPants_Blue">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -7860,7 +7860,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="CargoPants_Green">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -7875,8 +7875,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="CargoPants_Grey">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -7919,8 +7919,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="hunting" />
   </type>
   <type name="HunterPants_Brown">
-    <nominal>15</nominal>
-    <min>10</min>
+    <nominal>5</nominal>
+    <min>5</min>
     <lifetime>3600</lifetime>
     <restock>500</restock>
     <quantmin>-1</quantmin>
@@ -8427,8 +8427,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="Jeans_Black">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8441,8 +8441,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Jeans_Blue">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8455,8 +8455,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Jeans_Brown">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8469,8 +8469,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Jeans_Green">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8483,8 +8483,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Jeans_Grey">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8497,8 +8497,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Jeans_BlueDark">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8628,8 +8628,8 @@ This is just a calculation as to what we can remove from the server in order to 
 
   <!-- NAMALSK - CLOTHES - VESTS -->
   <type name="PlateCarrierVest">
-    <nominal>1</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8698,8 +8698,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="PlateCarrierHolster">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -8768,8 +8768,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="PlateCarrierPouches">
-    <nominal>3</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9175,8 +9175,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="hunting" />
   </type>
   <type name="ArmyPouch_Black">
-    <nominal>10</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9438,8 +9438,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="DryBag_Black">
-    <nominal>5</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9498,8 +9498,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="industrial" />
   </type>
   <type name="DryBag_Green">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9528,8 +9528,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="industrial" />
   </type>
   <type name="HuntingBag">
-    <nominal>10</nominal>
-    <min>7</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>7200</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9864,8 +9864,8 @@ This is just a calculation as to what we can remove from the server in order to 
 
   <!-- NAMALSK - CLOTHES - GLOVES -->
   <type name="WorkingGloves_Beige">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9880,8 +9880,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="WorkingGloves_Black">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9896,8 +9896,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="WorkingGloves_Brown">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9912,8 +9912,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="WorkingGloves_Yellow">
-    <nominal>10</nominal>
-    <min>8</min>
+    <nominal>5</nominal>
+    <min>3</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -9928,8 +9928,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="TacticalGloves_Beige">
-    <nominal>8</nominal>
-    <min>6</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10111,8 +10111,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="hunting" />
   </type>
   <type name="WoolGloves_Tan">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10125,8 +10125,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="hunting" />
   </type>
   <type name="WoolGloves_White">
-    <nominal>4</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10195,8 +10195,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="hunting" />
   </type>
   <type name="PaddedGloves_Beige">
-    <nominal>7</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10211,8 +10211,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="PaddedGloves_Brown">
-    <nominal>7</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10227,8 +10227,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="firefighter" />
   </type>
   <type name="PaddedGloves_Threat">
-    <nominal>7</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>900</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10288,8 +10288,8 @@ This is just a calculation as to what we can remove from the server in order to 
 
   <!-- NAMALSK - CLOTHES - HEADGEAR -->
   <type name="BallisticHelmet_Green">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10302,8 +10302,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_Black">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10330,8 +10330,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_Woodland">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10344,8 +10344,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_BDU">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10358,7 +10358,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_Winter">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -10372,8 +10372,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BallisticHelmet_Navy">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10386,8 +10386,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BaseballCap_Blue">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10400,8 +10400,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Beige">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10414,8 +10414,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Black">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10428,8 +10428,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Olive">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10442,8 +10442,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Pink">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10456,8 +10456,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Red">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10470,8 +10470,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_Camo">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -10484,8 +10484,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BaseballCap_CMMG_Black">
-    <nominal>2</nominal>
-    <min>1</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -11808,7 +11808,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="GorkaHelmet">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -11821,7 +11821,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="GorkaHelmet_Black">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -11834,7 +11834,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="industrial" />
   </type>
   <type name="GorkaHelmetVisor">
-    <nominal>7</nominal>
+    <nominal>5</nominal>
     <min>4</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -12016,8 +12016,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="medical" />
   </type>
   <type name="Ssh68Helmet">
-    <nominal>6</nominal>
-    <min>3</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12170,7 +12170,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Mich2001Helmet">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -12183,7 +12183,7 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="industrial" />
   </type>
   <type name="NVGHeadstrap">
-    <nominal>15</nominal>
+    <nominal>10</nominal>
     <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
@@ -12332,8 +12332,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="medical" />
   </type>
   <type name="BalaclavaMask_BDU">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12362,8 +12362,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="police" />
   </type>
   <type name="BalaclavaMask_Blackskull">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>5</nominal>
+    <min>5</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12376,8 +12376,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BalaclavaMask_Beige">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12390,8 +12390,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BalaclavaMask_Blue">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12404,8 +12404,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BalaclavaMask_Green">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12418,8 +12418,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="military" />
   </type>
   <type name="BalaclavaMask_Pink">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12432,8 +12432,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="BalaclavaMask_White">
-    <nominal>10</nominal>
-    <min>6</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12488,8 +12488,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Balaclava3Holes_Beige">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12502,8 +12502,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Balaclava3Holes_Blue">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12516,8 +12516,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Balaclava3Holes_Black">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12530,8 +12530,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Balaclava3Holes_Green">
-    <nominal>8</nominal>
-    <min>5</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12544,8 +12544,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="Balaclava3Holes_White">
-    <nominal>5</nominal>
-    <min>4</min>
+    <nominal>3</nominal>
+    <min>3</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12715,8 +12715,8 @@ This is just a calculation as to what we can remove from the server in order to 
 
   <!-- NAMALSK - CLOTHES - SHOES -->
   <type name="HikingBoots_Black">
-    <nominal>7</nominal>
-    <min>4</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12729,8 +12729,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="HikingBoots_Brown">
-    <nominal>7</nominal>
-    <min>4</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12743,8 +12743,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="HikingBootsLow_Beige">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12757,8 +12757,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="HikingBootsLow_Black">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12771,8 +12771,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="HikingBootsLow_Blue">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
@@ -12785,8 +12785,8 @@ This is just a calculation as to what we can remove from the server in order to 
     <tag name="civilian" />
   </type>
   <type name="HikingBootsLow_Grey">
-    <nominal>5</nominal>
-    <min>2</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>3600</lifetime>
     <restock>300</restock>
     <quantmin>-1</quantmin>
