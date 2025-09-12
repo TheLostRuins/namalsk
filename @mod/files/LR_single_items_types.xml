@@ -77,7 +77,7 @@
     <tag name="industrial" />
     <tag name="civilian" />
   </type>
-     <type name="LR_FANTASIZE_jacket">
+    <type name="LR_FANTASIZE_jacket">
     <nominal>3</nominal>
     <min>3</min>
     <lifetime>3600</lifetime>
