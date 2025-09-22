@@ -1,0 +1,3 @@
+---most recent file changes on SERVER but NOT ON GITHUB--
+
+9/5/25 11:30am - Advanced weapon scopes update of user name to value user. If it causes crash or problems, upload current file of advanced weapon scopes from github back onto server.
