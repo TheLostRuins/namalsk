@@ -1,0 +1,7 @@
+---TYPES AND SPAWNBALETYPES ARE MADE FOR NAMALSK MAP---
+
+
+---YOU WILL NEED TO CHANGE VALUES TO MATCH cfglimitsdefinition.xml AND cfglimitsdefinitionuser.xml FOR YOUR OWN MAP/SERVER---
+
+
+---DO NOT REPACK PLEASE!!!---

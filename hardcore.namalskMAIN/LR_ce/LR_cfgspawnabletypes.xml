@@ -1,0 +1,318 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+
+  
+    <type name="LR_anime_shirt">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+      <type name="LR_anime_shirt3">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+        <type name="LR_anime_shirt5">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_anime_shirt6">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Blackbox_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Blackbox_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_Blackbox">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Christmas2_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Christmas2_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_christmas2">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Christmas_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Christmas_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_christmas">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Donut_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Donut_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_Donut">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Kitty_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Kitty_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_kitty">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+  
+    <type name="LR_Neon_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Neon_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag1">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Space_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Space_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_space">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Spooky_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Spooky_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_Spooky">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Stars_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Stars_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_Stars">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_Yellow_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+  
+    <type name="LR_Yellow_pants">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_yellow">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_KnightW">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+
+    <type name="LR_hunting_bag_KnightW2">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+    <type name="LR_hunting_bag_Skulls">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+  
+    <type name="LR_KnightW2_jacket">
+        <cargo preset="ammocivil" />
+        <cargo preset="magscivil" />
+        <cargo preset="toolsgeneral" />
+    </type>
+
+
+  
+
+
+  
+    <item name="LR_Blackbox_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Christmas2_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Christmas_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Donut_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Kitty_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Neon_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Space_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Spooky_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Stars_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+    <item name="LR_Yellow_plate_pouches" />
+        </attachments>
+        <cargo preset="toolsmilitary" />
+        <cargo preset="ammomilitary" />
+        <cargo preset="magsmilitary" />
+    </type>
+
+  
+
+
+
+  
+  
+  
+</spawnabletypes>
