@@ -735,7 +735,7 @@ class CfgVehicles
         };
     };
     
-    // --- KITTY SET ---
+// --- KITTY SET ---
     class LR_Kitty_gloves: WoolGloves_ColorBase
     {
         displayName="You gotta be kitten me gloves";
@@ -745,7 +745,11 @@ class CfgVehicles
         hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
-            "Testmod\Kitty_set\
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
+            "Testmod\Kitty_set\woolgloves_black_kitty.paa"
+        };
+    };
 	
 	
 	
