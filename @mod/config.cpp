@@ -899,12 +899,14 @@ class CfgVehicles
 	
 	
 	
-										class LR_Christmas2_gloves: WoolGloves_Colorbase
+	// --- CHRISTMAS SET 2 ---
+    class LR_Christmas2_gloves: WoolGloves_ColorBase
     {
         displayName="Present Gloves";
         descriptionShort="warm and cozy";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\woolgloves_black_christmas2.paa",
@@ -912,14 +914,15 @@ class CfgVehicles
             "Testmod\Christmas_set2\woolgloves_black_christmas2.paa"
         };
     };
-	
-						class LR_hunting_bag_christmas2: HuntingBag
+    
+    class LR_hunting_bag_christmas2: HuntingBag
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\hunting_bag_christmas2.paa",
@@ -927,14 +930,15 @@ class CfgVehicles
             "Testmod\Christmas_set2\hunting_bag_christmas2.paa"
         };
     };
-	
-												class LR_Christmas2_jacket: QuiltedJacket_ColorBase
+    
+    class LR_Christmas2_jacket: QuiltedJacket_ColorBase
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\quiltedjacket_black_christmas2.paa",
@@ -942,13 +946,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\quiltedjacket_black_christmas2.paa"
         };
     };
-	
-											class LR_Christmas2_boots: MilitaryBoots_ColorBase
+    
+    class LR_Christmas2_boots: MilitaryBoots_ColorBase
     {
         displayName="Snow Booties";
         descriptionShort="Makes walking through snow easier....well not really";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\militaryboots_black_christmas2.paa",
@@ -956,14 +961,15 @@ class CfgVehicles
             "Testmod\Christmas_set2\militaryboots_black_christmas2.paa"
         };
     };
-	
-											class LR_Christmas2_pants: CargoPants_ColorBase
+    
+    class LR_Christmas2_pants: CargoPants_ColorBase
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\cargopants_black_christmas2.paa",
@@ -971,13 +977,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\cargopants_black_christmas2.paa"
         };
     };
-	
-										class LR_Christmas2_mask: BalaclavaMask_ColorBase
+    
+    class LR_Christmas2_mask: BalaclavaMask_ColorBase
     {
         displayName="Present Mask";
         descriptionShort="Here's a gift to cover up that face...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\balaclava_black_christmas2.paa",
@@ -985,14 +992,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\balaclava_black_christmas2.paa"
         };
     };
-	
-	
-									class LR_mich2001_christmas2: Mich2001Helmet
+    
+    class LR_mich2001_christmas2: Mich2001Helmet
     {
         displayName="Santa's Helmet!";
         descriptionShort="probably not but whatever...";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\mich2001_christmas2.paa",
@@ -1000,20 +1007,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\mich2001_christmas2.paa"
         };
     };
-	
-	
-														class LR_christmas2_plate: PlateCarrierVest
+    
+    class LR_christmas2_plate: PlateCarrierVest
     {
         displayName="Merry Christmas!";
         descriptionShort="Armor up baby, we're going in!";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa",
@@ -1021,18 +1022,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa"
         };
     };
-	
-																								class LR_Christmas2_plate_pouches: PlateCarrierPouches
+    
+    class LR_Christmas2_plate_pouches: PlateCarrierPouches
     {
         displayName="Present Pouches";
         descriptionShort="Holds so many presents dude";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa",
@@ -1040,19 +1037,14 @@ class CfgVehicles
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa"
         };
     };
-	
-	
-																									class LR_Christmas2_plate_Holster: PlateCarrierHolster
+    
+    class LR_Christmas2_plate_Holster: PlateCarrierHolster
     {
         displayName="Present Holster";
         descriptionShort="Gun shaped present holder";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa",
@@ -1060,23 +1052,15 @@ class CfgVehicles
             "Testmod\Christmas_set2\ballisticvest_black_christmas2.paa"
         };
     };
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-											class LR_Christmas_gloves: WoolGloves_Colorbase
+    
+    // --- CHRISTMAS SET 1 ---
+    class LR_Christmas_gloves: WoolGloves_ColorBase
     {
         displayName="Present Gloves";
         descriptionShort="warm and cozy";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\woolgloves_christmas.paa",
@@ -1084,14 +1068,15 @@ class CfgVehicles
             "Testmod\Christmas_set\woolgloves_christmas.paa"
         };
     };
-	
-						class LR_hunting_bag_christmas: HuntingBag
+    
+    class LR_hunting_bag_christmas: HuntingBag
     {
         displayName="Santa's Bag";
         descriptionShort="So many presents in here!";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\hunting_bag_christmas.paa",
@@ -1099,14 +1084,15 @@ class CfgVehicles
             "Testmod\Christmas_set\hunting_bag_christmas.paa"
         };
     };
-	
-												class LR_Christmas_jacket: QuiltedJacket_ColorBase
+    
+    class LR_Christmas_jacket: QuiltedJacket_ColorBase
     {
         displayName="Christmas Coat";
         descriptionShort="Perfect for the snow";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\quiltedjacket_black_christmas.paa",
@@ -1114,13 +1100,14 @@ class CfgVehicles
             "Testmod\Christmas_set\quiltedjacket_black_christmas.paa"
         };
     };
-	
-											class LR_Christmas_boots: MilitaryBoots_ColorBase
+    
+    class LR_Christmas_boots: MilitaryBoots_ColorBase
     {
         displayName="Snow Booties";
         descriptionShort="Makes walking through snow easier....well not really";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\militaryboots_black_christmas.paa",
@@ -1128,14 +1115,15 @@ class CfgVehicles
             "Testmod\Christmas_set\militaryboots_black_christmas.paa"
         };
     };
-	
-											class LR_Christmas_pants: CargoPants_ColorBase
+    
+    class LR_Christmas_pants: CargoPants_ColorBase
     {
         displayName="Present Pants";
         descriptionShort="I've got a gift in my pants for you...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\cargopants_black_christmas.paa",
@@ -1143,13 +1131,14 @@ class CfgVehicles
             "Testmod\Christmas_set\cargopants_black_christmas.paa"
         };
     };
-	
-										class LR_Christmas_mask: BalaclavaMask_ColorBase
+    
+    class LR_Christmas_mask: BalaclavaMask_ColorBase
     {
         displayName="Present Mask";
         descriptionShort="Here's a gift to cover up that face...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\balaclava_black_christmas.paa",
@@ -1157,14 +1146,14 @@ class CfgVehicles
             "Testmod\Christmas_set\balaclava_black_christmas.paa"
         };
     };
-	
-	
-									class LR_mich2001_christmas: Mich2001Helmet
+    
+    class LR_mich2001_christmas: Mich2001Helmet
     {
         displayName="Santa's Helmet!";
         descriptionShort="probably not but whatever...";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\mich2001_christmas.paa",
@@ -1172,19 +1161,14 @@ class CfgVehicles
             "Testmod\Christmas_set\mich2001_christmas.paa"
         };
     };
-	
-																				class LR_Christmas_plate: PlateCarrierVest
+    
+    class LR_Christmas_plate: PlateCarrierVest
     {
         displayName="Merry Christmas!";
         descriptionShort="Armor up baby, we're going in!";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa",
@@ -1192,18 +1176,14 @@ class CfgVehicles
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa"
         };
     };
-	
-																							class LR_Christmas_plate_pouches: PlateCarrierPouches
+    
+    class LR_Christmas_plate_pouches: PlateCarrierPouches
     {
         displayName="Present Pouches";
         descriptionShort="Holds so many presents dude";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa",
@@ -1211,18 +1191,14 @@ class CfgVehicles
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa"
         };
     };
-	
-																										class LR_Christmas_plate_Holster: PlateCarrierHolster
+    
+    class LR_Christmas_plate_Holster: PlateCarrierHolster
     {
         displayName="Present Holster";
         descriptionShort="Gun shaped present holder";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa",
@@ -1230,24 +1206,15 @@ class CfgVehicles
             "Testmod\Christmas_set\ballisticvest_black_christmas.paa"
         };
     };
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-												class LR_Stars_gloves: WoolGloves_Colorbase
+    
+    // --- STARS SET ---
+    class LR_Stars_gloves: WoolGloves_ColorBase
     {
         displayName="Stary Hands";
         descriptionShort="You can touch the stars...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\woolgloves_black_stars.paa",
@@ -1255,14 +1222,15 @@ class CfgVehicles
             "Testmod\Stars_set\woolgloves_black_stars.paa"
         };
     };
-	
-						class LR_hunting_bag_Stars: HuntingBag
+    
+    class LR_hunting_bag_Stars: HuntingBag
     {
         displayName="Star Bag";
         descriptionShort="Holds all the stars in one place";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\hunting_bag_stars.paa",
@@ -1270,14 +1238,15 @@ class CfgVehicles
             "Testmod\Stars_set\hunting_bag_stars.paa"
         };
     };
-	
-												class LR_Stars_jacket: M65Jacket_ColorBase
+    
+    class LR_Stars_jacket: M65Jacket_ColorBase
     {
         displayName="Star Jacket";
         descriptionShort="Quite humbling to hold the universe on your chest...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\m65_jacket_black_stars.paa",
@@ -1285,13 +1254,14 @@ class CfgVehicles
             "Testmod\Stars_set\m65_jacket_black_stars.paa"
         };
     };
-	
-											class LR_Stars_boots: MilitaryBoots_ColorBase
+    
+    class LR_Stars_boots: MilitaryBoots_ColorBase
     {
         displayName="Star Walker";
         descriptionShort="Walking on the stars one step at a time";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\militaryboots_black_stars.paa",
@@ -1299,14 +1269,15 @@ class CfgVehicles
             "Testmod\Stars_set\militaryboots_black_stars.paa"
         };
     };
-	
-											class LR_Stars_pants: CargoPants_ColorBase
+    
+    class LR_Stars_pants: CargoPants_ColorBase
     {
         displayName="Stary Pants";
         descriptionShort="Is that a planet in your pants or are you just happy to see me?";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\cargopants_black_stars.paa",
@@ -1314,13 +1285,14 @@ class CfgVehicles
             "Testmod\Stars_set\cargopants_black_stars.paa"
         };
     };
-	
-										class LR_Stars_mask: BalaclavaMask_ColorBase
+    
+    class LR_Stars_mask: BalaclavaMask_ColorBase
     {
         displayName="Star Mask";
         descriptionShort="Sparkle in your eyes";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\balaclava_black_stars.paa",
@@ -1328,14 +1300,14 @@ class CfgVehicles
             "Testmod\Stars_set\balaclava_black_stars.paa"
         };
     };
-	
-	
-									class LR_mich2001_Stars: Mich2001Helmet
+    
+    class LR_mich2001_Stars: Mich2001Helmet
     {
         displayName="Stary Helmet";
         descriptionShort="Let these stars protect my head";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\mich2001_stars.paa",
@@ -1343,20 +1315,14 @@ class CfgVehicles
             "Testmod\Stars_set\mich2001_stars.paa"
         };
     };
-	
-	
-															class LR_stars_plate: PlateCarrierVest
+    
+    class LR_stars_plate: PlateCarrierVest
     {
         displayName="Star Vest";
         descriptionShort="Shots get absorbed by the abyss...hopefully...";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\ballisticvest_black_stars.paa",
@@ -1364,18 +1330,14 @@ class CfgVehicles
             "Testmod\Stars_set\ballisticvest_black_stars.paa"
         };
     };
-	
-																						class LR_Stars_plate_pouches: PlateCarrierPouches
+    
+    class LR_Stars_plate_pouches: PlateCarrierPouches
     {
         displayName="Star Pouches";
         descriptionShort="Hold your favorite stars in here";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\ballisticvest_black_stars.paa",
@@ -1383,18 +1345,14 @@ class CfgVehicles
             "Testmod\Stars_set\ballisticvest_black_stars.paa"
         };
     };
-	
-																											class LR_Stars_plate_Holster: PlateCarrierHolster
+    
+    class LR_Stars_plate_Holster: PlateCarrierHolster
     {
         displayName="Star Holster";
         descriptionShort="Not the right shape but we can make it work to hold a star";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Stars_set\ballisticvest_black_stars.paa",
