@@ -515,13 +515,15 @@ class CfgVehicles
 	
 	
 	
-					class LR_hunting_bag_KnightW: HuntingBag
+// --- WARRIOR SET ---
+    class LR_hunting_bag_KnightW: HuntingBag
     {
         displayName="Warrior Bag";
         descriptionShort="Holds Strength";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\KnightW_set\hunting_knightW.paa",
@@ -529,14 +531,15 @@ class CfgVehicles
             "Testmod\KnightW_set\hunting_knightW.paa"
         };
     };
-	
-						class LR_hunting_bag_KnightW2: HuntingBag
+    
+    class LR_hunting_bag_KnightW2: HuntingBag
     {
         displayName="Warrior Bag";
         descriptionShort="Holds Courage";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\KnightW_set\hunting_knightW2.paa",
@@ -544,15 +547,15 @@ class CfgVehicles
             "Testmod\KnightW_set\hunting_knightW2.paa"
         };
     };
-	
-	
-							class LR_KnightW2_jacket: M65Jacket_ColorBase
+    
+    class LR_KnightW2_jacket: M65Jacket_ColorBase
     {
         displayName="Warrior Knight";
         descriptionShort="Honor Thy Self";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\KnightW_set\m65_jacket_black_KnightW2.paa",
@@ -560,21 +563,16 @@ class CfgVehicles
             "Testmod\KnightW_set\m65_jacket_black_KnightW2.paa"
         };
     };
-	
-	
-	
-	
-	
-	
-	
-	
-										class LR_hunting_bag_Skulls: HuntingBag
+    
+    // --- SKULLS SET ---
+    class LR_hunting_bag_Skulls: HuntingBag
     {
         displayName="Skull Bag";
         descriptionShort="Skeletons from the Closet";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Tests\hunting_skull.paa",
@@ -582,17 +580,15 @@ class CfgVehicles
             "Testmod\Tests\hunting_skull.paa"
         };
     };
-	
-
-	
-
-	
-								class LR_Yellow_gloves: WoolGloves_Colorbase
+    
+    // --- YELLOW SET ---
+    class LR_Yellow_gloves: WoolGloves_ColorBase
     {
         displayName="Dog gloves";
         descriptionShort="dog high five";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\woolgloves_black_yellow.paa",
@@ -600,14 +596,15 @@ class CfgVehicles
             "Testmod\Yellow_set\woolgloves_black_yellow.paa"
         };
     };
-	
-						class LR_hunting_bag_yellow: HuntingBag
+    
+    class LR_hunting_bag_yellow: HuntingBag
     {
         displayName="Puppy pack";
         descriptionShort="holds up to 4 dogs comfortably";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\hunting_bag_yellow.paa",
@@ -615,14 +612,15 @@ class CfgVehicles
             "Testmod\Yellow_set\hunting_bag_yellow.paa"
         };
     };
-	
-												class LR_Yellow_jacket: M65Jacket_ColorBase
+    
+    class LR_Yellow_jacket: M65Jacket_ColorBase
     {
         displayName="Doge Coat";
         descriptionShort="Smells like up-dog in here...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\m65_jacket_black_yellow.paa",
@@ -630,13 +628,14 @@ class CfgVehicles
             "Testmod\Yellow_set\m65_jacket_black_yellow.paa"
         };
     };
-	
-											class LR_Yellow_boots: MilitaryBoots_ColorBase
+    
+    class LR_Yellow_boots: MilitaryBoots_ColorBase
     {
         displayName="The Dogs Are Out";
         descriptionShort="what the dog doin?";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\militaryboots_black_yellow.paa",
@@ -644,14 +643,15 @@ class CfgVehicles
             "Testmod\Yellow_set\militaryboots_black_yellow.paa"
         };
     };
-	
-											class LR_Yellow_pants: CargoPants_ColorBase
+    
+    class LR_Yellow_pants: CargoPants_ColorBase
     {
         displayName="Pup Pants";
         descriptionShort="doge pants";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\cargopants_black_yellow.paa",
@@ -659,13 +659,14 @@ class CfgVehicles
             "Testmod\Yellow_set\cargopants_black_yellow.paa"
         };
     };
-	
-										class LR_Yellow_mask: BalaclavaMask_ColorBase
+    
+    class LR_Yellow_mask: BalaclavaMask_ColorBase
     {
         displayName="Puppy Face";
         descriptionShort="Face like a dog...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\balaclava_black_yellow.paa",
@@ -673,14 +674,14 @@ class CfgVehicles
             "Testmod\Yellow_set\balaclava_black_yellow.paa"
         };
     };
-	
-	
-									class LR_mich2001_yellow: Mich2001Helmet
+    
+    class LR_mich2001_yellow: Mich2001Helmet
     {
         displayName="Dog Helmet";
         descriptionShort="perfect camouflage...";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\mich2001_yellow.paa",
@@ -688,20 +689,14 @@ class CfgVehicles
             "Testmod\Yellow_set\mich2001_yellow.paa"
         };
     };
-	
-	
-												class LR_yellow_plate: PlateCarrierVest
+    
+    class LR_yellow_plate: PlateCarrierVest
     {
         displayName="Puppy Plate";
         descriptionShort="Woof woof don't shoot";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa",
@@ -709,19 +704,14 @@ class CfgVehicles
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa"
         };
     };
-	
-	
-																										class LR_Yellow_plate_pouches: PlateCarrierPouches
+    
+    class LR_Yellow_plate_pouches: PlateCarrierPouches
     {
         displayName="Pup Pouch";
         descriptionShort="Holds up to two pups";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa",
@@ -729,19 +719,14 @@ class CfgVehicles
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa"
         };
     };
-	
-	
-																							class LR_Yellow_plate_Holster: PlateCarrierHolster
+    
+    class LR_Yellow_plate_Holster: PlateCarrierHolster
     {
         displayName="Paw Holster";
         descriptionShort="Woolfter";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa",
@@ -749,174 +734,18 @@ class CfgVehicles
             "Testmod\Yellow_set\ballisticvest_black_yellow.paa"
         };
     };
-	
-	
-	
-	
-	
-	
-	
-	
-									class LR_Kitty_gloves: WoolGloves_Colorbase
+    
+    // --- KITTY SET ---
+    class LR_Kitty_gloves: WoolGloves_ColorBase
     {
         displayName="You gotta be kitten me gloves";
         descriptionShort="meow...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
-            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
-            "Testmod\Kitty_set\woolgloves_black_kitty.paa",
-            "Testmod\Kitty_set\woolgloves_black_kitty.paa"
-        };
-    };
-	
-						class LR_hunting_bag_kitty: HuntingBag
-    {
-        displayName="Pussy pack";
-        descriptionShort="holds up to 4 cats comfortably";
-        itemsCargoSize[] = {10,8};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\hunting_bag_kitty.paa",
-            "Testmod\Kitty_set\hunting_bag_kitty.paa",
-            "Testmod\Kitty_set\hunting_bag_kitty.paa"
-        };
-    };
-	
-												class LR_Kitty_jacket: M65Jacket_ColorBase
-    {
-        displayName="Kitten Koat";
-        descriptionShort="Cat jacket...";
-		itemsCargoSize[] = {7,5};
-        heatIsolation = 1;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
-            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
-            "Testmod\Kitty_set\m65_jacket_black_kitty.paa"
-        };
-    };
-	
-											class LR_Kitty_boots: MilitaryBoots_ColorBase
-    {
-        displayName="Kitten Booties";
-        descriptionShort="check your boots before putting on, might be a cat in there";
-        heatIsolation = 1;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
-            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
-            "Testmod\Kitty_set\militaryboots_black_kitty.paa"
-        };
-    };
-	
-											class LR_Kitty_pants: CargoPants_ColorBase
-    {
-        displayName="Pussy Pants";
-        descriptionShort="...or scaredy cat";
-		itemsCargoSize[] = {7,5};
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\cargopants_black_kitty.paa",
-            "Testmod\Kitty_set\cargopants_black_kitty.paa",
-            "Testmod\Kitty_set\cargopants_black_kitty.paa"
-        };
-    };
-	
-										class LR_Kitty_mask: BalaclavaMask_ColorBase
-    {
-        displayName="Kitten Face";
-        descriptionShort="What's the matter? Cat got your tongue?";
-        heatIsolation = 1;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\balaclava_black_kitty.paa",
-            "Testmod\Kitty_set\balaclava_black_kitty.paa",
-            "Testmod\Kitty_set\balaclava_black_kitty.paa"
-        };
-    };
-	
-	
-									class LR_mich2001_kitty: Mich2001Helmet
-    {
-        displayName="Kitten Helmet";
-        descriptionShort="....better than pussy hat";
-        heatIsolation = 0.7;
-        scope=2;
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\mich2001_kitty.paa",
-            "Testmod\Kitty_set\mich2001_kitty.paa",
-            "Testmod\Kitty_set\mich2001_kitty.paa"
-        };
-    };
-	
-													class LR_kitty_plate: PlateCarrierVest
-    {
-        displayName="Cat Plate";
-        descriptionShort="not a pussy anymore";
-        heatIsolation = 0.7;
-        scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
-        };
-    };
-	
-																									class LR_Kitty_plate_pouches: PlateCarrierPouches
-    {
-        displayName="Kitten Pouch";
-        descriptionShort="Holds up to 5 Kittens!";
-        heatIsolation = 0.7;
-        scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
-        };
-    };
-	
-	
-																								class LR_Kitty_plate_Holster: PlateCarrierHolster
-    {
-        displayName="Kitten Holster";
-        descriptionShort="Paw-l-ster";
-        heatIsolation = 0.7;
-        scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
-        hiddenSelectionsTextures[]=
-        {
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
-            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
-        };
-    };
+            "Testmod\Kitty_set\
 	
 	
 	
