@@ -1536,7 +1536,339 @@ class CfgVehicles
         hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
+            "Testmod\Donut_set\woolgloves_donut.paa",
+            "Testmod\Donut_set\woolgloves_donut.paa",
+            "Testmod\Donut_set\woolgloves_donut.paa"
+        };
+    };
+    
+    class LR_hunting_bag_Donut: HuntingBag
+    {
+        displayName="Donut Bag";
+        descriptionShort="Like a million donuts in this thing, i swear";
+        itemsCargoSize[] = {10,8};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\hunting_bag_donut.paa",
+            "Testmod\Donut_set\hunting_bag_donut.paa",
+            "Testmod\Donut_set\hunting_bag_donut.paa"
+        };
+    };
+    
+    class LR_Donut_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="Donut Jacket";
+        descriptionShort="Hi, welcome to DD! How can i take your order?";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\quiltedjacket_donut.paa",
+            "Testmod\Donut_set\quiltedjacket_donut.paa",
+            "Testmod\Donut_set\quiltedjacket_donut.paa"
+        };
+    };
+    
+    class LR_Donut_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Donut Boots";
+        descriptionShort="A donut on each toe keeps the doctor away";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\militaryboots_donut.paa",
+            "Testmod\Donut_set\militaryboots_donut.paa",
+            "Testmod\Donut_set\militaryboots_donut.paa"
+        };
+    };
+    
+    class LR_Donut_pants: CargoPants_ColorBase
+    {
+        displayName="Donut Pants";
+        descriptionShort="Deez Doh'nuts";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\cargopants_donut.paa",
+            "Testmod\Donut_set\cargopants_donut.paa",
+            "Testmod\Donut_set\cargopants_donut.paa"
+        };
+    };
+    
+    class LR_Donut_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Donut Face";
+        descriptionShort="Not an insult, if anything it's a compliment";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\balaclava_donut.paa",
+            "Testmod\Donut_set\balaclava_donut.paa",
+            "Testmod\Donut_set\balaclava_donut.paa"
+        };
+    };
+    
+    class LR_mich2001_Donut: Mich2001Helmet
+    {
+        displayName="Donut Helmet";
+        descriptionShort="Yeah this thing ain't protecting sh*t";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\mich2001_donut.paa",
+            "Testmod\Donut_set\mich2001_donut.paa",
+            "Testmod\Donut_set\mich2001_donut.paa"
+        };
+    };
+    
+    class LR_Donut_plate: PlateCarrierVest
+    {
+        displayName="Donut Plate";
+        descriptionShort="Whoever loots your body will see donuts, but will never have known them like you did...";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa"
+        };
+    };
+    
+    class LR_Donut_plate_pouches: PlateCarrierPouches
+    {
+        displayName="Donut Pouch";
+        descriptionShort="I've shoved so many donuts in here, it's become a ball of cake practically";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa"
+        };
+    };
+    
+    class LR_Donut_plate_Holster: PlateCarrierHolster
+    {
+        displayName="Donut Holster";
+        descriptionShort="Let's be honest, a donut is getting stored in here";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa",
+            "Testmod\Donut_set\ballisticvest_donut.paa"
+        };
+    };
+    
+    // --- SPOOKY SET ---
+    class LR_Spooky_gloves: WoolGloves_ColorBase
+    {
+        displayName="BoO Gloves";
+        descriptionShort="Spooky Hands!";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa",
+            "Testmod\Spooky_set\woolgloves_spooky.paa"
+        };
+    };
+    
+    class LR_hunting_bag_Spooky: HuntingBag
+    {
+        displayName="Bag of BoOoOoOos";
+        descriptionShort="The spookiest bag in all of town";
+        itemsCargoSize[] = {10,8};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\hunting_bag_spooky.paa",
+            "Testmod\Spooky_set\hunting_bag_spooky.paa",
+            "Testmod\Spooky_set\hunting_bag_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_jacket: M65Jacket_ColorBase
+    {
+        displayName="Spooky Jacket";
+        descriptionShort="Worn by a real ghost";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\m65_jacket_spooky.paa",
+            "Testmod\Spooky_set\m65_jacket_spooky.paa",
+            "Testmod\Spooky_set\m65_jacket_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_boots: MilitaryBoots_ColorBase
+    {
+        displayName="BoOoOots!";
+        descriptionShort="Spooky boots";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\militaryboots_spooky.paa",
+            "Testmod\Spooky_set\militaryboots_spooky.paa",
+            "Testmod\Spooky_set\militaryboots_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_pants: CargoPants_ColorBase
+    {
+        displayName="Spooky Pants";
+        descriptionShort="Scaredy Pants!";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\cargopants_spooky.paa",
+            "Testmod\Spooky_set\cargopants_spooky.paa",
+            "Testmod\Spooky_set\cargopants_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_mask: BalaclavaMask_ColorBase
+    {
+        displayName="BoOoOo Mask!";
+        descriptionShort="Ghost Mask";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\balaclava_spooky.paa",
+            "Testmod\Spooky_set\balaclava_spooky.paa",
+            "Testmod\Spooky_set\balaclava_spooky.paa"
+        };
+    };
+    
+    class LR_mich2001_Spooky: Mich2001Helmet
+    {
+        displayName="Spooky Helmet";
+        descriptionShort="better protection than a pumpkin";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\mich2001_spooky.paa",
+            "Testmod\Spooky_set\mich2001_spooky.paa",
+            "Testmod\Spooky_set\mich2001_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_plate: PlateCarrierVest
+    {
+        displayName="Spooky Plate!";
+        descriptionShort="Great defense against ghosts!";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_plate_pouches: PlateCarrierPouches
+    {
+        displayName="Spooky Pouches";
+        descriptionShort="Holds Candy if needed";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa"
+        };
+    };
+    
+    class LR_Spooky_plate_Holster: PlateCarrierHolster
+    {
+        displayName="Spooky Holster";
+        descriptionShort="boOoOoOo!";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa",
+            "Testmod\Spooky_set\ballisticvest_black_spooky.paa"
+        };
+    };
+    
+    // --- FANTASIZE INDEPENDENT GEAR ---
+    class LR_FANTASIZE_jacket: QuiltedJacket_ColorBase
+    {
+        displayName="FANTASIZE";
+        descriptionShort="THE MAN THE MYTH THE LEGEND";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\quiltedjacket_FANTASIZE2.paa",
+            "Testmod\quiltedjacket_FANTASIZE2.paa",
+            "Testmod\quiltedjacket_FANTASIZE2.paa"
+        };
+    };
+};  
 
+// --- WEAPONS CONFIGURATION ---
+class CfgWeapons
+{
+    class M4A1;
+    class MK4Optic_ColorBase;
 
-
-
+    class LR_M4_Custom1: M4A1
+    {
+        displayName="M4NeonLights";
+        descriptionShort="Lasers and such...";
+        scope=2;
+        hiddenSelections[]= {"camo"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Neon_m4_set\m4_neon.paa",
+            "Testmod\Neon_m4_set\m4_neon.paa",
+            "Testmod\Neon_m4_set\m4_neon.paa"
+        };
+    };
+};
