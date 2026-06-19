@@ -1852,7 +1852,8 @@ class CfgVehicles
     };
 };  
 
-// --- WEAPONS CONFIGURATION ---
+// --- WEAPONS CONFIGURATION (COMMENTED OUT) ---
+/*
 class CfgWeapons
 {
     class M4A1;
@@ -1872,3 +1873,4 @@ class CfgWeapons
         };
     };
 };
+*/
