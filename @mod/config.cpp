@@ -736,7 +736,7 @@ class CfgVehicles
         };
     };
     
-// --- KITTY SET ---
+    // --- KITTY SET ---
     class LR_Kitty_gloves: WoolGloves_ColorBase
     {
         displayName="You gotta be kitten me gloves";
@@ -749,6 +749,144 @@ class CfgVehicles
             "Testmod\Kitty_set\woolgloves_black_kitty.paa",
             "Testmod\Kitty_set\woolgloves_black_kitty.paa",
             "Testmod\Kitty_set\woolgloves_black_kitty.paa"
+        };
+    };
+    
+    class LR_hunting_bag_kitty: HuntingBag
+    {
+        displayName="Pussy pack";
+        descriptionShort="holds up to 4 cats comfortably";
+        itemsCargoSize[] = {10,8};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\hunting_bag_kitty.paa",
+            "Testmod\Kitty_set\hunting_bag_kitty.paa",
+            "Testmod\Kitty_set\hunting_bag_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_jacket: M65Jacket_ColorBase
+    {
+        displayName="Kitten Koat";
+        descriptionShort="Cat jacket...";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa",
+            "Testmod\Kitty_set\m65_jacket_black_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_boots: MilitaryBoots_ColorBase
+    {
+        displayName="Kitten Booties";
+        descriptionShort="check your boots before putting on, might be a cat in there";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa",
+            "Testmod\Kitty_set\militaryboots_black_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_pants: CargoPants_ColorBase
+    {
+        displayName="Pussy Pants";
+        descriptionShort="...or scaredy cat";
+        itemsCargoSize[] = {7,5};
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\cargopants_black_kitty.paa",
+            "Testmod\Kitty_set\cargopants_black_kitty.paa",
+            "Testmod\Kitty_set\cargopants_black_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_mask: BalaclavaMask_ColorBase
+    {
+        displayName="Kitten Face";
+        descriptionShort="What's the matter? Cat got your tongue?";
+        heatIsolation = 1;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\balaclava_black_kitty.paa",
+            "Testmod\Kitty_set\balaclava_black_kitty.paa",
+            "Testmod\Kitty_set\balaclava_black_kitty.paa"
+        };
+    };
+    
+    class LR_mich2001_kitty: Mich2001Helmet
+    {
+        displayName="Kitten Helmet";
+        descriptionShort="....better than pussy hat";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\mich2001_kitty.paa",
+            "Testmod\Kitty_set\mich2001_kitty.paa",
+            "Testmod\Kitty_set\mich2001_kitty.paa"
+        };
+    };
+    
+    class LR_kitty_plate: PlateCarrierVest
+    {
+        displayName="Cat Plate";
+        descriptionShort="not a pussy anymore";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_plate_pouches: PlateCarrierPouches
+    {
+        displayName="Kitten Pouch";
+        descriptionShort="Holds up to 5 Kittens!";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
+        };
+    };
+    
+    class LR_Kitty_plate_Holster: PlateCarrierHolster
+    {
+        displayName="Kitten Holster";
+        descriptionShort="Paw-l-ster";
+        heatIsolation = 0.7;
+        scope=2;
+        hiddenSelections[]= {"camoGround"};
+        hiddenSelectionsTextures[]=
+        {
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa",
+            "Testmod\Kitty_set\ballisticvest_black_kitty.paa"
         };
     };
 	
