@@ -88,7 +88,7 @@ class CfgVehicles
     
     //Gloves
     class TacticalGloves_ColorBase;
-    class WoolGloves_ColorBase; // Fixed: Capitalized 'B' to match vanilla naming conventions
+    class WoolGloves_ColorBase;
     
     //Shoes
     class MilitaryBoots_ColorBase;
@@ -345,7 +345,7 @@ class CfgVehicles
         descriptionShort="Holds the stars";
         heatIsolation = 0.7;
         scope=2;
-        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\ballisticvest_space.paa",
@@ -360,7 +360,7 @@ class CfgVehicles
         descriptionShort="Space Gun Holder";
         heatIsolation = 0.7;
         scope=2;
-        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\ballisticvest_space.paa",
@@ -483,7 +483,7 @@ class CfgVehicles
         descriptionShort="Can hold light";
         heatIsolation = 0.7;
         scope=2;
-        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\ballisticvest_neon.paa",
@@ -498,7 +498,7 @@ class CfgVehicles
         descriptionShort="Neon Gun Holder";
         heatIsolation = 0.7;
         scope=2;
-        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
+        hiddenSelections[]= {"camoGround"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\ballisticvest_neon.paa",
@@ -506,6 +506,7 @@ class CfgVehicles
             "Testmod\Neon_set\ballisticvest_neon.paa"
         };
     };
+};
 	
 	
 	
