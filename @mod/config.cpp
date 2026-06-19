@@ -26,6 +26,7 @@ class CfgPatches
         };
     };
 };
+
 class CfgVehicles
 {
     class Clothing;
@@ -85,10 +86,9 @@ class CfgVehicles
     class PlateCarrierHolster;
     class PlateCarrierPouches;
     
-    
     //Gloves
     class TacticalGloves_ColorBase;
-	class WoolGloves_Colorbase;
+    class WoolGloves_ColorBase; // Fixed: Capitalized 'B' to match vanilla naming conventions
     
     //Shoes
     class MilitaryBoots_ColorBase;
@@ -101,9 +101,8 @@ class CfgVehicles
     class Container_Base;
     class FirefighterAxe;
     class SantasHat;
-	
     
-    
+    // --- ANIME SHIRTS ---
     class LR_anime_shirt: QuiltedJacket_ColorBase
     {
         displayName="Zack";
@@ -111,6 +110,7 @@ class CfgVehicles
         itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Anime\anime1.paa",
@@ -119,14 +119,14 @@ class CfgVehicles
         };
     };
     
-	
-	    class LR_anime_shirt3: QuiltedJacket_ColorBase
+    class LR_anime_shirt3: QuiltedJacket_ColorBase
     {
         displayName="Lust";
         descriptionShort="don't fall for it...";
         itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Anime\anime2.paa",
@@ -134,16 +134,15 @@ class CfgVehicles
             "Testmod\Anime\anime2.paa"
         };
     };
-	
-
-	
-		class LR_anime_shirt5: QuiltedJacket_ColorBase
+    
+    class LR_anime_shirt5: QuiltedJacket_ColorBase
     {
         displayName="cowgirl";
         descriptionShort="hey there...";
         itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Anime\anime.paa",
@@ -151,15 +150,15 @@ class CfgVehicles
             "Testmod\Anime\anime.paa"
         };
     };
-	
-	
-		    class LR_anime_shirt4: QuiltedJacket_ColorBase
+    
+    class LR_anime_shirt4: QuiltedJacket_ColorBase
     {
         displayName="Warrior Status";
         descriptionShort="legends never die!";
         itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Anime\quiltedjacket_warrior.paa",
@@ -167,16 +166,15 @@ class CfgVehicles
             "Testmod\Anime\quiltedjacket_warrior.paa"
         };
     };
-	
-
-	
-		class LR_anime_shirt6: QuiltedJacket_ColorBase
+    
+    class LR_anime_shirt6: QuiltedJacket_ColorBase
     {
         displayName="Tough";
         descriptionShort="you sexy bitch";
         itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Anime\quiltedjacket_smoke.paa",
@@ -184,15 +182,16 @@ class CfgVehicles
             "Testmod\Anime\quiltedjacket_smoke.paa"
         };
     };
-	
-	
-			class LR_hunting_bag_space: HuntingBag
+    
+    // --- SPACE SET ---
+    class LR_hunting_bag_space: HuntingBag
     {
         displayName="hunter space backpack";
         descriptionShort="up, up and away...";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\hunting_bag_space.paa",
@@ -200,14 +199,15 @@ class CfgVehicles
             "Testmod\Space_set\hunting_bag_space.paa"
         };
     };
-	
-				class LR_hunting_bag1: HuntingBag
+    
+    class LR_hunting_bag1: HuntingBag
     {
         displayName="hunter neon backpack";
         descriptionShort="pretty lights";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\hunting_bag_neon.paa",
@@ -215,15 +215,15 @@ class CfgVehicles
             "Testmod\Neon_set\hunting_bag_neon.paa"
         };
     };
-	
-	
-					class LR_hunting_bag2: HuntingBag
+    
+    class LR_hunting_bag2: HuntingBag
     {
         displayName="hunter galaxy backpack";
         descriptionShort="space man...";
         itemsCargoSize[] = {10,8};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\hunting_bag_galaxy.paa",
@@ -231,14 +231,14 @@ class CfgVehicles
             "Testmod\hunting_bag_galaxy.paa"
         };
     };
-	
-	
-						class LR_Space_gloves: WoolGloves_Colorbase
+    
+    class LR_Space_gloves: WoolGloves_ColorBase
     {
         displayName="Wool space gloves";
         descriptionShort="intergalactic finger holes...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\woolgloves_space.paa",
@@ -246,13 +246,14 @@ class CfgVehicles
             "Testmod\Space_set\woolgloves_space.paa"
         };
     };
-	
-							class LR_mich2001_space: Mich2001Helmet
+    
+    class LR_mich2001_space: Mich2001Helmet
     {
         displayName="Space Helmet";
         descriptionShort="forgot the oxygen tank...";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\mich2001_space.paa",
@@ -260,14 +261,14 @@ class CfgVehicles
             "Testmod\Space_set\mich2001_space.paa"
         };
     };
-	
-	
-								class LR_Space_mask: BalaclavaMask_ColorBase
+    
+    class LR_Space_mask: BalaclavaMask_ColorBase
     {
         displayName="Space mask";
         descriptionShort="face of space";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\balaclava_space.paa",
@@ -275,15 +276,15 @@ class CfgVehicles
             "Testmod\Space_set\balaclava_space.paa"
         };
     };
-	
-	
-									class LR_Space_pants: CargoPants_ColorBase
+    
+    class LR_Space_pants: CargoPants_ColorBase
     {
         displayName="space pants";
         descriptionShort="put your hands down my pants, and i'll bet you feel space...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\cargopants_space.paa",
@@ -291,14 +292,14 @@ class CfgVehicles
             "Testmod\Space_set\cargopants_space.paa"
         };
     };
-	
-	
-									class LR_Space_boots: MilitaryBoots_ColorBase
+    
+    class LR_Space_boots: MilitaryBoots_ColorBase
     {
         displayName="Space shoes";
         descriptionShort="not the same 90's space boots you're thinking of...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\militaryboots_space.paa",
@@ -306,15 +307,15 @@ class CfgVehicles
             "Testmod\Space_set\militaryboots_space.paa"
         };
     };
-	
-	
-										class LR_Space_jacket: M65Jacket_ColorBase
+    
+    class LR_Space_jacket: M65Jacket_ColorBase
     {
         displayName="space jacket";
         descriptionShort="jacket in space...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\m65_jacket_space.paa",
@@ -322,19 +323,14 @@ class CfgVehicles
             "Testmod\Space_set\m65_jacket_space.paa"
         };
     };
-	
-											class LR_Space_plate: PlateCarrierVest
+    
+    class LR_Space_plate: PlateCarrierVest
     {
         displayName="space plate";
         descriptionShort="a space for plates...";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\ballisticvest_space.paa",
@@ -342,18 +338,14 @@ class CfgVehicles
             "Testmod\Space_set\ballisticvest_space.paa"
         };
     };
-	
-																				class LR_Space_plate_pouches: PlateCarrierPouches
+    
+    class LR_Space_plate_pouches: PlateCarrierPouches
     {
         displayName="Space Pouches";
         descriptionShort="Holds the stars";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\ballisticvest_space.paa",
@@ -361,19 +353,14 @@ class CfgVehicles
             "Testmod\Space_set\ballisticvest_space.paa"
         };
     };
-	
-	
-																					class LR_Space_plate_Holster: PlateCarrierHolster
+    
+    class LR_Space_plate_Holster: PlateCarrierHolster
     {
         displayName="Space Holster";
         descriptionShort="Space Gun Holder";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
         hiddenSelectionsTextures[]=
         {
             "Testmod\Space_set\ballisticvest_space.paa",
@@ -381,22 +368,15 @@ class CfgVehicles
             "Testmod\Space_set\ballisticvest_space.paa"
         };
     };
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-							class LR_Neon_gloves: WoolGloves_Colorbase
+    
+    // --- NEON SET ---
+    class LR_Neon_gloves: WoolGloves_ColorBase
     {
         displayName="Neon gloves";
         descriptionShort="light fingers...";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\woolgloves_neon.paa",
@@ -404,13 +384,14 @@ class CfgVehicles
             "Testmod\Neon_set\woolgloves_neon.paa"
         };
     };
-	
-								class LR_mich2001_neon: Mich2001Helmet
+    
+    class LR_mich2001_neon: Mich2001Helmet
     {
         displayName="Neon Helmet";
         descriptionShort="light helmet...";
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\mich2001_neon.paa",
@@ -418,13 +399,14 @@ class CfgVehicles
             "Testmod\Neon_set\mich2001_neon.paa"
         };
     };
-	
-									class LR_Neon_mask: BalaclavaMask_ColorBase
+    
+    class LR_Neon_mask: BalaclavaMask_ColorBase
     {
         displayName="Neon mask";
         descriptionShort="Neon face of lights";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\balaclava_neon.paa",
@@ -432,14 +414,15 @@ class CfgVehicles
             "Testmod\Neon_set\balaclava_neon.paa"
         };
     };
-	
-										class LR_Neon_pants: CargoPants_ColorBase
+    
+    class LR_Neon_pants: CargoPants_ColorBase
     {
         displayName="Neon Pants";
         descriptionShort="A party of lights in my pants";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 0.7;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\cargopants_neon.paa",
@@ -447,13 +430,14 @@ class CfgVehicles
             "Testmod\Neon_set\cargopants_neon.paa"
         };
     };
-	
-										class LR_Neon_boots: MilitaryBoots_ColorBase
+    
+    class LR_Neon_boots: MilitaryBoots_ColorBase
     {
         displayName="Light Walking";
         descriptionShort="How about a light walk?";
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\militaryboots_neon.paa",
@@ -461,14 +445,15 @@ class CfgVehicles
             "Testmod\Neon_set\militaryboots_neon.paa"
         };
     };
-	
-											class LR_Neon_jacket: M65Jacket_ColorBase
+    
+    class LR_Neon_jacket: M65Jacket_ColorBase
     {
         displayName="Neon Light Jacket";
         descriptionShort="jacket in space...";
-		itemsCargoSize[] = {7,5};
+        itemsCargoSize[] = {7,5};
         heatIsolation = 1;
         scope=2;
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\m65_jacket_neon.paa",
@@ -476,19 +461,14 @@ class CfgVehicles
             "Testmod\Neon_set\m65_jacket_neon.paa"
         };
     };
-	
-																			class LR_Neon_plate: PlateCarrierVest
+    
+    class LR_Neon_plate: PlateCarrierVest
     {
         displayName="Neon Plate";
         descriptionShort="Light Protection";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-            "camoMale",
-            "camoFemale"
-        };
+        hiddenSelections[]= {"camoGround","camoMale","camoFemale"};
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\ballisticvest_neon.paa",
@@ -496,18 +476,14 @@ class CfgVehicles
             "Testmod\Neon_set\ballisticvest_neon.paa"
         };
     };
-	
-																											class LR_Neon_plate_pouches: PlateCarrierPouches
+    
+    class LR_Neon_plate_pouches: PlateCarrierPouches
     {
         displayName="Neon Pouches";
         descriptionShort="Can hold light";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\ballisticvest_neon.paa",
@@ -515,19 +491,14 @@ class CfgVehicles
             "Testmod\Neon_set\ballisticvest_neon.paa"
         };
     };
-	
-	
-																						class LR_Neon_plate_Holster: PlateCarrierHolster
+    
+    class LR_Neon_plate_Holster: PlateCarrierHolster
     {
         displayName="Neon Holster";
         descriptionShort="Neon Gun Holder";
         heatIsolation = 0.7;
         scope=2;
-				        hiddenSelections[]=
-        {
-            "camoGround",
-
-        };
+        hiddenSelections[]= {"camoGround"}; // Fixed trailing comma syntax error
         hiddenSelectionsTextures[]=
         {
             "Testmod\Neon_set\ballisticvest_neon.paa",
